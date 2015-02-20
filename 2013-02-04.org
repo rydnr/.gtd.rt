@@ -1,0 +1,11 @@
+* 2013-02-04
+** TODO Fix #6469 (nlp-common / queryj)
+** TODO dvorak training
+** TODO Research pulse audio (windows client, Linux server)
+** TODO Create project for process monitoring.
+** TODO Review Apache logs for plain-text passwords.
+** Personal stuff
+*** TODO Call doctor to schedule an appointment.
+*** TODO Call dentist to schedule an appointment.
+*** TODO Call car repair to schedule an appointment.
+*** TODO Buy Rooted ticket.

@@ -1,0 +1,16 @@
+* RT
+** Setup a new project
+- Create a new repostory in github: .[project].rt, with no files (no readme, license or .gitignore).
+- mkdir /tmp/[project].rt; cd /tmp/[project].rt
+- echo '# .[project].rt' >> README.md.rt
+- git init
+- git add README.md.rt
+- git commit -m"First commit"
+- git remote add origin https://github.com/rydnr/.[project].rt.git
+- git push -u origin master
+- Run rt-client.sh init https://github.com/rydnr/.[project].rt.git from within the local checkout of [project].git
+** Add the target repository to rt.sh and rt-push.sh
+** Add a Bash alias to ~/.bashrc-aliases
+** logout and log in again
+
+

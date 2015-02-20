@@ -1,0 +1,310 @@
+#:LINKS  -*- mode: org; fill-column: 78 -*-
+#:PROPERTIES:
+:LOGGING: TODO(!) DONE(!)
+:END:
+* Firefox
+#+CATEGORY: Firefox
+** [[https://github.com/aristus/packet-flight][Packet-flight: tcpdump to Processing animation]] :hacking:tcpip:processing:animation:visualization:
+** [[http://cvtalize.com/][Beautiful resumes CV]]                                          :cv:resumes:
+** [[https://news.ycombinator.com/item?id%3D8781966][From web dev to game dev]]                      :programming:webdev:gamedev:
+** Postel's principle is a bad idea: http://programmingisterrible.com/post/42215715657/postels-principle-is-a-bad-idea :programming:
+** Taking control of chaos with docker and puppet: http://es.slideshare.net/PuppetLabs/docker-puppetcamp-london :docker:puppet:
+** Six container orchestration frameworks to keep an eye on: http://www.perehospital.cat/blog/six-container-orchestration-frameworks-to-keep-an-eye-on :docker:deis:flynn:mesos:maestrong:tsuru:
+** OpenStreetMap and Pharo: http://pillarhub.pharocloud.com/hub/ThierryGoubier/5y08m9uu71o8i7a35ijwr766p :pharo:openstreetmap:smalltalk:
+** SecurityXploded 2nd Quartely Meet: http://securitytrainings.net/securityxploded-2nd-quarterly-meet-27th-sep-2014/ :security:hacking:
+** Spreecast: http://www.spreecast.com/users/rydnr
+** Owncloud: https://owncloud.org/features/		       :owncloud:php:
+** Webinar Google Analytics: http://www.tatvic.com/webinar/universal-analytics/?utm_source=ua_webinar_non_attendes&utm_medium=email&utm_campaign=ua_webinar_recording# :webinar:googleanalytics:
+** Smalltalk 101: http://gemstonesoup.wordpress.com/smalltalk-101/ :smalltalk:
+** Setting up puppet agents in Docker containers: http://www.dev2ops.in/setting-up-puppet-agents-in-docker-containers/ :docker:puppet:
+** Squashing Docker images: http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/ :docker:
+** Docker service discovery using etcd and haproxy: http://jasonwilder.com/blog/2014/07/15/docker-service-discovery/ :docker:haproxy:etcd:
+** Automated nginx reverse proxy for Docker: http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/ :docker:nginx:
+** Docker log management using Fluentd: http://jasonwilder.com/blog/2014/03/17/docker-log-management-using-fluentd/ :docker:fluentd:log:
+** geeklist: https://geekli.st					   :geeklist:
+** CartoDB - Create amazing maps with your data: http://cartodb.com/   :maps:
+** Whiteboard.co: http://whiteboard.co/
+** PerfBar: Simple way to collect and look at website performance metrics: https://lafikl.github.io/perfBar/ :performance:monitoring:perfbar:
+** Kubernetes + vagrant: https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/getting-started-guides/vagrant.md :kubernetes:docker:vagrant:cluster:
+** PaaS shoot-out: CloudFoundry vs OpenShift: http://www.infoworld.com/article/2608610/cloud-computing/cloud-computing-paas-shoot-out-cloud-foundry-vs-openshift.html :openshift:paas:cloudfoundry:
+** Oracle hasn't killed Java - but there's still time: http://www.infoworld.com/article/2608647/application-development/oracle-hasn-t-killed-java----but-there-s-still-time.html :java:
+** Webinar: A playful introduction to Rx: http://blog.jetbrains.com/idea/2014/07/webinar-recording-a-playful-introduction-to-rx-by-erik-meijer/?mkt_tok=3RkMMJWWfF9wsRokva3PZKXonjHpfsX%2F6u0kXaO0lMI%2F0ER3fOvrPUfGjI4CSsVgI%2BSLDwEYGJlv6SgFTrLDMbF23rgMWhU%3D :reactive:webinar:
+** Customizing IntelliJ for Emacs: http://spin.atomicobject.com/2014/08/07/intellij-emacs/ :emacs:intellij:
+** Being alone: http://jessepollak.me/doing-things-alone/	       :blog:
+** 911 suspects .. : http://www.allgov.com/news/controversies/911-suspects-cant-mention-being-tortured-during-trial-testimony-because-their-torture-is-classified-131028?news=851498 :politics:
+** Scientists identify a mathematical "crystal ball" that may predict calamities: http://phys.org/news/2013-10-scientists-mathematical-crystal-ball-calamities.html :blog:
+** Git tutorial: https://www.atlassian.com/git				:git:
+** Krugman's theory of interstellar trade: http://blogs.scientificamerican.com/life-unbounded/2013/10/28/krugmans-theory-of-interstellar-trade/ :politics:economics:
+** Time is money: a cheat sheet to help boost your productivity and get shit done:  http://startupworkout.com/time-is-money-a-cheat-sheet-to-boost-your-productivity-and-get-sht-done/ :gtd:
+** Cantor's diagonal proof: http://startupworkout.com/time-is-money-a-cheat-sheet-to-boost-your-productivity-and-get-sht-done/ :math:cantor:
+** Do you use antivirus software? https://news.ycombinator.com/item?id=6635149 :hackernews:
+** Marketing your personal projects: https://www.discovermeteor.com/blog/marketing-your-personal-projects/ :blog:
+** The median of medians algorithm: http://www.austinrochford.com/posts/2013-10-28-median-of-medians.html :blog:math:
+** Rsync time backup: https://github.com/laurent22/rsync-time-backup :rsync:backup:
+** What are you working on and why it's cool? https://news.ycombinator.com/item?id=6617551 :hackernews:
+** Soundslice guitar solo: http://www.soundslice.com/tabs/4976/electric-guitar-solo-crazy-sweep-picking-arpeggios-praxis-etude-no-2-tab/ :music:
+** Visualizing the Guardian datablog: http://www.informationisbeautiful.net/2009/visualising-the-guardian-datablog/ :math:data:
+** Beauty of mathematics video: http://vimeo.com/77330591	 :math:video:
+** Best practices for a pragmatic restful api: http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api :rest:
+** Peak: http://www.usepeak.com/				       :tool:
+** Mipmapping, part 1: number-none.com/product/Mipmapping,%20Part%201/index.html :graphics:
+** w3dt: domain toolbox: https://w3dt.net/dashboard/welcome	   :tool:dns:
+** How to decompile Dalvik and Java code: http://blog.leocad.io/how-to-decompile-dalvik-and-java-code/ :java:reversing:
+** Your job or your family: http://siliconunderbelly.blogspot.com.es/2013/10/your-job-or-your-family.html :blog:
+** Hacker dissassembling uncovered: https://hex-wood.com/blog/?p=26 :reversing:book:
+** Setting up a custom domain with GitHub pages: https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/#setting-the-domain-in-your-repo :github:
+** User, organization and project pages: https://help.github.com/articles/user-organization-and-project-pages/ :github:
+** Jekyll: http://jekyllrb.com/docs/pagination/		      :jekyll:github:
+** Markdown: http://daringfireball.net/projects/markdown/index.text :markdown:
+** Yubikey ebuilds and patches for gentoo: http://stuartl.longlandclan.yi.org/blog/2011/02/17/yubikey-ebuilds-and-patches-for-gentoo/ :yubikey:gentoo:
+** Yubikey config: https://christiaanconover.com/blog/yubikeyconfig :yubikey:
+** I know none of my passwords: http://aley.me/passwords   :yubikey:lastpass:
+** Automated testing that doesn't hurt: http://watir.com/      :testing:tool:
+** Approaches to performance testing: http://www.oracle.com/technetwork/articles/entarch/performance-testing-095962.html :testing:performance:
+** Load testing by example: http://www.webperformance.com/library/tutorials/BestPractices/ :testing:tool:performance:
+** How to write a good performance test case: http://loadtestcrew.com/2013/02/performance-test-cases/ :testing:performance:
+** tmux cheatsheet: https://gist.github.com/henrik/1967800	       :tmux:
+** Hour of code: http://csedweek.org/learn			 :hourofcode:
+** Hello OSGi: http://www.javaworld.com/article/2077837/java-se/hello--osgi--part-1--bundles-for-beginners.html :java:osgi:
+** Relationship to minimum set covering: http://nerdland.net/the-lottery-problem/relationship-to-minimum-set-covering/ :math:lottery:
+** How many elements with Hamming distance of 3 or less? http://mathoverflow.net/questions/67041/how-many-elements-with-a-hamming-distance-of-3-or-less/67104#67104 :math:lottery:
+** Test-driving some big wheels: http://www.lottoforums.com/lottery/lotto-wheels/12983-test-driving-some-big-wheels.html :math:lottery:
+** Ideas, Philosophy, Mathematics, Science, Software, God, Universe, Randomness, Absurdity of Absolute Certainty: http://saliu.com/ :lottery:
+** The Myth of lottery wheels: http://saliu.com/bbs/messages/11.html :lottery:
+** Leiningen tutorial: https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md :leiningren:clojure:
+** Best lottery wheel generator: http://lottery.merseyworld.com/Perms.html :lottery:
+** Sell digital downloads: https://sellfy.com/ 
+** Setup Clojure environment in emacs: http://clojure-doc.org/articles/tutorials/emacs.html :emacs:clojure:
+** Radically simplified Emacs and SLIME setup: https://groups.google.com/forum/#!topic/clojure/kdTxMJCvuHY :emacs:slime:
+** Clojure + emacs http://technomancy.us/149		      :emacs:clojure:
+** Clojure emacs mode: https://github.com/clojure-emacs/clojure-mode :emacs:clojure:
+** Marmalade-repo Emacs repository: https://marmalade-repo.org/	      :emacs:
+** elpa: emacs lisp package archive: http://tromey.com/elpa/install.html :emacs:
+** Clojure, emacs, nREPL and Leiningren: http://www.kedrovsky.com/blog/2012/08/19/clojure-emacs-nrepl-and-leiningen/ :emacs:clojure:leiningren:nrepl:
+** My clojure emacs setup: http://bowmanb.com/blog/2013/07/09/my-clojure-emacs-setup.html :emacs:clojure:
+** Trello makespace madrid: https://trello.com/makespacemadrid	  :makespace:
+** Module for managing Docker hosts with puppet: http://docs.docker.com/articles/puppet/ :docker:puppet:
+** Arquilian Performance extension: https://docs.jboss.org/author/display/ARQ/Performance?_sscc=t :arquilian:
+** Software quality study: scores decline with more frequent releases: https://groups.google.com/forum/?fromgroups#!topic/continuousdelivery/XyQCguQmP50 :softwareengineering:continuousdelivery:
+** Performance testing for webapps: https://theholyjava.wordpress.com/wiki/development/testing/performance-testing-for-webapps-notes/ :testing:performance:
+** Buckminster Fuller - Everything I know: https://archive.org/search.php?query=collection%3Abuckminsterfuller&sort=-publicdate :video:
+** Browser extension password managers review: https://isecpartners.github.io/whitepapers/passwords/2013/11/05/Browser-Extension-Password-Managers.html :password:
+** IDEas: tools for coders: https://isecpartners.github.io/whitepapers/passwords/2013/11/05/Browser-Extension-Password-Managers.html :emacs:
+** I wrote the Anarchist Cookbook in 1969 http://www.theguardian.com/commentisfree/2013/dec/19/anarchist-cookbook-author-william-powell-out-of-print :blog:
+** Startup Genome Founders Launch Next-Gen Benchmarking Tool For Startups: http://techcrunch.com/2013/12/20/backed-by-steve-blank-more-startup-genome-founders-launch-next-gen-benchmarking-tool-for-startups/ :blog:
+** Data structure visualizations: http://www.cs.usfca.edu/~galles/visualization/Algorithms.html :algorithms:visualization:data:
+** Debugging with git bisect: http://randyfay.com/content/debugging-git-bisect :git:
+** My hardest bug: http://www.peterlundgren.com/blog/my-hardest-bug/   :blog:
+** Onion terminal: Terminal in a browser: http://www.coralbits.com/oterm/ :xterm:tool:
+** The taxonomy of terrible programmers: http://www.aaronstannard.com/post/2013/12/19/The-Taxonomy-of-Terrible-Programmers.aspx :blog:
+** Ultimate Developer and Power Users Tool List for Windows: http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx :tool:windows:
+** Press Release Template: http://www.mediacollege.com/journalism/press-release/format.html :blog:
+** Rapid AngularJS prototyping without a real backend: http://www.codeorbits.com/blog/2013/12/20/rapid-angularjs-prototyping-without-real-backend/ :angularjs:
+** Emacs minor mode for wakatime: https://github.com/nyuhuhuu/wakatime-mode :emacs:
+** The four architectures that will inspire your programming: http://andrzejonsoftware.blogspot.in/2013/12/the-four-architectures-that-will.html :programming:
+** Really simple responsive html email template: https://github.com/leemunroe/html-email-template :email:
+** Apache sirona: simple and extensible monitoring solution for Java applications: https://sirona.incubator.apache.org/plugins.html :sirona:monitoring:java:
+** How-to OpenVPN: http://forums.gentoo.org/viewtopic-p-7456036.html :openvpn:gentoo:
+** Firmware router Orange HG532c http://comunidad.orange.es/t5/Mi-L%C3%ADnea/Firmware-HG532c-nueva-version-Orange/m-p/117368#M3975 :home:
+** How can I edit JS in my browser like I can use Firebug to edit CSS/HTML? :javascript:
+** Fiddler web debugging tool: http://www.telerik.com/download/fiddler :tool:debug:web:
+** I never finish anything: https://news.ycombinator.com/item?id=7075537 :hackernews:blog:
+** JS the right way: http://jstherightway.org/			  :blog:book:
+** Misconceptions about forward-secrecy: https://blog.thijsalkema.de/blog/2014/01/17/misconceptions-about-forward-secrecy/ :security:blog:
+** Which Linux distro is useful for kids? http://www.linux.org/threads/which-linux-distro-is-useful-for-kids.3944/ :linux:kids:
+** Ebuilds for Scratch: https://bugs.gentoo.org/show_bug.cgi?id=368985 :scratch:gentoo:
+** Linux software for kids: www.lifehack.org/articles/technology/linux-for-children.html :linux:kids:
+** Scratch: how to make a car game: https://www.youtube.com/watch?v=QNrK4eprHSY :kids:scratch:video:
+** Minino: Linux  https://www.youtube.com/watch?v=QNrK4eprHSY	      :linux:
+** Katas for kids: http://kata.coderdojo.com/wiki/Kids_all_at_Different_Levels :kata:kids:
+** Oracle data types: http://docs.oracle.com/cd/E11882_01/server.112/e26088/sql_elements001.htm#SQLRF30020 :oracle:
+** Raspberri Pi Firewall and IDS: http://www.instructables.com/id/Raspberry-Pi-Firewall-and-Intrusion-Detection-Syst/step3/Secure-Password/ :raspberry:diy:
+** HTML5/JS local clock demo: file:///home/chous/github/code/ch01/example-1.13/example.html :js:html5:
+** Rafa Luque's Success through Failure in Software Development: Autonomation using Aspect-Oriented Poka-Yokes: https://www.authorea.com/users/2401/articles/2476 :pokayokes:rafa:article:
+** Core VIM Class: http://vimcasts.org/training/core-vim/	 :vim:course:
+** Peer to peer videos: http://peertopeer.io/			     :videos:
+** SEO browser: http://kryonsecurity.blogspot.nl/2012/08/seo-browser.html :seo:
+** German dictionary: https://dict.leo.org			     :german:
+** Mailvelope: openpgp encryption for webmail (browser extension): https://www.mailvelope.com/ :encryption:mail:
+** Graal instructions: https://wiki.openjdk.java.net/display/Graal/Instructions :jvm:graal:
+** Graal debugging: https://wiki.openjdk.java.net/display/Graal/Debugging :jvm:graal:
+** C1visualizer: visualization tool for the Java Hotspot client compiler: https://java.net/projects/c1visualizer/ :java:tool:visualization:
+** Using NodeJS + Grunt for HTML5 Build scripts: https://www.youtube.com/watch?v=_dDcp8Kv5I4 :nodejs:grunt:video:html5:
+** Automatically reload browser when files are modified: https://github.com/guard/guard-livereload :ruby:tool:
+** JQuery Game of life: https://www.youtube.com/watch?v=fwwg81Zsj3c :kata:jquery:
+** Grunt FAQ: http://gruntjs.com/frequently-asked-questions    :nodejs:grunt:
+** How to record and share terminal screencasts quickly: http://www.omgubuntu.co.uk/2012/04/how-to-record-and-share-terminal-screencasts-quickly :linux:screencasts:
+** Shelr.tv: Service for terminal screencasting https://github.com/shelr/shelr.tv :screencasts:
+** Grunt maven tasks: https://www.npmjs.org/package/grunt-maven-tasks :maven:java:grunt:
+** Impostor syndrome: https://en.wikipedia.org/wiki/Impostor_syndrome :wikipedia:psychology:
+** Dunning-Kruger effect: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect :wikipedia:psychology:
+** Papa Carlo: Incremental parsers in Scala using PEG grammars http://lakhin.com/projects/papa-carlo/#parser-structure :scala:parser:
+** Java8 tutorial: http://winterbe.com/posts/2014/03/16/java-8-tutorial/ :java:
+** Visualizing Google Analytics Data with R http://online-behavior.com/analytics/r :R:visualization:googleanalytics:
+** JavaSnoop: https://www.aspectsecurity.com/research/appsec_tools/javasnoop :java:reversing:
+** How-to write Spectrum games: http://chuntey.wordpress.com/2012/12/18/how-to-write-zx-spectrum-games-chapter-1/ :spectrum:games:
+** Splunk enterprise Tipp: http://spl-seh-01-hh1.office.tipp24.de:8000/en-US/account/login?return_to=%2Fen-US%2Fapp%2FVentura24%2F
+** Reverse engineering for beginners book: http://beginners.re/ :reversing:book:
+** TDD your API: http://blog.balancedpayments.com/tdd-your-api/	    :tdd:api:
+** Swagger: Document your API with style: https://helloreverb.com/developers/swagger :api:tool:
+** Develop complete J2EE solutions with an eight-step cycle (2001): http://www.javaworld.com/article/2075665/core-java/step-into-the-j2ee-architecture-and-process.html :javaee:
+** Koding DevTools: https://koding.com/DevTools			       :tool:
+** What is rethinkdb: http://rethinkdb.com/videos/what-is-rethinkdb/ :rethinkdb:video:
+** MirageOS: vm image directly into the bare metal: http://openmirage.org/wiki/install :virtualization:
+** HAProxy as a static reverse proxy for Docker containers: http://oskarhane.com/haproxy-as-a-static-reverse-proxy-for-docker-containers/ :docker:haproxy:
+** r10k: Puppet environment and module deployment https://github.com/adrienthebo/r10k :r10k:puppet:
+** Wrap an unix command for mcollective code example: http://blog.mague.com/?p=382 :mcollective:
+** Use the SMART Method to Set Achievable Goals for Your Finances http://lifehacker.com/use-the-smart-method-to-set-achievable-goals-for-your-f-1650257842?utm_campaign=socialflow_lifehacker_twitter&utm_source=lifehacker_twitter&utm_medium=socialflow :gtd:
+** Mcollective plugins: https://docs.puppetlabs.com/mcollective/deploy/plugins.html :mcollective:
+** Installing background and foreground page layers with TikZ: https://tex.stackexchange.com/questions/24140/installing-background-and-foreground-page-layers-with-tikz :tikz:latex:
+** Splunk reporter for the Metrics library https://github.com/zenmoto/metrics-splunk :splunk:metrics:tool:
+** Maven release cascade: http://jorgheymans.blogspot.com.es/2008/03/maven-release-cascade.html :maven:
+** Docker-puppet: docker image for Puppet-automated containers: https://github.com/rfkrocktk/docker-puppet :docker:puppet:
+** Roundcube: webmail for owncloud http://roundcube.net	      :mail:owncloud:
+** ownCloud and email: http://jamieflarity.com/computers/owncloud-and-email/ :mail:owncloud:
+** mcollective configure clients: https://docs.puppetlabs.com/mcollective/configure/client.html :mcollective:
+** ownCloud@acmsl http://owncloud-acmsl.rhcloud.com	 :owncloud:openshift:
+** Solucionando crackmes precargando librerias http://www.securitybydefault.com/2014/09/solucionando-crackmes-precargando.html :reversing:
+** org-trello http://org-trello.github.io		     :org:gtd:trello:
+** Reddit.st in 10 cool pharo classes https://medium.com/@svenvc/reddit-st-in-10-cool-pharo-classes-1b5327ca0740 :smalltalk:
+** Propuestas asambleas ciudadanas de Podemos: http://propuestas.podemos.info/propuestas.html :politics:podemos:
+** Entrevista Pablo Iglesias en Reddit: https://docs.google.com/document/d/1_dk6EWUFolpgvdPf6YjvQhEUVpadlHGSkSTCQwUY3fo/pub :politics:podemos:
+** [[http://pcsupport.about.com/od/tipstricks/a/free-public-dns-servers.htm][Free and public DNS servers]]                                          :dns:
+** [[http://www.computerworld.com/article/2545279/networking/hack-dns-for-lightning-fast-web-browsing.html][Hack DNS for lightning-fast web browsing]]                             :dns:
+** [[http://techcrunch.com/2014/06/06/productivity-and-the-education-delusion/][Productivity and the Education delusion]]                        :education:
+** [[http://www.psychologytoday.com/blog/hidden-motives/201405/there-is-no-job-security][There's no job security]]
+** [[http://www.manchesteruniversitypress.co.uk/cgi-bin/indexer?product%3D9780719096679][Anarchism and utopianism book]]
+** [[http://tic.circulospodemos.info/2014/11/05/herramientas/][Herramientas PODEMOS TICs]]                                        :podemos:
+** [[http://tic.circulospodemos.info/proyectos/][Proyectos PODEMOS TICs]]                                           :podemos:
+** [[https://www.reddit.com/r/podemos][Plaza PODEMOS]]                                                    :podemos:
+** [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Expanding-Abbrevs.html#Expanding-Abbrevs][Controlling Abbrev expansion in Emacs]]                              :emacs:
+** [[http://www.the-magus.in/][The magus : functional programming]]                                  :blog:
+** [[http://blog.languager.org/][languager.org : functional programming]]                              :blog:
+** [[http://robertovg.com/hosting/getting-started-with-wordpress-in-openshift/][Getting started with Wordpress in Openshift]]     :wordpress:openshift:blog:
+** [[http://code.tutsplus.com/tutorials/running-wordpress-on-openshift-part-2--cms-19947][Running Wordpress on Openshift part 2]]           :wordpress:openshift:blog:
+** [[http://www.emacswiki.org/emacs/IndentingC][Indenting C in Emacs]]                                               :emacs:
+** [[https://help.github.com/articles/writing-on-github/][Writing on github]]                                                 :github:
+** [[https://www.sharelatex.com/learn/Lengths_in_LaTeX][ShareLaTeX: Lengths in LaTeX]]                                       :latex:
+** [[http://cloudacademy.com/blog/architecting-on-aws-optimizing-the-application-design/][Architecting on AWS: Optimizing the application design]]               :aws:
+* Youtube                                                           :youtube:
+** [[https://www.youtube.com/watch?v%3Dc_Eutci7ack][How to understand power - Eric Liu]]
+** [[https://www.youtube.com/watch?v%3DIy8Wu3J4ivY][Michael Sandel: Sociedades de mercado]]                                :ted:
+* V24
+#+CATEGORY: FirefoxV24
+** [[https://www.voxxed.com/blog/2014/12/exploring-microservices-in-the-enterprise/][Microservices in the enterprise]]               :architecture:microservices:
+** [[http://www.smashingmagazine.com/2014/12/08/upcoming-web-design-events-dec-2014-june-2015/][Upcoming web design events 2014-2015]]                           :webdesign:
+** What is spray? http://spray.io/introduction/what-is-spray/	      :scala:
+** Mastering Emacs http://www.masteringemacs.org/		      :emacs:
+** Out of the Tar Pit http://elegantcode.com/2014/05/09/out-of-the-tar-pit/ :programming:
+** cool-retro-term https://github.com/Swordfish90/cool-retro-term     :linux:
+** Bye bye Javascript promises! http://sriku.org/blog/2014/02/11/bye-bye-js-promises/ :javascript:
+** SILE typesetting tool http://www.sile-typesetter.org/index.html :latex:tool:
+** Tab key == 4 spaces and auto-indent after curly braces in VIM https://stackoverflow.com/questions/234564/tab-key-4-spaces-and-auto-indent-after-curly-braces-in-vim :vim:
+** Immutable value-type code generation for Java 1.6+ https://github.com/google/auto/tree/master/value
+** Nervatura framework http://nervatura.com/			       :tool:
+** Spree: ruby e-commerce https://www.openshift.com/quickstarts/spree :ecommerce:openshift:
+** OpenShift Cartridge Development Kit: https://github.com/smarterclayton/openshift-cdk-cart :openshift:
+** Seven Versions of One Web Application http://www.oreilly.com/pub/e/3047 :programming:html5:
+** Openshift Origin https://openshift.github.io/		  :openshift:
+** Crap4J: helping you find crappy Java code http://www.crap4j.org :java:tool:
+** The good hacker: the wonderful life and strange death of Barnaby Jack http://metromag.co.nz/current-affairs/the-good-hacker-barnaby-jack/ :blog:
+** Hackyeaster http://hackyeaster.hacking-lab.com/hackyeaster/	    :hacking:
+** Why I like Java http://blog.plover.com/prog/Java.html	       :java:
+** Puppet on the edge http://puppet-on-the-edge.blogspot.com.es/     :puppet:
+** localtunnel.me: expose yourself to the world http://localtunnel.me :linux:
+** How Project Management tools kill more companies than any other SaaS out there http://lnbogen.com/2014/04/14/how-project-management-tools-kill-more-companies-than-any-other-saas-out-there/ :blog:
+** A list of meteor resources http://www.okgrow.com/posts/2014/03/24/meteor-resources/ :programming:meteor:
+** Bret Victor's links of 2013 http://worrydream.com/Links2013/?_escaped_fragment_=/Links2013#!/Links2013 :bretvictor:blog:
+** Learn CSS layout http://learnlayout.com/				:css:
+** CTO wants me to leave https://news.ycombinator.com/item?id=7579845 :blog:hackernews:
+** Transcribing Piano Rolls, the Pythonic Way https://zulko.github.io/blog/2014/02/12/transcribing-piano-rolls/ :blog:music:
+** Trianglify is a javascript library for generating colorful triangle meshes that can be used as SVG images and CSS backgrounds. http://qrohlf.com/trianglify/ :javascript:
+** Reactive Cloud Actors: no-nonsense MicroServices http://byterot.blogspot.com.es/2014/04/reactive-cloud-actors-no-nonsense-microservice-beehive-restful-evolvable-web-events-orleans-framework.html :microservices:rest:
+** How To: Create Sexy bookmark like effect using pure css : re-cleaned http://www.webdeveloperjuice.com/2009/12/15/sexy-bookmark-like-effect-using-pure-css/ :css:
+** RoboVM: CREATE TRULY NATIVE iOS APPS IN JAVA http://www.robovm.com/ :ios:java:
+** Github cheat sheet: https://github.com/tiimgreen/github-cheat-sheet :github:
+** Light painting wifi: https://github.com/tiimgreen/github-cheat-sheet :wifi:post:science:
+** Coder's read: http://www.codersgrid.com/read/		       :blog:
+** How a key opens a lock: http://www.blurofinsanity.com/mit/chapter2.html :blog:lockpicking:
+** Bitcoin by analogy: http://brikis98.blogspot.com.es/2014/04/bitcoin-by-analogy.html :bitcoin:
+** Attack of the week: triple handshakes http://blog.cryptographyengineering.com/2014/04/attack-of-week-triple-handshakes-3shake.html :hacking:security:
+** Project Naptha automatically applies state-of-the-art computer vision algorithms on every image you see while browsing the web http://projectnaptha.com/ :tool:image:
+** Consul : Distributed, highly available, datacenter-aware service discovery https://www.consul.io/ :tool:sysadmin:
+** JDBC Fast Connection Failover with Oracle RAC http://www.drdobbs.com/jvm/jdbc-fast-connection-failover-with-oracl/222700353 :jdbc:java:oracle:
+** An Opinionated Guide to Modern Java, Part 3: Web Development http://blog.paralleluniverse.co/2014/05/15/modern-java-pt3/ :java:blog:
+** The hidden perils of cookie syncing https://freedom-to-tinker.com/blog/englehardt/the-hidden-perils-of-cookie-syncing/ :http:cookie:security:
+** Try-catch to speed up my code https://stackoverflow.com/questions/8928403/try-catch-speeding-up-my-code :java:
+** What are common mistakes that new or inexperienced managers make? https://www.quora.com/What-are-common-mistakes-that-new-or-inexperienced-managers-make?share=1 :blog:
+** Using org-mode as a day planner http://newartisans.com/2007/08/using-org-mode-as-a-day-planner/ :org:gtd:emacs:
+** An introduction to Magit, an Emacs mode for Git http://www.masteringemacs.org/article/introduction-magit-emacs-mode-git :emacs:magit:
+** MELPA (Milkypostman’s Emacs Lisp Package Archive) http://melpa.org/#/getting-started :emacs:
+** Emacs: How to Set a Color Theme http://ergoemacs.org/emacs/emacs_playing_with_color_theme.html :emacs:
+** Smalltalk free books: http://stephane.ducasse.free.fr/FreeBooks/ :smalltalk:
+** Metacompilers tutorial part 1: http://www.bayfronttechnologies.com/mc_tutorial.html :programming:
+** TLS is not used widely enough https://istlsfastyet.com/    :security:http:
+** Overclocking SSL https://www.imperialviolet.org/2010/06/25/overclocking-ssl.html :security:http:
+** Recommended security reading: http://dfir.org/?q=node/8	   :security:
+** Instalar openshift origin en Fedora 19, parte 1 http://www.dmartin.es/2014/09/instalar-openshift-origin-en-fedora-19-mega-tutorial-parte-1/ :openshift:
+** Towards an architecture for never-ending language learning http://arnetminer.org/publication/toward-an-architecture-for-never-ending-language-learning-2773801.html :programming:blog:
+** Automated Acceptance Testing http://www.slideshare.net/toddbr/automated-acceptance-tests-tool-choice?next_slideshow=1 :atdd:slides:
+** Linux performance analysis and tools http://www.joyent.com/blog/linux-performance-analysis-and-tools-brendan-gregg-s-talk-at-scale-11x :linux:tool:performance:
+** Peter Thiel on Mapping A Life http://daslee.me/peter-thiel-on-career-planning?beta=1 :blog:programming:
+** Zero to ONE. Notes on startups, or how to build the future. http://blakemasters.com/peter-thiels-cs183-startup :blog:
+** John Carmack: thoughts on Haskell http://functionaltalks.org/2013/08/26/john-carmack-thoughts-on-haskell/ :video:haskell:carmack:
+** Java algorithms and clients http://algs4.cs.princeton.edu/code/ :book:java:algorithms:
+** Reclaiming Software Engineering http://www.zerobanana.com/essays/reclaiming-software-engineering/ :blog:programming:
+** Hermit: a font for programmers, by a programmer https://pcaro.es/p/hermit/ :font:programming:
+** Anonymous pro: a fixed-width sans designed for coders http://www.marksimonson.com/fonts/view/anonymous-pro :font:programming:
+** Government like you've never imagined https://government.github.com/ :github:
+** Resiliency through Failure - Netflix's Approach to Extreme Availability in the Cloud http://www.infoq.com/presentations/netflix-resiliency-failure-cloud :netflix:scalability:
+** OWASP testing guide https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents :owasp:
+** Diagrams made easy http://www.gliffy.com/		       :tool:diagram:
+** Automate anything you see http://www.sikuli.org/	   :tool:testing:gui:
+** Using OpenCMS at V24 https://prezi.com/i6otbxptdc1w/cms/	    :cms:v24:
+* 2014/11/28
+** A gentle introduction to CEDET [[http://alexott.net/en/writings/emacs-devenv/EmacsCedet.html][A gentle introduction to CEDET]]      :emacs:
+** Cedet Smart completion [[http://cedet.sourceforge.net/intellisense.shtml]] :emacs:
+** ECB incremental search [[http://ecb.sourceforge.net/docs/Incremental-search.html#Incremental-search]] :emacs:
+** Emacs auto-complete mode [[http://cx4a.org/software/auto-complete/]]   :emacs:
+** Malabar-mode blog [[http://blog.grumblesmurf.org]]                     :emacs:
+** Ruby tapas [[http://www.rubytapas.com/]]                    :ruby:screencasts:
+** GetTor : tor for email [[https://blog.torproject.org/blog/say-hi-new-gettor]] :tor:email:
+** Lessons learned from 10 failed startup ideas [[http://kristapsmors.com/2014/11/25/lessons-learned-from-10-failed-startup-ideas/]]
+** Java 8 meets tests slides [[http://www.slideshare.net/asotobu/java-8-meets-tests]] :java:slides:codemotion:
+** The OpNewblood Super Secret Security Handbook [[http://serpentsembrace.wordpress.com/2011/04/23/the-opnewblood-super-secret-security-handbook/]] :hacking:
+** Scrapy tutorial                                            :scrapy:python:[[http://doc.scrapy.org/en/latest/intro/tutorial.html]]
+** Magit cheatsheet [[http://daemianmack.com/magit-cheatsheet.html]] :emacs:magit:
+** Elisp cookbook [[http://www.emacswiki.org/emacs/ElispCookbook]]  :emacs:elisp:
+** Emacs Lisp for Hackers [[https://joelmccracken.github.io/entries/emacs-lisp-for-hackers-all-things-variables/]] :emacs:elisp:
+** PGF plots [[http://pgfplots.net/]]                            :latex:pgf:tikz:
+** Mastering Emacs [[http://www.masteringemacs.org/]]               :emacs:elisp:
+** Emacs debugging mode [[http://www.emacswiki.org/emacs/DebuggerMode]] :emacs:elisp:
+** Java9 ultimate feature list [[http://blog.takipi.com/java-9-the-ultimate-feature-list/]] :java:
+** Java shortcomings will be addressed by Project Jigsaw [[http://www.javaworld.com/article/2689893/java-platform/oracle-exec-java-shortcomings-will-be-addressed-by-project-jigsaw.html]] :java:
+** More Java 9 features announced [[http://www.infoq.com/news/2014/11/MoreJava9Features]] :java:
+** Codemotion 2014 slides [[https://docs.google.com/a/witworks.es/spreadsheets/d/1aaf6Tj33pjxB53ifPg0IU9EpeLN7X95N-49A87fyFlw/edit?pli%3D1#gid%3D0][https://docs.google.com/a/witworks.es/spreadsheets/d/1aaf6Tj33pjxB53ifPg0IU9EpeLN7X95N-49A87fyFlw/edit?pli=1#gid=0]] :codemotion:slides:
+** Scrum en 5 minutos [[http://albertoromeu.com/scrum/]]             :scrum:blog:
+* org-mode
+** [[http://orgmode.org/manual/Agenda-dispatcher.html#Agenda-dispatcher][The agenda dispatcher]]                                                :org:
+* Superlearn                                                     :superlearn:
+** Posts                                                         :superlearn:
+*** [[http://www.keytostudy.com/visualization-focus-training/][Visualization focus training]]                                 :superlearn:
+*** [[http://www.keytostudy.com/examplary-training-schedule/][Proposed training schedule]]                                   :superlearn:
+*** [[http://www.keytostudy.com/subjects-read/][Subjects to read about]]                                       :superlearn:
+*** [[http://www.keytostudy.com/setting-your-superlearning-goals/][Setting your superlearning goals]]                             :superlearn:
+*** [[http://www.keytostudy.com/gaming-mental-templates/][Gaming and mental templates]]                                  :superlearn:
+*** [[http://www.smart-goals-guide.com/goal-setting-strategies.html][Goal-setting strategies]]                                      :superlearn:
+*** [[http://www.keytostudy.com/matheconomy-memorization/][Math/economy memorization]]                                    :superlearn:
+** Memory                                                        :superlearn:
+*** [[http://www.flashi.co.il/media/subfiles/1470.swf][Camera Mind 2]]                                                :superlearn:
+*** [[http://mnemonicdictionary.com/][Nemonic dictionary]]                                           :superlearn:
+** Saccades                                                      :superlearn:
+*** [[http://www.yugzone.ru/speed_reading/wider_eye_span/shultc04.swf][Wider eye span]]                                               :superlearn:
+*** [[http://www.fasterreader.eu/pages/en/schultz-boards-generator-to-clicks-en.html][Schultz generator]]                                            :superlearn:
+** Memory + Saccades                                             :superlearn:
+*** [[http://flashfabrica.com/f_learning/brain/brainload.swf][Brainload]]                                                    :superlearn:
+** Mind maps                                                     :superlearn:
+*** [[iqmatrix.com]]                                                 :superlearn:
+* Books
+** [[http://www.ccs.neu.edu/home/matthias/HtDP2e/Draft/index.html][How to design program, 2ndEd]]                                 :programming:
+** [[http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/][Causal Inference Book]]                                         :statistics:

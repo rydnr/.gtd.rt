@@ -1,0 +1,42 @@
+#+TITLE: Propuestas de los trabajadores de Ventura24
+#+AUTHOR: Comité de Empresa UGT
+#+LANGUAGE: es
+#+LATEX_HEADER: \usepackage[spanish]{babel}
+* Introducción
+Las siguientes propuestas se han elaborado, discutido, consensuado y votado por una gran mayoría de los trabajadores de Ventura24.
+La principal función del Comité de Empresa es actuar de interlocutor con la Dirección, y es por ello por lo que queremos que se tengan en cuenta y se discuta cómo llevarlas a término.
+* Transparencia
+Queremos que la transparencia sea la norma, no la excepción.
+Para ello, presentaremos a la Empresa las siguientes propuestas:
+- Una reunión de carácter extraordinario que explique la estrategia empresarial para Ventura24 a medio y largo plazo.
+- Retomar las reuniones en las que se comentan los resultados económicos tanto de Ventura24 como de Once. Nos gustaría que fueran reuniones periódicas, por ejemplo el primer miércoles de cada mes.
+- Respecto al Have your say, pedimos:
+  - que a partir de los dos meses se informe periódicamente de cuándo se va a disponer de los resultados, y se justifique cualquier retraso.
+  - que se disponga de los resultados antes de la reunión en la que se presenten, o bien se pueda realizar una segunda reunión para discutir los resultados.
+  - que la reunión con los resultados se centre fundamentalmente en las respuestas de Ventura24, sin tener que insistir en ello.
+  - plantear revisiones de algunas de las preguntas del cuestionario.
+  - conocer en detalle qué acciones se van a poner en práctica a raíz de los resultados.
+- Bonus: En el último varias personas recibieron, en neto, menos de lo que ellos esperaban. Las explicaciones por parte de la empresa fueron inexistentes o insuficientes. Nos gustaría que la empresa se reuniera con las personas interesadas en conocer los detalles y plantear sus dudas, con antelación al ingreso de la nómina en la que se incluye el bonus.
+- Discutir con la empresa el porqué del peso tan desproporcionado del “plus voluntario” en las nóminas
+* Appraisals
+Proponemos a la Empresa algunas mejoras en los appraisals:
+- Cambiar las formas:
+  - Que la evaluación se envíe por escrito al evaluado antes de la reunión, para que el evaluado pueda analizarla, solicitar aclaraciones, y plantear correcciones.
+  - Que el resultado de la evaluación no pueda verse afectado en ningún momento por la normativa corporativa de los appraisals, o en función de la opinión que puedan tener terceras partes sobre la evaluación. Incluído el Board.
+- Cambiar el fondo:
+  - Que los criterios por los que se evalúe sean objetivos. Que el evaluador tenga la obligación de dar argumentos concretos que respalden su valoración, y el evaluado tenga el derecho a que se tengan en cuenta argumentos concretos a su favor. Las evaluaciones no pueden verse afectadas por la afinidad personal entre el evaluador y el evaluado.
+  - Que el evaluado pueda solicitar la presencia de un miembro del comité y/o de RRHH para resolver discrepancias en la valoración.
+  - Que las subidas salariales, siempre que no sean por cambios de puesto, estén obligatoriamente relacionadas con el appraisal. Esto implica que no se pueden acordar de antemano las subidas y a posteriori hacer las evaluaciones.
+  - Que si el evaluador argumenta que no tiene capacidad para decidir sobre las subidas salariales, la evaluación debe escalarse y hacerse en presencia de aquél que sí tenga potestad para decidir sobre esas cuestiones.
+  - Que el evaluador tenga la obligación de hacer saber al evaluado una valoración negativa en el momento en el que se produzca el hecho. Al hacer al evaluado consciente, se le da la posibilidad de realizar las acciones que considere oportunas para paliar esa valoración.
+# ** Evaluaciones 360
+# Creemos conveniente que se pueda dar feedback de abajo a arriba:
+# - Que se realicen evaluaciones 360 de forma periódica (una vez al año) para aquellas personas ocupando posiciones de responsable de equipos.
+# - Que en dicha evaluación participen todas las personas dependientes organizativamente de la persona evaluada, independientemente del nivel en la jerarquía. También las personas con las que el evaluado trabaje en su día a día, o a las que afecte directamente el desempeño del evaluado.
+# - Que se preserve el anonimato de los evaluadores.
+# - Que los resultados sean verificables, por ejemplo permitiendo que el comité lo revise, y siempre con las garantías de discreción que solicite el evaluado.
+# - Que se informe públicamente del criterio usado para valorar las evaluaciones.
+# - Que se informe de si se implantarán acciones de algún tipo (coaching, shadowing, etc) para mejorar la valoración de los evaluados.
+# - Que participar como evaluador sea voluntario, y no conlleve consecuencias negativas a los evaluadores.
+# - Que si el número de evaluadores es reducido (menor de 3 personas) la evaluación 360 sea opcional.
+

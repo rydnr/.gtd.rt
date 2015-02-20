@@ -1,0 +1,11 @@
+# Compiled
+*.elc
+
+# Packaging
+.cask
+
+*~
+*.aux
+\#*
+.#*
+private-*.org

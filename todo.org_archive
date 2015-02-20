@@ -1,0 +1,1771 @@
+#    -*- mode: org -*-
+Archived entries from file /home/chous/todo.org
+
+** DONE Install Maven						    :ARCHIVE:
+** DONE Buy headphones + mstick for PSP				    :ARCHIVE:
+   [2014-09-10 Wed]
+
+** DONE Find out if workstation has bluetooth -> no		    :ARCHIVE:
+** DONE Find out how to resize buffers easily in emacs -> C-x { , C-x } :emacs:ARCHIVE:
+   [2014-09-10 Wed]
+
+** DONE Make room in S3's SD card				    :ARCHIVE:
+** DONE Migrate current backlog.org and latest pomodoro files to todo.org :homework:ARCHIVE:
+** DONE Fix lognotestate					:org:ARCHIVE:
+   CLOSED: [2014-09-11 Thu 01:24]
+   - State "DONE"       from "TODO"       [2014-09-11 Thu 01:24]
+
+** DONE Configure the f.lux tool properly			    :ARCHIVE:
+   CLOSED: [2014-09-11 Thu 01:25]
+   - State "DONE"       from "TODO"       [2014-09-11 Thu 01:25]
+
+** DONE Check how to remove my own custom font everywhere	    :ARCHIVE:
+   CLOSED: [2014-09-11 Thu 01:25]
+   - State "DONE"       from "TODO"       [2014-09-11 Thu 01:25]
+** DONE Fix X clipboard in new workstation			    :ARCHIVE:
+   CLOSED: [2014-09-11 Thu 01:26]
+   - State "DONE"       from "TODO"       [2014-09-11 Thu 01:26]
+** DONE Finish build script for baseimage-phusion-based Docker templates :docker:ARCHIVE:
+   CLOSED: [2014-09-12 Fri 01:35]
+   - State "DONE"       from "TODO"       [2014-09-12 Fri 01:35]
+   [2014-09-11 Thu]
+
+** DONE Deploy webapp locally				       :#135:ARCHIVE:
+   CLOSED: [2014-09-12 Fri 01:37]
+   - State "DONE"       from "TODO"       [2014-09-12 Fri 01:37]
+** DONE Review / buy The first 20 hours book	     :ebook:homework:ARCHIVE:
+   CLOSED: [2014-09-12 Fri 01:39]
+   - State "DONE"       from "TODO"       [2014-09-12 Fri 01:39]
+   [2014-09-11 Thu]
+** DONE Add Enrique Segura to google spreadsheet	  :sindicato:ARCHIVE:
+   CLOSED: [2014-09-15 Mon 11:07]
+   - State "DONE"       from "TODO"       [2014-09-15 Mon 11:07]
+
+** DONE Check why Vagrant/VirtualBox complains abount VT- not supported :vagrant:ARCHIVE:
+   CLOSED: [2014-09-15 Mon 11:09]
+   - State "DONE"       from "TODO"       [2014-09-15 Mon 11:09]
+   [2014-09-11 Thu]
+
+** DONE Fix the NPE in PostPaymentAction			:v24:ARCHIVE:
+   CLOSED: [2014-09-15 Mon 11:10]
+   - State "DONE"       from "STARTED"    [2014-09-15 Mon 11:10]
+   - State "STARTED"    from "TODO"       [2014-09-15 Mon 11:09]
+   [2014-09-12 Fri]
+
+** DONE Fix nlp-clubs job and publish a tag			:v24:ARCHIVE:
+   CLOSED: [2014-09-15 Mon 11:13]
+   - State "DONE"       from "TODO"       [2014-09-15 Mon 11:13]
+   [2014-09-12 Fri]
+
+** DONE Merge nlp-webapp, v24-pom!				:v24:ARCHIVE:
+   CLOSED: [2014-09-15 Mon 11:58]
+   - State "DONE"       from "STARTED"    [2014-09-15 Mon 11:58]
+   - State "STARTED"    from "TODO"       [2014-09-15 Mon 11:10]
+
+   [2014-09-15 Mon]
+
+** DONE Fix localtime in new jlean				:v24:ARCHIVE:
+   CLOSED: [2014-09-17 Wed 10:19]
+   - State "DONE"       from "TODO"       [2014-09-17 Wed 10:19]
+   [2014-09-11 Thu]
+
+** DONE Publish org files in github			 :github:org:ARCHIVE:
+   CLOSED: [2014-09-17 Wed 10:20]
+   - State "DONE"       from "TODO"       [2014-09-17 Wed 10:20]
+   [2014-09-10 Wed]
+
+** DONE Loomio proposals				  :sindicato:ARCHIVE:
+   CLOSED: [2014-09-17 Wed 10:21]
+   - State "DONE"       from "TODO"       [2014-09-17 Wed 10:21]
+   - State "TODO"       from ""           [2014-09-15 Mon 11:08] \\
+     Added task for first loomio proposals
+
+** DONE Adapt b2g document 				    :b2g:v24:ARCHIVE:
+   CLOSED: [2014-09-18 Thu 11:31]
+   - State "DONE"       from "TODO"       [2014-09-18 Thu 11:31]
+   [2014-09-17 Wed]
+
+** DONE Fix ssh access to new jlean				:v24:ARCHIVE:
+   CLOSED: [2014-09-18 Thu 11:31]
+   - State "DONE"       from "TODO"       [2014-09-18 Thu 11:31]
+   [2014-09-17 Wed]
+
+** DONE Send invitations				  :sindicato:ARCHIVE:
+   CLOSED: [2014-09-18 Thu 11:33]
+   - State "DONE"       from "TODO"       [2014-09-18 Thu 11:33]
+   [2014-09-17 Wed]
+
+** DONE Add Tania and Mercedes to loomio 		  :sindicato:ARCHIVE:
+   CLOSED: [2014-09-18 Thu 11:34]
+   - State "DONE"       from "TODO"       [2014-09-18 Thu 11:34]
+   [2014-09-18 Thu]
+
+** DONE Change Oracle password					:v24:ARCHIVE:
+   CLOSED: [2014-09-18 Thu 15:58]
+   - State "DONE"       from "STARTED"    [2014-09-18 Thu 15:58]
+   - State "STARTED"    from "TODO"       [2014-09-18 Thu 15:37]
+   [2014-09-18 Thu]
+
+** DONE Setup support laptop				:support:v24:ARCHIVE:
+   CLOSED: [2014-09-18 Thu 16:17]
+   - State "DONE"       from "STARTED"    [2014-09-18 Thu 16:17]
+   - State "DONE"       from "TODO"       [2014-09-18 Thu 11:38]
+   [2014-09-18 Thu]
+** DONE Fix environment properties				:v24:ARCHIVE:
+   CLOSED: [2014-09-22 Mon 09:21]
+   - State "DONE"       from "TODO"       [2014-09-22 Mon 09:21]
+     In location C it's working
+   - State "TODO"       from ""           [2014-09-15 Mon 11:12]
+** DONE Write initial mindmap for the first 5-6 chapters of "Emacs in 20 hours" :ARCHIVE:
+   CLOSED: [2014-09-22 Mon 09:22]
+   - State "DONE"       from "TODO"       [2014-09-22 Mon 09:22]
+   [2014-09-18 Thu]
+
+** DONE Setup emacs-server and EDITOR variable			    :ARCHIVE:
+   CLOSED: [2014-09-22 Mon 09:26]
+   - State "DONE"       from "TODO"       [2014-09-22 Mon 09:26]
+   [2014-09-12 Fri]
+
+** DONE Mindmap 					 :codemotion:ARCHIVE:
+   CLOSED: [2014-09-22 Mon 09:34]
+   - State "DONE"       from "TODO"       [2014-09-22 Mon 09:34]
+   [2014-09-22 Mon]
+
+** DONE Buy Assange book					    :ARCHIVE:
+   CLOSED: [2014-09-23 Tue 09:29]
+   - State "DONE"       from "TODO"       [2014-09-23 Tue 09:29]
+** DONE Use emacs bookmarks				      :emacs:ARCHIVE:
+   CLOSED: [2014-09-23 Tue 09:39]
+   - State "DONE"       from "STARTED"    [2014-09-23 Tue 09:39]
+   [2014-09-10 Wed]
+- C-x r m -> new bookmark
+- C-x r l -> list bookmarks
+
+** DONE Fix ventura24services1 DNS and virtual host    :services:v24:ARCHIVE:
+   CLOSED: [2014-09-23 Tue 10:34]
+   - State "DONE"       from "TODO"       [2014-09-23 Tue 10:34]
+*** Points to app-b2g-01-hh1
+** DONE Fix winnos					     :bomberismo:v24:
+   CLOSED: [2014-09-23 Tue 10:44]
+   - State "DONE"       from "TODO"       [2014-09-23 Tue 10:44]
+   [2014-09-23 Tue]
+
+** DONE Fix johnson&johnson logo			     :bomberismo:v24:
+   CLOSED: [2014-09-23 Tue 12:17]
+   - State "DONE"       from "TODO"       [2014-09-23 Tue 12:17]
+   [2014-09-23 Tue]
+
+** DONE Llamar servicio técnico frigorífico                         :ARCHIVE:
+   CLOSED: [2014-09-23 Tue 13:11]
+   - State "DONE"       from "TODO"       [2014-09-23 Tue 13:11]
+   [2014-09-23 Tue]
+** DONE Imprimir instrucciones armario rack                         :ARCHIVE:
+   CLOSED: [2014-09-23 Tue 13:41]
+   - State "DONE"       from "TODO"       [2014-09-23 Tue 13:41]
+   [2014-09-23 Tue]
+** DONE Configure Linux printer                                 :v24:ARCHIVE:
+   CLOSED: [2014-09-23 Tue 13:41]
+   - State "DONE"       from "TODO"       [2014-09-23 Tue 13:41]
+   [2014-09-23 Tue]
+
+** DONE Presupuesto electricidad                                    :ARCHIVE:
+   CLOSED: [2014-09-26 Fri 09:14]
+   - State "DONE"       from "TODO"       [2014-09-26 Fri 09:14]
+   [2014-09-23 Tue]
+
+** DONE Llamar servicio técnico lavadora                            :ARCHIVE:
+   CLOSED: [2014-09-26 Fri 09:15]
+   - State "DONE"       from "TODO"       [2014-09-26 Fri 09:15]
+   [2014-09-23 Tue]
+
+** DONE Take photo of the phone appliance in the bedroom            :ARCHIVE:
+   CLOSED: [2014-09-27 Sat 08:18]
+   - State "DONE"       from "TODO"       [2014-09-27 Sat 08:18]
+   [2014-09-10 Wed]
+** DONE Redactar propuesta Appraisals                             :sindicato:
+   CLOSED: [2014-09-28 Sun 19:59]
+   - State "DONE"       from "TODO"       [2014-09-28 Sun 19:59]
+   [2014-09-27 Sat]
+** DONE Redactar propuesta "Transparencia"                :sindicato:ARCHIVE:
+   CLOSED: [2014-09-28 Sun 19:59]
+   - State "DONE"       from "TODO"       [2014-09-28 Sun 19:59]
+   [2014-09-27 Sat]
+** DONE Update jenkins jobs                                     :v24:ARCHIVE:
+   CLOSED: [2014-10-02 Thu 05:39]
+   - State "DONE"       from "TODO"       [2014-10-02 Thu 05:39]
+   [2014-09-26 Fri]
+** DONE Fix parsing version in jenkins jobs for B2G             :v24:ARCHIVE:
+   CLOSED: [2014-10-02 Thu 05:41]
+   - State "DONE"       from "TODO"       [2014-10-02 Thu 05:41]
+   [2014-09-26 Fri]
+
+** DONE Review mindmaps                                    :homework:ARCHIVE:
+   CLOSED: [2014-10-02 Thu 05:42]
+   - State "DONE"       from "STARTED"    [2014-10-02 Thu 05:42]
+** DONE Find out how to persist shipyard configuration -> DB_HOST_VOLUME (folder to persist Postgres data) :docker:acmsl:homework:ARCHIVE:
+   CLOSED: [2014-10-02 Thu 06:00]
+   - State "DONE"       from "TODO"       [2014-10-02 Thu 06:00]
+   [2014-10-02 Thu]
+** DONE mvn release doesn't deal with nlp-webapp-jar and nlp-webapp-war correctly :maven:v24:ARCHIVE:
+   CLOSED: [2014-10-03 Fri 11:08]
+   - State "DONE"       from "TODO"       [2014-10-03 Fri 11:08]
+   [2014-09-15 Mon]
+** DONE Fix duplicate executions of db-schema-definition-translator :ARCHIVE:
+   CLOSED: [2014-10-03 Fri 14:00]
+   - State "DONE"       from "TODO"       [2014-10-03 Fri 14:00]
+   [2014-10-03 Fri]
+** DONE Rebuild Jenkins dockerfile using script :docker:acmsl:homework:ARCHIVE:
+   CLOSED: [2014-10-04 Sat 19:11]
+   - State "DONE"       from "TODO"       [2014-10-04 Sat 19:11]
+   [2014-10-02 Thu]
+
+** DONE Add jenkins.acm-sl.org configs to github, and use them in its dockerfile. :docker:acmsl:homework:ARCHIVE:
+   CLOSED: [2014-10-04 Sat 19:11]
+   - State "DONE"       from "TODO"       [2014-10-04 Sat 19:11]
+   [2014-10-02 Thu]
+
+** DONE Fix maven.acm-sl.org                  :docker:acmsl:homework:ARCHIVE:
+   CLOSED: [2014-10-04 Sat 19:11]
+   - State "DONE"       from "TODO"       [2014-10-04 Sat 19:11]
+   [2014-10-02 Thu]
+
+** DONE Debug why app-es-01-c processes do not take the correct properties -> old :ARCHIVE:
+   CLOSED: [2014-10-04 Sat 19:11]
+   - State "DONE"       from "TODO"       [2014-10-04 Sat 19:11]
+   [2014-10-03 Fri]
+
+** DONE Find out how shipyard manages CPU and Memory for containers: :codemotion:ARCHIVE:
+  -m="[memory]m"
+  -c=X relative weight of CPU use
+   CLOSED: [2014-10-05 Sun 08:05]
+   - State "DONE"       from "TODO"       [2014-10-05 Sun 08:05]
+   [2014-10-04 Sat]
+** DONE Fix music collection                               :homework:ARCHIVE:
+   CLOSED: [2014-10-06 Mon 13:13]
+   - State "DONE"       from "STARTED"    [2014-10-06 Mon 13:13]
+   - State "DONE"       from "TODO"       [2014-10-05 Sun 08:50]
+
+** DONE Commit jenkins.acm-sl.org configuration               :acmsl:ARCHIVE:
+   CLOSED: [2014-10-06 Mon 13:14]
+   - State "DONE"       from "TODO"       [2014-10-06 Mon 13:14]
+   [2014-10-04 Sat]
+
+** DONE Configure jenkins.acm-sl.org                          :acmsl:ARCHIVE:
+   CLOSED: [2014-10-06 Mon 13:14]
+   - State "DONE"       from "STARTED"    [2014-10-06 Mon 13:14]
+   - State "STARTED"    from "TODO"       [2014-10-05 Sun 08:51]
+   [2014-10-04 Sat]
+
+** DONE Talk to Esther                                              :ARCHIVE:
+   CLOSED: [2014-10-06 Mon 13:14]
+   - State "DONE"       from "TODO"       [2014-10-06 Mon 13:14]
+   [2014-09-22 Mon]
+** DONE nlp-companies-webapp injects SNAPSHOTs                  :v24:ARCHIVE:
+   CLOSED: [2014-10-06 Mon 13:15]
+   - State "DONE"       from "TODO"       [2014-10-06 Mon 13:15]
+   [2014-09-15 Mon]
+** DONE Check why jenkins do not upload SNAPSHOTs to Artifactory :v24:ARCHIVE:
+   CLOSED: [2014-10-06 Mon 13:17]
+   - State "DONE"       from "TODO"       [2014-10-06 Mon 13:17]
+** DONE Upload portel logo manually                             :v24:ARCHIVE:
+   CLOSED: [2014-10-07 Tue 09:11]
+   - State "DONE"       from "STARTED"    [2014-10-07 Tue 09:11]
+   - State "STARTED"    from "TODO"       [2014-10-06 Mon 13:19]
+   [2014-10-06 Mon]
+
+** DONE Decide the role of Puppet                        :codemotion:ARCHIVE:
+   CLOSED: [2014-10-07 Tue 09:14]
+   - State "DONE"       from "TODO"       [2014-10-07 Tue 09:14]
+   [2014-10-04 Sat]
+
+** DONE Fix Artifactory maven-metadata.xml                      :v24:ARCHIVE:
+   CLOSED: [2014-10-07 Tue 09:57]
+   - State "DONE"       from "TODO"       [2014-10-07 Tue 09:57]
+   [2014-10-07 Tue]
+** DONE Firmar hoja Javi                                            :ARCHIVE:
+   CLOSED: [2014-10-09 Thu 09:11]
+   - State "DONE"       from "TODO"       [2014-10-09 Thu 09:11]
+   [2014-10-09 Thu]
+
+** DONE Write codemotion to remove Rafa                  :codemotion:ARCHIVE:
+   CLOSED: [2014-10-09 Thu 09:19]
+   - State "DONE"       from "TODO"       [2014-10-09 Thu 09:19]
+   [2014-10-09 Thu]
+
+** DONE Fix webapp-deploy                                       :v24:ARCHIVE:
+   CLOSED: [2014-10-09 Thu 09:23]
+   - State "DONE"       from "TODO"       [2014-10-09 Thu 09:23]
+   [2014-10-07 Tue]
+
+** DONE Fix udhcpd's resolv.conf in jlean                           :ARCHIVE:
+   CLOSED: [2014-10-09 Thu 09:41]
+   - State "DONE"       from "TODO"       [2014-10-09 Thu 09:41]
+   [2014-10-09 Thu]
+** DONE Fix webapp-deploy                                       :v24:ARCHIVE:
+   CLOSED: [2014-10-07 Tue 21:22]
+   - State "DONE"       from "TODO"       [2014-10-07 Tue 21:22]
+   [2014-10-07 Tue]
+** CANCELLED Call UGT to find out if the acta has to be signed by the company :sindicato:ARCHIVE:
+   CLOSED: [2014-10-10 Fri 09:06]
+   [2014-10-09 Thu]
+** DONE Debug OpenCMS locally against remote db                     :ARCHIVE:
+   CLOSED: [2014-10-10 Fri 09:06]
+   - State "DONE"       from "TODO"       [2014-10-10 Fri 09:06]
+   [2014-10-09 Thu]
+** DONE Fix process-generator template                          :v24:ARCHIVE:
+   CLOSED: [2014-10-10 Fri 10:55]
+   - State "DONE"       from "TODO"       [2014-10-10 Fri 10:55]
+   [2014-10-10 Fri]
+
+** DONE Protect restricted/ urls in production                  :v24:ARCHIVE:
+   CLOSED: [2014-10-10 Fri 12:22]
+   - State "DONE"       from "STARTED"    [2014-10-10 Fri 12:22]
+   - State "STARTED"    from "TODO"       [2014-10-10 Fri 10:55]
+   [2014-10-10 Fri]
+
+** DONE Fix/setup Apache config for mobile website in pre1      :v24:ARCHIVE:
+   CLOSED: [2014-10-10 Fri 14:04]
+   - State "DONE"       from "TODO"       [2014-10-10 Fri 14:04]
+   [2014-10-10 Fri]
+** DONE Use the shipyard load balancer extension   :codemotion:acmsl:ARCHIVE:
+   CLOSED: [2014-10-13 Mon 09:42]
+   - State "DONE"       from ""           [2014-10-13 Mon 09:42]
+   - State "DONE"       from "TODO"       [2014-10-13 Mon 09:42]
+   [2014-10-09 Thu]
+
+** DONE Redactar acta de la reunión del sindicato         :sindicato:ARCHIVE:
+   CLOSED: [2014-10-13 Mon 09:43]
+   - State "DONE"       from "STARTED"    [2014-10-13 Mon 09:43]
+   - State "STARTED"    from "TODO"       [2014-10-09 Thu 09:11]
+   [2014-10-06 Mon]
+** DONE Fix logo bug in services T324                  :services:v24:ARCHIVE:
+   CLOSED: [2014-10-13 Mon 19:30]
+   - State "DONE"       from "STARTED"    [2014-10-13 Mon 19:30]
+   - State "STARTED"    from "TODO"       [2014-09-24 Wed 10:49]
+   [2014-09-23 Tue]
+*** DONE Define a rule to automatically publish the contents of the company-logos folder to the "online" project in OpenCMS
+    CLOSED: [2014-10-14 Tue 07:34]
+    - State "DONE"       from "TODO"       [2014-10-14 Tue 07:34]
+   [2014-10-09 Thu]
+** DONE Use burp or wireshark to check the actual response for cms1 :cms:v24:ARCHIVE:
+   CLOSED: [2014-10-14 Tue 07:34]
+   - State "DONE"       from "TODO"       [2014-10-14 Tue 07:34]
+   [2014-09-26 Fri]
+
+** DONE Create Dockerfile for activemq            :docker:codemotion:ARCHIVE:
+   CLOSED: [2014-10-14 Tue 08:10]
+   - State "DONE"       from "TODO"       [2014-10-14 Tue 08:10]
+** DONE Make jenkins work reliably                                  :ARCHIVE:
+   CLOSED: [2014-10-15 Wed 09:15]
+   - State "DONE"       from "TODO"       [2014-10-15 Wed 09:15]
+   [2014-10-09 Thu]
+
+** DONE Fix motoax.com blog                      :openshift:homework:ARCHIVE:
+   CLOSED: [2014-10-15 Wed 09:15]
+   - State "DONE"       from "TODO"       [2014-10-15 Wed 09:15]
+   [2014-10-02 Thu]
+
+** DONE Fix motoax.com DNS                             :dns:homework:ARCHIVE:
+   CLOSED: [2014-10-15 Wed 09:15]
+   - State "DONE"       from "TODO"       [2014-10-15 Wed 09:15]
+   [2014-10-02 Thu]
+
+** CANCELLED Fix branch / noverify error in nlp-webapp-jar tests    :ARCHIVE:
+   CLOSED: [2014-10-15 Wed 09:17]
+   - State "CANCELLED"  from "TODO"       [2014-10-15 Wed 09:17] \\
+     Will be fixed in next JDK
+   [2014-09-24 Wed]
+
+** DONE Upload logos                                                :ARCHIVE:
+   CLOSED: [2014-10-15 Wed 10:49]
+   - State "DONE"       from "TODO"       [2014-10-15 Wed 10:49]
+   [2014-10-15 Wed]
+*** CANCELLED Define a rule to automatically publish the contents of the company-logos folder to the "online" project in OpenCMS
+    CLOSED: [2014-10-16 Thu 11:49]
+    - State "CANCELLED"  from "TODO"       [2014-10-16 Thu 11:49] \\
+      It works if nlp-companies-webapp sees the "offline" project.
+   [2014-10-09 Thu]
+** DONE Slide boilerplate                                :codemotion:ARCHIVE:
+   CLOSED: [2014-10-17 Fri 08:58]
+   - State "DONE"       from "TODO"       [2014-10-17 Fri 08:58]
+** DONE Fix jenkins authentication against maven.acm-sl.org         :ARCHIVE:
+   CLOSED: [2014-10-17 Fri 20:05]
+   - State "DONE"       from "TODO"       [2014-10-17 Fri 20:05]
+   [2014-10-16 Thu]
+
+** DONE Order "Guía para comprender Ucrania"                        :ARCHIVE:
+   CLOSED: [2014-10-17 Fri 20:06]
+   - State "DONE"       from "TODO"       [2014-10-17 Fri 20:06]
+   [2014-10-16 Thu]
+
+** DONE Write "proposals" for retrospective                         :ARCHIVE:
+   CLOSED: [2014-10-17 Fri 20:08]
+   - State "DONE"       from "TODO"       [2014-10-17 Fri 20:08]
+   [2014-10-17 Fri]
+** DONE Write "problems" for retrospective   :codemotion:mcollective:ARCHIVE:
+   CLOSED: [2014-10-17 Fri 20:08]
+   - State "DONE"       from "TODO"       [2014-10-17 Fri 20:08]
+   [2014-10-17 Fri]
+
+** DONE Write Dockerfile for mcollective clients :mcollective:codemotion:ARCHIVE:
+   CLOSED: [2014-10-17 Fri 20:08]
+   - State "DONE"       from "TODO"       [2014-10-17 Fri 20:08]
+   [2014-10-16 Thu]
+** DONE Write Dockerfile for mcollective server                     :ARCHIVE:
+   CLOSED: [2014-10-17 Fri 20:08]
+   - State "DONE"       from "TODO"       [2014-10-17 Fri 20:08]
+   [2014-10-16 Thu]
+** DONE Talk to Didier to access apache in backoffice-d.ventura24.es :v24:ARCHIVE:
+   CLOSED: [2014-10-22 Wed 19:34]
+   - State "DONE"       from "TODO"       [2014-10-22 Wed 19:34]
+   [2014-10-13 Mon]
+
+** DONE Hoja OnCall Septiembre                                  :v24:ARCHIVE:
+   CLOSED: [2014-10-22 Wed 19:43]
+   - State "DONE"       from "TODO"       [2014-10-22 Wed 19:43]
+   [2014-10-09 Thu]
+ Codemotion
+  #+CATEGORY: Codemotion
+** DONE Test and fix mcollective (server - activemq - mcollective client) setup :mcollective:codemotion:ARCHIVE:
+   CLOSED: [2014-10-22 Wed 19:43]
+   - State "DONE"       from "TODO"       [2014-10-22 Wed 19:43]
+   [2014-10-17 Fri]
+
+** CANCELLED Tail the contents of each "catalina.out":              :ARCHIVE:
+   CLOSED: [2014-10-22 Wed 19:40]
+   - State "CANCELLED"  from "TODO"       [2014-10-22 Wed 19:40] \\
+     We'll give JAMON a try instead
+*** Add the location as an environment property.
+*** Implement an action to read the contents of a trimmed copy of Catalina.out.
+*** Implement a script to pipe the last 100 lines of catalina.out to another file.
+*** Display them all in a phabricator page.
+   [2014-10-16 Thu]
+** CANCELLED Learn about the way jenkins figures out the downstream order :ARCHIVE:
+   CLOSED: [2014-10-22 Wed 19:43]
+   - State "CANCELLED"  from "TODO"       [2014-10-22 Wed 19:43] \\
+     Using Maven dependency update trigger instead
+   [2014-10-10 Fri]
+** DONE Enable debug in opencms@cms1                        :cms:v24:ARCHIVE:
+   CLOSED: [2014-10-22 Wed 19:44]
+   - State "DONE"       from "TODO"       [2014-10-22 Wed 19:44]
+   [2014-10-17 Fri]
+** DONE Redactar propuesta Expatriación equipo Once       :sindicato:ARCHIVE:
+   CLOSED: [2014-10-22 Wed 19:51]
+   - State "DONE"       from "TODO"       [2014-10-22 Wed 19:51]
+   [2014-09-27 Sat]
+** DONE Test and fix mcollective (server - activemq - mcollective client) setup :mcollective:codemotion:ARCHIVE:
+   CLOSED: [2014-10-20 Mon 09:57]
+   - State "DONE"       from "TODO"       [2014-10-20 Mon 09:57]
+   [2014-10-17 Fri]
+
+** DONE Change password for Tania in cms and cms1                   :ARCHIVE:
+   CLOSED: [2014-10-20 Mon 10:37]
+   - State "DONE"       from "TODO"       [2014-10-20 Mon 10:37]
+   [2014-10-20 Mon]
+
+** DONE Transfer                                           :homework:ARCHIVE:
+   CLOSED: [2014-10-20 Mon 11:17]
+   - State "DONE"       from "TODO"       [2014-10-20 Mon 11:17]
+   [2014-10-20 Mon]
+** DONE Fix phone                                          :homework:ARCHIVE:
+   CLOSED: [2014-10-21 Tue 09:40]
+   - State "DONE"       from "TODO"       [2014-10-21 Tue 09:40]
+   [2014-10-20 Mon]
+
+** DONE Buy snickers for Clara                                      :ARCHIVE:
+   CLOSED: [2014-10-21 Tue 09:40]
+   - State "DONE"       from "TODO"       [2014-10-21 Tue 09:40]
+   [2014-10-21 Tue]
+
+** DONE Talk to Didier to access apache in backoffice-d.ventura24.es :v24:ARCHIVE:
+   CLOSED: [2014-10-21 Tue 09:41]
+   - State "DONE"       from "TODO"       [2014-10-21 Tue 09:41]
+   [2014-10-13 Mon]
+
+** DONE Ask jalca for a ticket for last friday's "cycle removal request". :v24:ARCHIVE:
+   CLOSED: [2014-10-21 Tue 09:46]
+   - State "DONE"       from "TODO"       [2014-10-21 Tue 09:46]
+   [2014-10-20 Mon]
+
+** DONE Call Sergio Martos                                          :ARCHIVE:
+   CLOSED: [2014-10-21 Tue 13:11]
+   - State "DONE"       from "TODO"       [2014-10-21 Tue 13:11]
+   [2014-10-21 Tue]
+
+** DONE Hoja OnCall Septiembre                                  :v24:ARCHIVE:
+   CLOSED: [2014-10-21 Tue 13:11]
+   - State "DONE"       from "TODO"       [2014-10-21 Tue 13:11]
+   [2014-10-09 Thu]
+ Codemotion
+  #+CATEGORY: Codemotion
+
+** DONE Tag release (fix Pablo's missing pieces)                :v24:ARCHIVE:
+   CLOSED: [2014-10-21 Tue 13:11]
+   - State "DONE"       from "TODO"       [2014-10-21 Tue 13:11]
+   [2014-10-21 Tue]
+** DONE Download orgulloysatisfaccion magazine to ipad              :ARCHIVE:
+   CLOSED: [2014-10-25 Sat 13:16]
+   - State "DONE"       from "STARTED"    [2014-10-25 Sat 13:16]
+   - State "STARTED"    from "TODO"       [2014-10-22 Wed 19:52]
+   [2014-10-16 Thu]
+
+** DONE Fix logo bug in services T324                  :services:v24:ARCHIVE:
+   CLOSED: [2014-10-25 Sat 13:16]
+   - State "DONE"       from "STARTED"    [2014-10-25 Sat 13:16]
+   - State "STARTED"    from "TODO"       [2014-09-24 Wed 10:49]
+   [2014-09-23 Tue]
+** DONE Fix sound on newjlean                              :homework:ARCHIVE:
+   CLOSED: [2014-10-29 Wed 18:52]
+   - State "DONE"       from "STARTED"    [2014-10-29 Wed 18:52]
+   - State "STARTED"    from "TODO"       [2014-10-15 Wed 09:17]
+
+** DONE Annotate FF tab links                              :homework:ARCHIVE:
+   CLOSED: [2014-10-29 Wed 20:46]
+   - State "DONE"       from "TODO"       [2014-10-29 Wed 20:46]
+** DONE Redactar propuesta 360 grados                     :sindicato:ARCHIVE:
+   CLOSED: [2014-10-30 Thu 06:31]
+   - State "DONE"       from "TODO"       [2014-10-30 Thu 06:31]
+   [2014-09-27 Sat]
+** DONE Write 360 proposal in english                     :sindicato:ARCHIVE:
+   CLOSED: [2014-10-30 Thu 06:30]
+   - State "DONE"       from "TODO"       [2014-10-30 Thu 06:30]
+   [2014-10-25 Sat]
+** DONE Write Transparency proposal in english            :sindicato:ARCHIVE:
+   CLOSED: [2014-10-30 Thu 06:30]
+   - State "DONE"       from "TODO"       [2014-10-30 Thu 06:30]
+   [2014-10-25 Sat]
+** DONE Write Appraisals proposal in english              :sindicato:ARCHIVE:
+   CLOSED: [2014-10-30 Thu 06:30]
+   - State "DONE"       from "TODO"       [2014-10-30 Thu 06:30]
+   [2014-10-25 Sat]
+** DONE PoF Beamer via org                               :codemotion:ARCHIVE:
+   CLOSED: [2014-11-03 Mon 06:46]
+   - State "DONE"       from "TODO"       [2014-11-03 Mon 06:46]
+** DONE Outline of the speech                            :codemotion:ARCHIVE:
+   CLOSED: [2014-11-03 Mon 06:46]
+   - State "DONE"       from "STARTED"    [2014-11-03 Mon 06:46]
+   - State "STARTED"    from "TODO"       [2014-10-22 Wed 19:52]
+** DONE Commit and push changes in ehcache:                         :ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:26]
+   - State "DONE"       from ""           [2015-02-13 Fri 07:26]
+*** DONE nlp-administrations
+    CLOSED: [2014-11-03 Mon 11:19]
+    - State "DONE"       from "TODO"       [2014-11-03 Mon 11:19]
+*** DONE nlp-common
+    CLOSED: [2014-11-03 Mon 11:19]
+    - State "DONE"       from "TODO"       [2014-11-03 Mon 11:19]
+*** DONE nlp-services
+    CLOSED: [2014-11-03 Mon 11:19]
+    - State "DONE"       from "TODO"       [2014-11-03 Mon 11:19]
+*** DONE nlp-useraccount
+    CLOSED: [2014-11-03 Mon 11:20]
+    - State "DONE"       from "TODO"       [2014-11-03 Mon 11:20]
+*** DONE nlp-messaging-manager
+    CLOSED: [2014-11-03 Mon 11:20]
+    - State "DONE"       from "TODO"       [2014-11-03 Mon 11:20]
+*** DONE nlp-usermanagement
+    CLOSED: [2014-11-03 Mon 11:20]
+    - State "DONE"       from "TODO"       [2014-11-03 Mon 11:20]
+*** DONE nlp-games
+    CLOSED: [2014-11-03 Mon 11:20]
+    - State "DONE"       from "TODO"       [2014-11-03 Mon 11:20]
+   [2014-11-03 Mon]
+** DONE Setup laptop for codemotion                      :codemotion:ARCHIVE:
+   CLOSED: [2014-11-04 Tue 05:45]
+   - State "DONE"       from "STARTED"    [2014-11-04 Tue 05:45]
+   - State "STARTED"    from "TODO"       [2014-10-25 Sat 13:47]
+   [2014-10-25 Sat]
+** DONE Install tikzit                                   :codemotion:ARCHIVE:
+   CLOSED: [2014-11-04 Tue 06:00]
+   - State "DONE"       from "TODO"       [2014-11-04 Tue 06:00]
+   [2014-11-04 Tue]
+
+** DONE Make touchpad work on laptop                     :codemotion:ARCHIVE:
+   CLOSED: [2014-11-04 Tue 06:16]
+   - State "DONE"       from "TODO"       [2014-11-04 Tue 06:16]
+   [2014-11-04 Tue]
+** DONE Fix again dev environment in jlean                      :v24:ARCHIVE:
+   CLOSED: [2014-11-05 Wed 11:00]
+   - State "DONE"       from "TODO"       [2014-11-05 Wed 11:00]
+   [2014-11-04 Tue]
+
+** DONE T110 -> acutes                                          :v24:ARCHIVE:
+   CLOSED: [2014-11-05 Wed 13:49]
+   - State "DONE"       from "TODO"       [2014-11-05 Wed 13:49]
+   [2014-11-05 Wed]
+
+** DONE Fix nlp-messaging-workflow                              :v24:ARCHIVE:
+   CLOSED: [2014-11-05 Wed 13:49]
+   - State "DONE"       from "TODO"       [2014-11-05 Wed 13:49]
+   [2014-11-05 Wed]
+
+** DONE Add "synchronize templates step to v24 pipeline" :codemotion:v24:ARCHIVE:
+   CLOSED: [2014-11-05 Wed 13:50]
+   - State "DONE"       from "TODO"       [2014-11-05 Wed 13:50]
+   [2014-11-04 Tue]
+** DONE Test xrandr in laptop                            :codemotion:ARCHIVE:
+   CLOSED: [2014-11-07 Fri 06:09]
+   - State "DONE"       from "TODO"       [2014-11-07 Fri 06:09]
+   [2014-11-07 Fri]
+
+** DONE Add "synchronize templates step to v24 pipeline"        :v24:ARCHIVE:
+   CLOSED: [2014-11-07 Fri 06:10]
+   - State "DONE"       from "TODO"       [2014-11-07 Fri 06:10]
+   [2014-11-04 Tue]
+
+** DONE Implement a page in phabricator to refresh the caches in Tomcat processes :ARCHIVE:
+   CLOSED: [2014-11-07 Fri 06:12]
+   - State "DONE"       from "WAITING"    [2014-11-07 Fri 06:12]
+   - State "WAITING"    from "TODO"       [2014-10-22 Wed 19:41] \\
+     Waiting until Didier fixes the vhosts
+** DONE Research elisp to export from org to beamer                 :ARCHIVE:
+   CLOSED: [2014-11-09 Sun 08:02]
+   - State "DONE"       from "STARTED"    [2014-11-09 Sun 08:02]
+   - State "STARTED"    from "TODO"       [2014-11-08 Sat 08:49]
+   [2014-11-07 Fri]
+
+** DONE Patch for org-beamer to allow per-slide background images :beamer:emacs:latex:org:codemotion:ARCHIVE:
+   CLOSED: [2014-11-09 Sun 08:03]
+   - State "DONE"       from "TODO"       [2014-11-09 Sun 08:03]
+   [2014-11-09 Sun]
+
+** CANCELLED Draw the final architecture in tikz                    :ARCHIVE:
+   CLOSED: [2014-11-09 Sun 18:51]
+   - State "CANCELLED"  from "TODO"       [2014-11-09 Sun 18:51] \\
+     Using official diagrams instead
+   [2014-11-09 Sun]
+** DONE Escribir a siro                                             :ARCHIVE:
+   CLOSED: [2014-11-10 Mon 11:54]
+   - State "DONE"       from "TODO"       [2014-11-10 Mon 11:54]
+   [2014-11-10 Mon]
+** DONE Fix title/description para la home en seo.properties :cms:v24:ARCHIVE:
+   CLOSED: [2014-11-13 Thu 12:32]
+   - State "DONE"       from "STARTED"    [2014-11-13 Thu 12:32]
+   - State "STARTED"    from "TODO"       [2014-11-13 Thu 10:13]
+   [2014-10-10 Fri]
+** DONE Decide the final font in background images   :codemotion:org:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 05:54]
+   - State "DONE"       from "TODO"       [2014-11-19 Wed 05:54]
+   [2014-11-09 Sun]
+
+** DONE Find out why the frame title is hidden when using a background image in beamer :org:codemotion:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 05:54]
+   - State "DONE"       from "TODO"       [2014-11-19 Wed 05:54]
+   [2014-11-09 Sun]
+** DONE Fix cd-book image                            :org:codemotion:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 05:54]
+   - State "DONE"       from "TODO"       [2014-11-19 Wed 05:54]
+   [2014-11-09 Sun]
+** DONE Fix cd-pipeline image                        :org:codemotion:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 05:54]
+   - State "DONE"       from "TODO"       [2014-11-19 Wed 05:54]
+   [2014-11-09 Sun]
+
+** DONE Use a different font                         :org:codemotion:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 05:55]
+   - State "DONE"       from "TODO"       [2014-11-19 Wed 05:55]
+   [2014-11-07 Fri]
+
+** DONE New openshift account for podemosvillaviciosa       :podemos:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 05:55]
+   - State "DONE"       from "STARTED"    [2014-11-19 Wed 05:55]
+   - State "STARTED"    from "TODO"       [2014-11-08 Sat 08:50]
+   [2014-11-08 Sat]
+
+** DONE Review the exact phrase to use for acknowledging shutterstock images :codemotion:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 05:56]
+   - State "DONE"       from "TODO"       [2014-11-19 Wed 05:56]
+   [2014-11-11 Tue]
+** DONE Recover access to admin.ventura24.es/backoffice         :v24:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 05:56]
+   - State "DONE"       from "TODO"       [2014-11-19 Wed 05:56]
+   [2014-11-05 Wed]
+
+** DONE Fix apache for companies (tokenization-ok.jsp)          :v24:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 05:56]
+   - State "DONE"       from "TODO"       [2014-11-19 Wed 05:56]
+   [2014-11-13 Thu]
+
+** DONE Write a pgf shape                                     :latex:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 05:59]
+   - State "DONE"       from "TODO"       [2014-11-19 Wed 05:59]
+   [2014-09-10 Wed]
+
+** DONE Review app-es-0{1,2,3,4}-c processes                    :v24:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 06:00]
+   - State "DONE"       from "STARTED"    [2014-11-19 Wed 06:00]
+   - State "STARTED"    from "TODO"       [2014-11-11 Tue 09:54]
+   [2014-11-11 Tue]
+
+** DONE Restart app-es-d webapp servers                         :v24:ARCHIVE:
+   CLOSED: [2014-11-19 Wed 06:13]
+   - State "DONE"       from "STARTED"    [2014-11-19 Wed 06:13]
+   - State "DONE"       from "DONE"       [2014-11-19 Wed 05:57]
+   [2014-11-19 Wed]
+** DONE Review the exact phrase to use for acknowledging shutterstock images :codemotion:ARCHIVE:
+   CLOSED: [2014-11-14 Fri 10:46]
+   - State "DONE"       from "TODO"       [2014-11-14 Fri 10:46]
+   [2014-11-11 Tue]
+
+** DEFERRED Bomberismo: mails carpe                             :v24:ARCHIVE:
+   CLOSED: [2014-11-14 Fri 10:46]
+   - State "DEFERRED"   from "TODO"       [2014-11-14 Fri 10:46]
+   [2014-11-05 Wed]
+
+** DONE Fix again dev environment in jlean                      :v24:ARCHIVE:
+   CLOSED: [2014-11-14 Fri 10:47]
+   - State "DONE"       from "TODO"       [2014-11-14 Fri 10:47]
+   [2014-11-04 Tue]
+
+** DONE Recover access to admin.ventura24.es/backoffice             :ARCHIVE:
+   CLOSED: [2014-11-14 Fri 10:48]
+   - State "DONE"       from "TODO"       [2014-11-14 Fri 10:48]
+   [2014-11-05 Wed]
+** DONE Ticket guardia 2014/11/16: espacio en app-es-06-d           :ARCHIVE:
+   CLOSED: [2014-11-17 Mon 09:55]
+   - State "DONE"       from "TODO"       [2014-11-17 Mon 09:55]
+   [2014-11-17 Mon]
+   Ticket: #201411179000028
+** DONE Install and use magit                                 :emacs:ARCHIVE:
+   CLOSED: [2014-11-18 Tue 11:10]
+   - State "DONE"       from "TODO"       [2014-11-18 Tue 11:10]
+** CANCELLED Update git-es OS (phabricator suggestion)              :ARCHIVE:
+   CLOSED: [2014-11-18 Tue 11:10]
+   - State "CANCELLED"  from "DONE"       [2014-11-18 Tue 11:11] \\
+     Upgrading the OS is not straight-forward.
+   - State "DONE"       from "STARTED"    [2014-11-18 Tue 11:10]
+   - State "STARTED"    from "TODO"       [2014-11-17 Mon 11:01]
+   [2014-11-17 Mon]
+** DONE New timecard                                                :ARCHIVE:
+   CLOSED: [2014-11-21 Fri 10:13]
+   - State "DONE"       from "TODO"       [2014-11-21 Fri 10:13]
+   [2014-11-18 Tue]
+
+** DONE Convocar reunión sindicato                        :sindicato:ARCHIVE:
+   CLOSED: [2014-11-21 Fri 10:14]
+   - State "DONE"       from "TODO"       [2014-11-21 Fri 10:14]
+   [2014-11-17 Mon]
+
+** DONE kata emacs                                            :emacs:ARCHIVE:
+   CLOSED: [2014-11-21 Fri 10:14]
+   - State "DONE"       from "TODO"       [2014-11-21 Fri 10:14]
+   [2014-11-17 Mon]
+** DONE Fix again dev environment in jlean                      :v24:ARCHIVE:
+   CLOSED: [2014-11-21 Fri 17:56]
+   - State "DONE"       from "STARTED"    [2014-11-21 Fri 17:56]
+   - State "STARTED"    from "TODO"       [2014-11-19 Wed 05:57]
+   - State "DONE"       from "TODO"       [2014-11-19 Wed 05:56]
+   [2014-11-04 Tue]
+
+** CANCELLED Install wordpress in openshift for villaviciosa :podemos:ARCHIVE:
+   CLOSED: [2014-11-21 Fri 17:57]
+   - State "CANCELLED"  from "TODO"       [2014-11-21 Fri 17:57] \\
+     It's better to use Podemos TICs official wordpress instead.
+   [2014-11-08 Sat]
+
+** DONE Review and fix acutes: T110                             :v24:ARCHIVE:
+   CLOSED: [2014-11-21 Fri 17:57]
+   - State "DONE"       from "STARTED"    [2014-11-21 Fri 17:57]
+   - State "STARTED"    from "TODO"       [2014-11-21 Fri 12:10]
+   [2014-11-21 Fri]
+
+** DONE Research decimo state bug                               :v24:ARCHIVE:
+   CLOSED: [2014-11-21 Fri 17:58]
+   - State "DONE"       from "TODO"       [2014-11-21 Fri 17:58]
+   [2014-11-18 Tue]
+
+** DONE Use the new images in the slides: outline + shipyard snapshots :org:codemotion:ARCHIVE:
+   CLOSED: [2014-11-21 Fri 17:58]
+   - State "DONE"       from "TODO"       [2014-11-21 Fri 17:58]
+   [2014-11-19 Wed]
+
+** DONE Check if laser pointer works on laptop           :codemotion:ARCHIVE:
+   CLOSED: [2014-11-21 Fri 18:02]
+   - State "DONE"       from "TODO"       [2014-11-21 Fri 18:02]
+   [2014-11-21 Fri]
+** DONE Fix codemotion slide                             :codemotion:ARCHIVE:
+   CLOSED: [2014-11-25 Tue 13:24]
+   - State "DONE"       from "TODO"       [2014-11-25 Tue 13:24]
+   [2014-11-21 Fri]
+   CLOSED: [2014-11-26 Wed 06:14]
+   - State "DONE"       from "TODO"       [2014-11-26 Wed 06:14]
+   [2014-11-21 Fri]
+
+** DONE Practice presentation with laptop                :codemotion:ARCHIVE:
+   CLOSED: [2014-11-26 Wed 06:14]
+   - State "DONE"       from "TODO"       [2014-11-26 Wed 06:14]
+   [2014-11-21 Fri]
+
+** DONE Create first poll on "interests"                        :v24:ARCHIVE:
+   CLOSED: [2014-11-26 Wed 06:16]
+   - State "DONE"       from "TODO"       [2014-11-26 Wed 06:16]
+   [2014-11-21 Fri]
+** DONE Review and fix acutes: T110                        :T110:v24:ARCHIVE:
+   CLOSED: [2014-11-26 Wed 09:35]
+   - State "DONE"       from "STARTED"    [2014-11-26 Wed 09:35]
+   - State "STARTED"    from "TODO"       [2014-11-21 Fri 12:10]
+   [2014-11-21 Fri]
+
+** DONE Create first poll on "interests"                        :v24:ARCHIVE:
+   CLOSED: [2014-11-26 Wed 09:48]
+   - State "DONE"       from "TODO"       [2014-11-26 Wed 09:48]
+   [2014-11-21 Fri]
+
+** DONE Fix account number bug for companies T556          :T556:v24:ARCHIVE:
+   CLOSED: [2014-11-26 Wed 10:24]
+   - State "DONE"       from "TODO"       [2014-11-26 Wed 10:24]
+   [2014-11-17 Mon]
+
+** DONE Ticket T632: Error result page mobile              :T632:v24:ARCHIVE:
+   CLOSED: [2014-11-26 Wed 12:58]
+   - State "DONE"       from "TODO"       [2014-11-26 Wed 12:58]
+   [2014-11-26 Wed]
+
+** DONE Research decimo state bug                               :v24:ARCHIVE:
+   CLOSED: [2014-11-26 Wed 12:59]
+   - State "DONE"       from "TODO"       [2014-11-26 Wed 12:59]
+   [2014-11-18 Tue]
+** DONE Apply tokenization apache fix in production             :v24:ARCHIVE:
+   CLOSED: [2014-11-27 Thu 10:12]
+   - State "DONE"       from "TODO"       [2014-11-27 Thu 10:12]
+   [2014-11-19 Wed]
+** DONE Solicitud vacaciones                                    :v24:ARCHIVE:
+   CLOSED: [2014-11-27 Thu 10:13]
+   - State "DONE"       from "TODO"       [2014-11-27 Thu 10:13]
+   [2014-11-26 Wed]
+** DONE Fix wisent error when installing malabar              :emacs:ARCHIVE:
+   CLOSED: [2014-11-28 Fri 08:49]
+   - State "DONE"       from "TODO"       [2014-11-28 Fri 08:49]
+   [2014-11-18 Tue]
+
+** DONE Change Emacs theme                                    :emacs:ARCHIVE:
+   CLOSED: [2014-11-28 Fri 08:49]
+   - State "DONE"       from "TODO"       [2014-11-28 Fri 08:49]
+   [2014-09-10 Wed]
+
+** DONE Fix CNAMEs virtual hosts                                :v24:ARCHIVE:
+   CLOSED: [2014-11-28 Fri 08:50]
+   - State "DONE"       from "TODO"       [2014-11-28 Fri 08:50]
+   [2014-11-27 Thu]
+
+** DONE Setup lastpass in ipad                                      :ARCHIVE:
+   CLOSED: [2014-11-28 Fri 08:52]
+   - State "DONE"       from "TODO"       [2014-11-28 Fri 08:52]
+   [2014-11-28 Fri]
+
+** DONE Setup blog using github                              :github:ARCHIVE:
+   CLOSED: [2014-11-28 Fri 09:18]
+   - State "DONE"       from "STARTED"    [2014-11-28 Fri 09:18]
+   - State "STARTED"    from "TODO"       [2014-11-28 Fri 08:51]
+
+** DONE Buy udemy courses                                           :ARCHIVE:
+   CLOSED: [2014-11-28 Fri 09:32]
+   - State "DONE"       from "TODO"       [2014-11-28 Fri 09:32]
+   [2014-11-28 Fri]
+** DONE Talk to Rafa about enterpreneur camp at cybercamp           :ARCHIVE:
+   CLOSED: [2014-12-01 Mon 10:46]
+   - State "DONE"       from "TODO"       [2014-12-01 Mon 10:46]
+   [2014-11-28 Fri]
+
+** DONE Research magazine LaTex template                    :podemos:ARCHIVE:
+   CLOSED: [2014-12-01 Mon 10:46]
+   - State "DONE"       from "TODO"       [2014-12-01 Mon 10:46]
+   [2014-11-28 Fri]
+
+** DONE Setup trayer in xmonad					       :1/1p: :ARCHIVE:
+   CLOSED: [2014-12-01 Mon 11:11]
+   - State "DONE"       from "TODO"       [2014-12-01 Mon 11:11]
+   [2014-11-28 Fri]
+
+** DONE Schedule meeting on redesign architecture               :v24:ARCHIVE:
+   CLOSED: [2014-12-01 Mon 12:11]
+   - State "DONE"       from "TODO"       [2014-12-01 Mon 12:11]
+   [2014-12-01 Mon]
+
+** DONE Configure corporate calendar in thunderbird             :v24:ARCHIVE:
+   CLOSED: [2014-12-01 Mon 12:11]
+   - State "DONE"       from "TODO"       [2014-12-01 Mon 12:11]
+   [2014-12-01 Mon]
+*** https://github.com/Ericsson/exchangecalendar/releases 
+*** https://sentinelprime/EWS/Exchange.asmx 
+** DONE Fix java-config-2 error messages			   :1/1p:v24: :ARCHIVE:
+   CLOSED: [2014-12-01 Mon 16:48]
+   - State "DONE"       from "TODO"       [2014-12-01 Mon 16:48]
+   [2014-11-26 Wed]
+   - emerge -1 python-exec
+** DONE Fix again T556                                            :4/4p:T556: :ARCHIVE:
+   CLOSED: [2014-12-03 Wed 05:50]
+   - State "DONE"       from "STARTED"    [2014-12-03 Wed 05:50]
+   - State "STARTED"    from "TODO"       [2014-12-02 Tue 10:39]
+   [2014-12-02 Tue]
+
+** DONE SMS ticket                                                :1/5p:T571: :ARCHIVE:
+   CLOSED: [2014-12-03 Wed 05:50]
+   - State "DONE"       from "TODO"       [2014-12-03 Wed 05:50]
+   [2014-12-02 Tue]
+
+** DONE Request holidays                                        :v24:ARCHIVE:
+   CLOSED: [2014-12-03 Wed 05:51]
+   - State "DONE"       from "TODO"       [2014-12-03 Wed 05:51]
+   [2014-12-02 Tue]
+** DONE Fix CMS issue jtorr                                        :3/3p:v24: :ARCHIVE:
+   CLOSED: [2014-12-03 Wed 05:51]
+   - State "DONE"       from "TODO"       [2014-12-03 Wed 05:51]
+   [2014-12-02 Tue]
+** DONE Vacaciones + mail 9/12                                      :ARCHIVE:
+   CLOSED: [2014-12-03 Wed 11:11]
+   - State "DONE"       from "STARTED"    [2014-12-03 Wed 11:11]
+   - State "STARTED"    from "TODO"       [2014-12-03 Wed 09:56]
+   [2014-12-03 Wed]
+** DONE Revisar bbva                                                :ARCHIVE:
+   CLOSED: [2014-12-03 Wed 18:58]
+   - State "DONE"       from "TODO"       [2014-12-03 Wed 18:58]
+   [2014-12-03 Wed]
+
+** DONE Fix surefire/failsafe test issue                   :v24:T685:ARCHIVE:
+   CLOSED: [2014-12-03 Wed 18:58]
+   - State "DONE"       from "TODO"       [2014-12-03 Wed 18:58]
+   [2014-12-03 Wed]
+*** psp-computop                                                       :3/3p:
+*** nlp-pricemodel                                                     :1/2p:
+*** nlp-creditcard                                                     :1/1p:
+*** common-processes                                                   :1/1p:
+** DONE Dockerfile-maven-plugin: process a template		       :2/2p:d-m-p:acmsl: :ARCHIVE:
+   CLOSED: [2014-12-04 Thu 05:55]
+   - State "DONE"       from "STARTED"    [2014-12-04 Thu 05:55]
+   - State "STARTED"    from "TODO"       [2014-12-02 Tue 06:55]
+   [2014-11-21 Fri]
+
+** DONE Access target process' properties/metadata         :1/2p:d-m-p:acmsl: :ARCHIVE:
+   CLOSED: [2014-12-04 Thu 06:33]
+   - State "DONE"       from "STARTED"    [2014-12-04 Thu 06:33]
+   - State "STARTED"    from "TODO"       [2014-12-04 Thu 06:02]
+   [2014-12-04 Thu]
+
+** DONE Define a plan for the superlearner course          :0/1p:learn:udemy: :speedreading:ARCHIVE:
+   CLOSED: [2014-12-05 Fri 10:39]
+   - State "DONE"       from "TODO"       [2014-12-05 Fri 10:39]
+*** week 1: Learning the basics
+- 15min daily: [[http://www.keytostudy.com/short-term-visual-memory-training/][visual short-term memory training]]
+- 10min daily: [[http://www.keytostudy.com/visual-marker-creation/][create visual markers for abstract stuff]]
+- 15min daily: [[http://www.keytostudy.com/linking-markers-exercise/][practice linking markers]]
+- 10min daily: [[http://www.keytostudy.com/test-psychological-testing][learn more about yourself]]
+*** week 2: Train visualization and memory
+- 20min daily: [[http://www.keytostudy.com/visualization-exercise/][Improve your visualization]]
+- 20min daily: [[http://www.keytostudy.com/random-images-generator/][Memorize remember images]]
+- 20min daily: [[http://www.keytostudy.com/20-random-words-generator/][memorize words]]
+*** week 3: Starting working with texts
+- 5-10min daily: previous exercises
+- 60min daily: [[http://www.keytostudy.com/remembering-long-numbers/][remember all the numbers]] ([[http://www.keytostudy.com/tag-cloud-generation/][select words for initial visual markers]])
+*** week 4: Starting speedreading - subvocalization
+- 20min daily: [[http://www.keytostudy.com/avoiding-subvocalization/][subvocalization suppression]]
+- 10min daily: [[http://www.keytostudy.com/short-term-visual-memory-training/][visual perception speed]]
+- 20min daily: [[http://www.keytostudy.com/cascade-reading-tool/][scroll through text with high speed]]
+*** week 5: Speedreading - saccades
+- 40min daily: [[http://www.keytostudy.com/running-text-exercise/][running text]]
+- 10min daily: [[http://www.keytostudy.com/visual-angle-training][speedreading Schulz tables]]
+- 10min daily: [[http://www.keytostudy.com/multicolumn-saccade-formatter/][multicolumn saccades]]
+*** week 6: Book reading
+- 60min daily: Measure how much time it takes to read a page from a book.
+               Then 5 pages at x2 speed.
+               Then 3 pages at x1.5 speed.
+               Then 5 pages at x1.2 speed.
+*** Everyday training
+- [[http://www.keytostudy.com/amazing-list-simple-exercises-time-limited-offer/][Simple exercises]]
+   [2014-12-03 Wed]
+
+** DONE Make template be provided by the target project                 :d-m-p:2/2p: :acmsl:ARCHIVE:
+CLOSED: [2014-12-06 Sat 06:56]
+- State "DONE"       from "TODO"       [2014-12-06 Sat 06:56]
+[2014-12-05 Fri]
+** DONE Fix surefire/failsafe test issue                   :v24:T685:ARCHIVE:
+   CLOSED: [2014-12-10 Wed 09:49]
+   - State "DONE"       from "TODO"       [2014-12-10 Wed 09:49]
+- State "TODO"       from "DONE"       [2014-12-04 Thu 09:46] \\
+ Missing projects
+- State "DONE"       from "TODO"       [2014-12-03 Wed 18:58]
+[2014-12-03 Wed]
+*** psp-computop                                                       :3/3p:
+*** nlp-pricemodel                                                     :1/2p:
+*** nlp-creditcard                                                     :1/1p:
+*** common-processes                                                   :1/1p:
+*** psp-api, common-errorcodes, messaging, nlp-acquirers, nlp-processworkflow                                        :1/1p:
+*** nlp-processes                                                      :1/3p:
+*** nlp-webapp-api                                                     :3/3p:
+** DONE Talk to m.a. about test certification                       :ARCHIVE:
+CLOSED: [2014-12-06 Sat 07:00]
+- State "DONE"       from "TODO"       [2014-12-06 Sat 07:00]
+[2014-11-28 Fri]
+** DONE Mount euler disks by name with udev             :1/1p:homework:acmsl: :ARCHIVE:
+CLOSED: [2014-12-07 Sun 10:32]
+   - State "DONE"       from "STARTED"    [2014-12-07 Sun 10:32]
+   - State "STARTED"    from "TODO"       [2014-12-07 Sun 09:56]
+   [2014-10-27 Mon]
+** DONE Fix sound on newjlean                              :homework:ARCHIVE:
+   CLOSED: [2014-12-08 Mon 12:15]
+   - State "DONE"       from "TODO"       [2014-12-08 Mon 12:15]
+   - State "TODO"       from "STARTED"    [2014-10-22 Wed 19:41] \\
+     PulseAudio is not working yet
+   - State "STARTED"    from "TODO"       [2014-10-15 Wed 09:17]
+
+** DONE Upgrade kernel in feynman                                   :ARCHIVE:
+   CLOSED: [2014-12-08 Mon 12:15]
+   - State "DONE"       from "STARTED"    [2014-12-08 Mon 12:15]
+   - State "STARTED"    from "TODO"       [2014-11-28 Fri 08:52]
+   [2014-11-28 Fri]
+
+** DONE Think about a new-skill plan                          :learn:ARCHIVE:
+   CLOSED: [2014-12-08 Mon 12:17]
+   - State "DONE"       from "STARTED"    [2014-12-08 Mon 12:17]
+   - State "STARTED"    from "TODO"       [2014-09-12 Fri 01:45]
+   [2014-09-12 Fri]
+** CANCELLED Fix nlp-processes-api                                  :ARCHIVE:
+   CLOSED: [2014-12-12 Fri 09:57]
+   - State "CANCELLED"  from "TODO"       [2014-12-12 Fri 09:57] \\
+     It was a bug indeed introduced by mistake and reverted already
+   [2014-12-10 Wed]
+** DONE Install anonymous pro in emacs and intellij                    :1/1p: :ARCHIVE:
+   CLOSED: [2014-12-12 Fri 09:37]
+   - State "DONE"       from "TODO"       [2014-12-12 Fri 09:37]
+   [2014-12-12 Fri]
+
+** DONE Send UGT training request                                   :ARCHIVE:
+   CLOSED: [2014-12-16 Tue 12:31]
+   - State "DONE"       from "TODO"       [2014-12-16 Tue 12:31]
+   [2014-12-16 Tue]
+** DONE Add jenkins job for dockerfile plugin                          :4/1p: :ARCHIVE:
+   CLOSED: [2014-12-17 Wed 06:16]
+   - State "DONE"       from "STARTED"    [2014-12-17 Wed 06:16]
+   - State "STARTED"    from "TODO"       [2014-12-06 Sat 07:03]
+   [2014-12-03 Wed]
+** DONE Fix get-new-version in jenkins                              :ARCHIVE:
+   CLOSED: [2014-12-18 Thu 19:34]
+   - State "DONE"       from "STARTED"    [2014-12-18 Thu 19:34]
+   - State "STARTED"    from "TODO"       [2014-12-16 Tue 05:51]
+   [2014-12-16 Tue]
+
+** DONE Add a maven task to generate Dockerfiles       :d:m:p:docker:ARCHIVE:
+   CLOSED: [2014-12-18 Thu 19:35]
+   - State "DONE"       from "TODO"       [2014-12-18 Thu 19:35]
+   [2014-11-21 Fri]
+
+** DONE Create first poll on "interests"                        :v24:ARCHIVE:
+   CLOSED: [2014-12-18 Thu 19:35]
+   - State "DONE"       from "TODO"       [2014-12-18 Thu 19:35]
+   [2014-11-21 Fri]
+*
+** DONE PoC CMIS                                                :v24:ARCHIVE:
+   CLOSED: [2014-12-18 Thu 19:38]
+   - State "DONE"       from "TODO"       [2014-12-18 Thu 19:38]
+   [2014-12-05 Fri]
+** DONE Check jenkins.acm-sl.org can be recovered using the Dockerfile plus acmsl-jenkins-configs.git :ARCHIVE:
+   CLOSED: [2014-12-19 Fri 06:00]
+   - State "DONE"       from "TODO"       [2014-12-19 Fri 06:00]
+   [2014-10-04 Sat]
+
+** DONE Implement a script to generate Dockerfiles based on templates, as wking's :docker:ARCHIVE:
+   CLOSED: [2014-12-19 Fri 06:00]
+   - State "DONE"       from "TODO"       [2014-12-19 Fri 06:00]
+** CANCELLED Build a docker image for nlp-webapp, even with hard-coded env settings :docker:v24:ARCHIVE:
+   CLOSED: [2014-12-19 Fri 06:00]
+   - State "CANCELLED"  from "STARTED"    [2014-12-19 Fri 06:00] \\
+     Not needed. I'll use dockerfile-maven-plugin.
+   - State "STARTED"    from "TODO"       [2014-09-18 Thu 11:35]
+   - State "TODO"       from "STARTED"    [2014-09-15 Mon 11:17]
+   - State "STARTED"    from "TODO"       [2014-09-12 Fri 01:36]
+
+** DONE Elaborate a new-skill plan                    :superlearning:ARCHIVE:
+   CLOSED: [2014-12-19 Fri 06:03]
+   - State "DONE"       from "TODO"       [2014-12-19 Fri 06:03]
+   - State "TODO"       from "STARTED"    [2014-12-16 Tue 05:51] \\
+     Not started really
+   - State "STARTED"    from "TODO"       [2014-09-12 Fri 01:45]
+   [2014-09-12 Fri]
+
+** DONE Make dockerfile-maven-plugin deploy a -dockerfile file :d:m:p:ARCHIVE:
+   CLOSED: [2014-12-19 Fri 06:04]
+   - State "DONE"       from "TODO"       [2014-12-19 Fri 06:04]
+   [2014-12-19 Fri]
+
+** DONE Add cron to perform mvn update:properties to refresh the local repository in jenkins :jenkins:acmsl:ARCHIVE:
+   CLOSED: [2014-12-19 Fri 07:50]
+   - State "DONE"       from "TODO"       [2014-12-19 Fri 07:50]
+   [2014-12-19 Fri]
+
+** DONE Make QueryJ job work                   :queryj:jenkins:acmsl:ARCHIVE:
+   CLOSED: [2014-12-19 Fri 07:51]
+   - State "DONE"       from "TODO"       [2014-12-19 Fri 07:51]
+   [2014-12-18 Thu]
+
+** DONE Use zsh and customize prompt                          :acmsl:ARCHIVE:
+   CLOSED: [2014-12-19 Fri 07:51]
+   - State "DONE"       from "TODO"       [2014-12-19 Fri 07:51]
+   [2014-12-08 Mon]
+
+** DONE Add radiator-like view in jenkins             :acmsl:jenkins:ARCHIVE:
+   CLOSED: [2014-12-19 Fri 07:51]
+   - State "DONE"       from "TODO"       [2014-12-19 Fri 07:51]
+   [2014-12-19 Fri]
+** DONE Send mail to Bernardo                                   :ugt:ARCHIVE:
+   CLOSED: [2014-12-19 Fri 11:56]
+   - State "DONE"       from "TODO"       [2014-12-19 Fri 11:56]
+   [2014-12-19 Fri]
+
+** DONE Test lastest JDK                                            :ARCHIVE:
+   CLOSED: [2014-12-19 Fri 11:57]
+   - State "DONE"       from "STARTED"    [2014-12-19 Fri 11:57]
+   - State "STARTED"    from "TODO"       [2014-12-16 Tue 09:49]
+   [2014-12-10 Wed]
+** DONE Write Podemos post                                  :podemos:ARCHIVE:
+   CLOSED: [2014-12-20 Sat 18:05]
+   - State "DONE"       from "TODO"       [2014-12-20 Sat 18:05]
+   [2014-12-20 Sat]
+
+** DONE Fix Vavalin issue                                           :ARCHIVE:
+   CLOSED: [2014-12-21 Sun 07:51]
+   - State "DONE"       from "STARTED"    [2014-12-21 Sun 07:51]
+   - State "STARTED"    from "TODO"       [2014-12-20 Sat 18:06]
+   [2014-12-20 Sat]
+** CANCELLED Create exim image                                      :ARCHIVE:
+   CLOSED: [2014-12-21 Sun 10:55]
+   - State "CANCELLED"  from "TODO"       [2014-12-21 Sun 10:55] \\
+     Created a vmware image instead
+   [2014-12-19 Fri]
+
+** DONE Reset BO password                                           :ARCHIVE:
+   CLOSED: [2014-12-23 Tue 11:33]
+   - State "DONE"       from "TODO"       [2014-12-23 Tue 11:33]
+   [2014-12-22 Mon]
+** DONE Fix jekyll deploy                                    :github:ARCHIVE:
+   CLOSED: [2014-12-23 Tue 08:20]
+   - State "DONE"       from "TODO"       [2014-12-23 Tue 08:20]
+   [2014-12-21 Sun]
+** DONE Prepare T-shirt design                                         :2/2p: :podemos:ARCHIVE:
+   CLOSED: [2014-12-24 Wed 09:20]
+   - State "DONE"       from "TODO"       [2014-12-24 Wed 09:20]
+   [2014-12-24 Wed]
+** DONE Finish jdocs installation                               :v24:ARCHIVE:
+   CLOSED: [2014-12-26 Fri 08:37]
+   - State "DONE"       from "STARTED"    [2014-12-26 Fri 08:37]
+   - State "STARTED"    from "WAITING"    [2014-12-23 Tue 19:33]
+   - State "WAITING"    from "TODO"       [2014-12-16 Tue 13:01] \\
+     Waiting for sudo to work
+   [2014-12-16 Tue]
+*** DONE Autologin for jenkins via ssh                                      :0/1p:
+    CLOSED: [2014-12-23 Tue 19:59]
+    - State "DONE"       from "TODO"       [2014-12-23 Tue 19:59]
+    - State "TODO"       from ""           [2014-12-23 Tue 19:32] \\
+      jdocs available now
+*** v24-pom update to upload javadocs                                  :2/2p:
+** DONE Initial canvas for podemos                                     :3/3p: :ARCHIVE:
+   CLOSED: [2014-12-26 Fri 08:37]
+   - State "DONE"       from "TODO"       [2014-12-26 Fri 08:37]
+   [2014-12-24 Wed]
+
+** DONE Use managed scripts in jenkins                              :ARCHIVE:
+   CLOSED: [2014-12-26 Fri 08:38]
+   - State "DONE"       from "TODO"       [2014-12-26 Fri 08:38]
+   [2014-12-24 Wed]
+
+** DONE Ensure Jenkins uses maven installation on the host          :ARCHIVE:
+   CLOSED: [2014-12-26 Fri 08:38]
+   - State "DONE"       from "TODO"       [2014-12-26 Fri 08:38]
+   [2014-12-16 Tue]
+
+** CANCELLED Check error messages at shell login                    :ARCHIVE:
+   CLOSED: [2014-12-26 Fri 08:38]
+   - State "CANCELLED"  from "TODO"       [2014-12-26 Fri 08:38] \\
+     I forgot what was this about
+   [2014-11-19 Wed]
+** DONE Fix integration tests issue                                 :ARCHIVE:
+   CLOSED: [2014-12-26 Fri 09:38]
+   - State "DONE"       from "TODO"       [2014-12-26 Fri 09:38]
+   [2014-12-23 Tue]
+** DONE Fix QueryJ-SQL tests                                        :ARCHIVE:
+   CLOSED: [2014-12-26 Fri 13:16]
+   - State "DONE"       from "TODO"       [2014-12-26 Fri 13:16]
+   [2014-12-20 Sat]
+** DONE Make sure all QueryJ artifacts get deployed in Artifactory  :ARCHIVE:
+   CLOSED: [2014-12-27 Sat 17:35]
+   - State "DONE"       from "TODO"       [2014-12-27 Sat 17:35]
+   [2014-12-20 Sat]
+
+** DONE Finish default wordpress installation in openshift, for podemos villaviciosa :ARCHIVE:
+   CLOSED: [2014-12-27 Sat 20:00]
+   - State "DONE"       from "TODO"       [2014-12-27 Sat 20:00]
+   [2014-12-26 Fri]
+   [[file:~/org/todo.org::*Fix%20QueryJ-debugging%20tests][Fix QueryJ-debugging tests]]
+** DONE Find out how to inject Jenkins status in github             :ARCHIVE:
+   CLOSED: [2014-12-30 Tue 10:45]
+   - State "DONE"       from "TODO"       [2014-12-30 Tue 10:45]
+   [2014-12-26 Fri]
+   [[file:~/org/todo.org::*Fix%20QueryJ-debugging%20tests][Fix QueryJ-debugging tests]]
+
+** DONE Find and read Manuel article                                :ARCHIVE:
+   CLOSED: [2014-12-30 Tue 10:46]
+   - State "DONE"       from "TODO"       [2014-12-30 Tue 10:46]
+   [2014-12-26 Fri]
+
+** DONE Upload missing artifacts to Artifactory                     :ARCHIVE:
+   CLOSED: [2014-12-30 Tue 11:07]
+   - State "DONE"       from "TODO"       [2014-12-30 Tue 11:07]
+   [2014-12-30 Tue]
+   [[file:~/org/todo.org::*Tasks][Tasks]]
+
+** DONE Deploy jenkins image in luna                                :ARCHIVE:
+   CLOSED: [2014-12-30 Tue 11:07]
+   - State "DONE"       from "TODO"       [2014-12-30 Tue 11:07]
+   [2014-12-19 Fri]
+
+** DONE Think of an article on Podemos and religion                 :ARCHIVE:
+   CLOSED: [2014-12-30 Tue 12:36]
+   - State "DONE"       from "TODO"       [2014-12-30 Tue 12:36]
+   [2014-12-28 Sun]
+   [[file:~/org/todo.org::*Tasks][Tasks]]
+
+** DONE Fix jenkins@acm-sl.org                                      :ARCHIVE:
+   CLOSED: [2014-12-30 Tue 12:40]
+   - State "DONE"       from "TODO"       [2014-12-30 Tue 12:40]
+   [2014-12-27 Sat]
+** DONE New music                                                   :ARCHIVE:
+   CLOSED: [2014-12-30 Tue 17:19]
+   - State "DONE"       from "TODO"       [2014-12-30 Tue 17:19]
+   [2014-12-29 Mon]
+   [[file:~/org/todo.org::*Fix%20jenkins@acm-sl.org][Fix jenkins@acm-sl.org]]
+** DONE Call fluvert                                                :ARCHIVE:
+   CLOSED: [2015-01-07 Wed 10:30]
+   - State "DONE"       from "TODO"       [2015-01-07 Wed 10:30]
+   [2015-01-07 Wed]
+-  916 343 167
+- Amortiguadores
+- Aceite
+- Luz antiniebla
+- Sistema descontaminación motor
+
+** DONE Fix ww charges                                              :ARCHIVE:
+   CLOSED: [2015-01-07 Wed 10:31]
+   - State "DONE"       from "TODO"       [2015-01-07 Wed 10:31]
+   [2015-01-07 Wed]
+** DONE Write Podemos post                                          :ARCHIVE:
+   CLOSED: [2015-01-08 Thu 10:50]
+   - State "DONE"       from "TODO"       [2015-01-08 Thu 10:50]
+   [2015-01-07 Wed]
+** DONE Call log provider                                           :ARCHIVE:
+   CLOSED: [2015-01-09 Fri 11:26]
+   - State "DONE"       from "TODO"       [2015-01-09 Fri 11:26]
+   [2015-01-08 Thu]
+
+** DONE MariaDB image                                               :ARCHIVE:
+   CLOSED: [2015-01-09 Fri 11:26]
+   - State "DONE"       from "TODO"       [2015-01-09 Fri 11:26]
+   [2015-01-08 Thu]
+
+** DONE Setup firefox sync                                      :1/3p:docker: :ARCHIVE:
+   CLOSED: [2015-01-09 Fri 11:26]
+   - State "DONE"       from "TODO"       [2015-01-09 Fri 11:26]
+** DONE Acta Podemos                                                :ARCHIVE:
+   CLOSED: [2015-01-10 Sat 07:48]
+   - State "DONE"       from "TODO"       [2015-01-10 Sat 07:48]
+   [2015-01-09 Fri]
+
+** CANCELLED Write about proposal for Podemos                       :ARCHIVE:
+   CLOSED: [2015-01-10 Sat 07:48]
+   - State "CANCELLED"  from "TODO"       [2015-01-10 Sat 07:48] \\
+     Not working on Podemos anymore
+   [2014-12-26 Fri]
+
+** DONE Write Arancha                                               :ARCHIVE:
+   CLOSED: [2015-01-10 Sat 08:53]
+   - State "DONE"       from "TODO"       [2015-01-10 Sat 08:53]
+** DONE resume                                                      :ARCHIVE:
+   CLOSED: [2015-01-10 Sat 11:31]
+   - State "DONE"       from "TODO"       [2015-01-10 Sat 11:31]
+   [2015-01-08 Thu]
+** DONE List recurrent payments                                     :ARCHIVE:
+   CLOSED: [2015-01-12 Mon 10:48]
+   - State "DONE"       from "TODO"       [2015-01-12 Mon 10:48]
+   [2015-01-07 Wed]
+
+** DONE List of tickets from 2014 (trac + phabricator)             :2/2p:v24: :ARCHIVE:
+   CLOSED: [2015-01-12 Mon 12:02]
+   - State "DONE"       from "STARTED"    [2015-01-12 Mon 12:02]
+   - State "STARTED"    from "TODO"       [2015-01-12 Mon 10:49]
+   [2015-01-12 Mon]
+
+** DONE Review CMS error                                            :ARCHIVE:
+   CLOSED: [2015-01-12 Mon 13:19]
+   - State "DONE"       from "TODO"       [2015-01-12 Mon 13:19]
+   [2015-01-12 Mon]
+
+** DONE Transfer to AJ                                              :ARCHIVE:
+   CLOSED: [2015-01-12 Mon 13:28]
+   - State "DONE"       from "TODO"       [2015-01-12 Mon 13:28]
+   [2015-01-12 Mon]
+
+** DONE Find out where [[http://blog.ventura24.es/wp-content/plugins/creare-eu-cookie-law-banner/images/close.png]] comes from in v24 blog :ARCHIVE:
+   CLOSED: [2015-01-12 Mon 16:16]
+   - State "DONE"       from "TODO"       [2015-01-12 Mon 16:16]
+   [2015-01-12 Mon]
+** DONE Enable https-only in both locations                         :ARCHIVE:
+   CLOSED: [2015-01-12 Mon 16:16]
+   - State "DONE"       from "TODO"       [2015-01-12 Mon 16:16]
+   [2015-01-12 Mon]
+
+** DONE Review objectives                                           :ARCHIVE:
+   CLOSED: [2015-01-12 Mon 16:16]
+   - State "DONE"       from "TODO"       [2015-01-12 Mon 16:16]
+   [2015-01-12 Mon]
+** DONE Stream audio from phone to pc via bluetooth                 :ARCHIVE:
+   CLOSED: [2015-01-14 Wed 10:40]
+   - State "DONE"       from "TODO"       [2015-01-14 Wed 10:40]
+   [2015-01-14 Wed]
+** DONE Re-generate jenkins.acm-sl.org                              :ARCHIVE:
+   CLOSED: [2015-01-18 Sun 11:23]
+   - State "DONE"       from "TODO"       [2015-01-18 Sun 11:23]
+   [2015-01-17 Sat]
+
+** DONE Upgrade Artifactory to 4.0.2                                :ARCHIVE:
+   CLOSED: [2015-01-25 Sun 08:17]
+   - State "DONE"       from "TODO"       [2015-01-25 Sun 08:17]
+   [2014-12-19 Fri]
+** DONE Prepare location switch                                 :v24:ARCHIVE:
+   CLOSED: [2015-01-18 Sun 11:23]
+   - State "DONE"       from "TODO"       [2015-01-18 Sun 11:23]
+   [2015-01-12 Mon]
+
+** DONE Regenerate maven.acm-sl.org                                 :ARCHIVE:
+   CLOSED: [2015-01-18 Sun 11:47]
+   - State "DONE"       from "STARTED"    [2015-01-18 Sun 11:47]
+   - State "STARTED"    from "TODO"       [2015-01-18 Sun 11:23]
+   [2015-01-17 Sat]
+** DONE Fix credentials for jenkins when deploying to plugin-releases-local in maven.acm-sl.org :ARCHIVE:
+   CLOSED: [2015-01-16 Fri 11:32]
+   - State "DONE"       from "TODO"       [2015-01-16 Fri 11:32]
+   [2015-01-15 Thu]
+** DONE Ensure nlp-backoffice dockerfile gets uploaded to Artifactory :ARCHIVE:
+   CLOSED: [2015-01-20 Tue 09:56]
+   - State "DONE"       from "STARTED"    [2015-01-20 Tue 09:56]
+   - State "STARTED"    from "TODO"       [2015-01-14 Wed 11:05]
+   [2015-01-14 Wed]
+** DONE Fix QueryJ errors in Java7                                  :ARCHIVE:
+   CLOSED: [2015-01-21 Wed 11:01]
+   - State "DONE"       from "TODO"       [2015-01-21 Wed 11:01]
+   [2015-01-18 Sun]
+** DONE Deploy a jenkins slave in cm-es-01-hh1                      :ARCHIVE:
+   CLOSED: [2015-01-22 Thu 09:54]
+   - State "DONE"       from "TODO"       [2015-01-22 Thu 09:54]
+   [2015-01-21 Wed]
+** DONE Upload images to hh1 docker registry                        :ARCHIVE:
+   CLOSED: [2015-01-22 Thu 09:54]
+   - State "DONE"       from "TODO"       [2015-01-22 Thu 09:54]
+   [2015-01-20 Tue]
+
+** DONE Create jenkins image                                    :v24:ARCHIVE:
+   CLOSED: [2015-01-22 Thu 09:55]
+   - State "DONE"       from "TODO"       [2015-01-22 Thu 09:55]
+   [2015-01-20 Tue]
+
+** DONE Create CMS users                                        :v24:ARCHIVE:
+** DONE Objective: make Jenkins push the Backoffice image       :v24:ARCHIVE:
+   CLOSED: [2015-01-23 Fri 09:45]
+   - State "DONE"       from "TODO"       [2015-01-23 Fri 09:45]
+   [2015-01-12 Mon]
+** DONE Implement Xiana's script                                    :ARCHIVE:
+   CLOSED: [2015-01-23 Fri 12:17]
+   - State "DONE"       from "STARTED"    [2015-01-23 Fri 12:17]
+   - State "STARTED"    from "TODO"       [2015-01-23 Fri 09:45]
+   [2015-01-22 Thu]
+** DONE Location switch: nlp-cc                                     :ARCHIVE:
+   CLOSED: [2015-01-27 Tue 09:39]
+   - State "DONE"       from "TODO"       [2015-01-27 Tue 09:39]
+   [2015-01-23 Fri]
+
+** CANCELLED Fix why sms confirmations are not sent                 :ARCHIVE:
+   CLOSED: [2015-01-27 Tue 09:39]
+   - State "CANCELLED"  from "DONE"       [2015-01-27 Tue 09:39]
+   - State "DONE"       from "STARTED"    [2015-01-27 Tue 09:39]
+   - State "STARTED"    from "TODO"       [2014-12-22 Mon 10:49]
+   [2014-12-22 Mon]
+
+** CANCELLED Fill-in Podemos project form                           :ARCHIVE:
+   CLOSED: [2015-01-27 Tue 09:39]
+   - State "CANCELLED"  from "TODO"       [2015-01-27 Tue 09:39]
+   [2015-01-17 Sat]
+
+** DONE Finish jdocs installation                                   :ARCHIVE:
+   CLOSED: [2015-01-27 Tue 09:40]
+   - State "DONE"       from "WAITING"    [2015-01-27 Tue 09:40]
+   - State "WAITING"    from "TODO"       [2014-12-16 Tue 13:01] \\
+     Waiting for sudo to work
+   [2014-12-16 Tue]
+
+** DONE Apply tokenization apache fix in production             :v24:ARCHIVE:
+   CLOSED: [2015-01-27 Tue 09:40]
+   - State "DONE"       from "TODO"       [2015-01-27 Tue 09:40]
+   CLOCK: [2014-11-25 Tue 13:20]
+   [2014-11-19 Wed]
+
+** DONE Fix restricted.ventura24.es virtual host                :v24:ARCHIVE:
+   CLOSED: [2015-01-27 Tue 09:41]
+   - State "DONE"       from "TODO"       [2015-01-27 Tue 09:41]
+   [2014-11-07 Fri]
+
+** DONE Review and start nlp-ws in C				       :0/1p: :ARCHIVE:
+   CLOSED: [2015-01-27 Tue 09:41]
+   - State "DONE"       from "TODO"       [2015-01-27 Tue 09:41]
+   [2014-11-11 Tue]
+** DONE Review app-es-0{1,2,3,4}-c processes			       :0/1p: :ARCHIVE:
+   CLOSED: [2015-01-27 Tue 09:41]
+   - State "DONE"       from "TODO"       [2015-01-27 Tue 09:41]
+   - State "DONE"       from "STARTED"    [2014-11-14 Fri 10:47]
+   - State "STARTED"    from "TODO"       [2014-11-11 Tue 09:54]
+   [2014-11-11 Tue]
+** DONE Review and start opencms in C				       :0/1p: :ARCHIVE:
+   CLOSED: [2015-01-27 Tue 09:41]
+   - State "DONE"       from "TODO"       [2015-01-27 Tue 09:41]
+   [2014-11-11 Tue]
+
+** DONE Deploy and review nlp-cc in C                               :ARCHIVE:
+   CLOSED: [2015-01-27 Tue 09:42]
+   - State "DONE"       from "TODO"       [2015-01-27 Tue 09:42]
+   [2014-11-11 Tue]
+** DONE Review nlp-dss in C                                         :ARCHIVE:
+   CLOSED: [2015-02-03 Tue 09:44]
+   - State "DONE"       from "TODO"       [2015-02-03 Tue 09:44]
+   [2014-11-11 Tue]
+** DONE Deploy and review nlp-backoffice in C                       :ARCHIVE:
+   CLOSED: [2015-02-03 Tue 09:44]
+   - State "DONE"       from "TODO"       [2015-02-03 Tue 09:44]
+   [2014-11-11 Tue]
+
+** DONE Answer Arancha                                              :ARCHIVE:
+   CLOSED: [2015-02-03 Tue 09:44]
+   - State "DONE"       from "TODO"       [2015-02-03 Tue 09:44]
+   [2015-01-12 Mon]
+
+** DONE Find out why Jenkins doesn't see changes in github          :ARCHIVE:
+   Closed: [2015-02-03 Tue 09:45]
+   - State "DONE"       from "TODO"       [2015-02-03 Tue 09:45]
+   [2015-01-15 Thu]
+
+** CANCELLED Fix decrypt                                            :ARCHIVE:
+   CLOSED: [2015-02-03 Tue 09:45]
+   - State "CANCELLED"  from "TODO"       [2015-02-03 Tue 09:45] \\
+     Can't remember what this was about.
+   [2014-12-23 Tue]
+
+** CANCELLED Plantilla horas sindicales                             :ARCHIVE:
+   CLOSED: [2015-02-03 Tue 11:12]
+   - State "CANCELLED"  from "TODO"       [2015-02-03 Tue 11:12] \\
+     It will be done by m.a.
+   [2015-01-15 Thu]
+
+** DONE Upgrade Artifactory to 4.0.2                                :ARCHIVE:
+   CLOSED: [2015-02-03 Tue 11:13]
+   - State "DONE"       from "TODO"       [2015-02-03 Tue 11:13]
+   [2014-12-19 Fri]
+
+** DONE Review git subtree / freeze / etc.                          :ARCHIVE:
+   CLOSED: [2015-02-03 Tue 11:58]
+   - State "DONE"       from "TODO"       [2015-02-03 Tue 11:58]
+   [2015-02-03 Tue]
+** DONE Objectives: backoffice image                                :ARCHIVE:
+   CLOSED: [2015-01-24 Sat 08:56]
+   - State "DONE"       from "TODO"       [2015-01-24 Sat 08:56]
+   [2015-01-12 Mon]
+** CANCELLED Fix why sms confirmations are not sent                 :ARCHIVE:
+   CLOSED: [2015-01-25 Sun 08:30]
+   - State "CANCELLED"  from "STARTED"    [2015-01-25 Sun 08:30] \\
+     Not needed
+   - State "STARTED"    from "TODO"       [2014-12-22 Mon 10:49]
+   [2014-12-22 Mon]
+
+** DONE Ensure javadocs.jar are deployed in each release            :ARCHIVE:
+   CLOSED: [2015-01-25 Sun 08:31]
+   - State "DONE"       from "TODO"       [2015-01-25 Sun 08:31]
+   [2015-01-17 Sat]
+
+** DONE Review own tickets                                          :ARCHIVE:
+   CLOSED: [2015-01-25 Sun 08:31]
+   - State "DONE"       from "TODO"       [2015-01-25 Sun 08:31]
+   [2015-01-12 Mon]
+
+** DONE Find out why Jenkins doesn't see changes in github          :ARCHIVE:
+   CLOSED: [2015-01-25 Sun 08:32]
+   - State "DONE"       from "TODO"       [2015-01-25 Sun 08:32]
+   [2015-01-15 Thu]
+
+** DONE Watch tutorial on blender animation                         :ARCHIVE:
+   CLOSED: [2015-01-25 Sun 09:29]
+   - State "DONE"       from "TODO"       [2015-01-25 Sun 09:29]
+   [2015-01-25 Sun]
+
+** DONE Watch tutorial on blender shading and lighting              :ARCHIVE:
+   CLOSED: [2015-01-25 Sun 11:06]
+   - State "DONE"       from "TODO"       [2015-01-25 Sun 11:06]
+   [2015-01-25 Sun]
+
+** DONE Watch tutorial on blender "rendering with cycles"           :ARCHIVE:
+   CLOSED: [2015-01-25 Sun 11:18]
+   - State "DONE"       from "TODO"       [2015-01-25 Sun 11:18]
+** DONE Write to Carlos                                             :ARCHIVE:
+   CLOSED: [2015-02-03 Tue 20:23]
+   - State "DONE"       from "TODO"       [2015-02-03 Tue 20:23]
+   [2015-02-03 Tue]
+** DONE Ask for taking ugt course on 18/2/2015                      :ARCHIVE:
+   CLOSED: [2015-02-07 Sat 17:32]
+   - State "DONE"       from "TODO"       [2015-02-07 Sat 17:32]
+   [2015-02-03 Tue]
+
+** DONE Follow Try Ruby course                                         :2/2p: :ARCHIVE:
+   Closed: [2015-02-07 Sat 17:50]
+   - State "DONE"       from "TODO"       [2015-02-07 Sat 17:50]
+   [2015-02-07 Sat]
+** DONE Script for a single book on it-ebooks                       :ARCHIVE:
+   CLOSED: [2015-02-09 Mon 06:43]
+   - State "DONE"       from "TODO"       [2015-02-09 Mon 06:43]
+   [2015-02-07 Sat]
+
+** DONE Install blender in feynman                                  :ARCHIVE:
+   CLOSED: [2015-02-09 Mon 07:45]
+   - State "DONE"       from "TODO"       [2015-02-09 Mon 07:45]
+   [2015-02-09 Mon]
+
+*** Used the tbz2 directly from blender.org
+** DONE Find out whether the Java architect certification exams can be extended :0/1p: :ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:17]
+   - State "DONE"       from "CANCELLED"  [2015-02-13 Fri 07:18]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:17] \\
+     Not in V24 anymore
+   [2014-11-28 Fri]
+** CANCELLED Create first poll on "interests"             :sindicato:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:11]
+   - State "CANCELLED"  from "DONE"       [2015-02-13 Fri 07:11] \\
+     Not part anymore
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:11]
+   [2014-11-21 Fri]
+** CANCELLED Redactar propuesta "Racismo, machismo, etc." :sindicato:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:12]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:12] \\
+     Not part anymore
+  [2014-09-27 Sat]
+** CANCELLED Redactar propuesta Control de presencia      :sindicato:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:12]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:12] \\
+     Not part anymore
+   [2014-09-27 Sat]
+** CANCELLED Redactar propuesta Teletrabajo               :sindicato:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:12]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:12] \\
+     Not part anymore
+   [2014-09-27 Sat]
+** CANCELLED Redactar propuesta Horario de verano         :sindicato:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:12]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:12] \\
+     Not part anymore
+   [2014-09-27 Sat]
+** CANCELLED Redactar propuesta Moderación en el gasto    :sindicato:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:12]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:12] \\
+     Not part anymore
+   [2014-09-27 Sat]
+
+** DONE Answer Arancha                                              :ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:13]
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:13]
+   [2015-01-12 Mon]
+
+** DONE Elaborate a plan for QA roadmap                         :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:13]
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:13]
+   [2014-11-17 Mon]
+
+** DONE Add a script to halt the machine should the local_entities file is not present :docker:v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:15]
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:15]
+   [2014-09-22 Mon]
+
+** DONE Ensure javadocs.jar are deployed in each release        :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:16]
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:16]
+   [2015-01-17 Sat]
+** CANCELLED Add a managed script to specify ${previous-version} from maven-metadata-artifactory.xml to maven steps :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:16]
+   - State "CANCELLED"  from "DONE"       [2015-02-13 Fri 07:16] \\
+     Not in V24 anymore
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:16]
+   [2014-12-24 Wed]
+** CANCELLED Fix NPE in nlpcc when sending emails               :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:16]
+   - State "CANCELLED"  from "DONE"       [2015-02-13 Fri 07:17] \\
+     Not in V24 anymore
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:16]
+17-nov-2014 10:36:54,130 ERROR [main][com.ventura24.nlp.processes.payment.SendSuccessfulPaymentEmailsProcessAction:77] [error sending email]
+java.lang.NullPointerException
+        at com.ventura24.nlp.cache.EhCacheWrapper.getCache(EhCacheWrapper.java:235)
+        at com.ventura24.nlp.cache.EhCacheWrapper.getCache(EhCacheWrapper.java:225)
+        at com.ventura24.nlp.cache.EhCacheWrapper.get(EhCacheWrapper.java:163)
+        at com.ventura24.nlp.messaging.dao.rdb.oracle.OracleMsTemplateDAO.findByPrimaryKey_aroundBody1$advice(OracleMsTemplateDAO.java:59)
+        at com.ventura24.nlp.messaging.dao.rdb.oracle.OracleMsTemplateDAO.findByPrimaryKey(OracleMsTemplateDAO.java:1)
+        at com.ventura24.nlp.messaging.workflow.aportodas.RenewalEmailServiceProvider.sendEmail(RenewalEmailServiceProvider.java:180)
+
+  [2014-11-17 Mon]
+** CANCELLED Implement vagrantfile for nlp-webapp       :vagrant:v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:16]
+   - State "CANCELLED"  from "DONE"       [2015-02-13 Fri 07:17] \\
+     Not in V24 anymore
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:16]
+   [2014-11-17 Mon]
+** CANCELLED Fix account number bug for companies T556     :T556:v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:17]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:17] \\
+     Not in V24 anymore
+   [2014-11-17 Mon]
+** CANCELLED Fix title/description for / in seo.properties  :cms:v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:17]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:17] \\
+     Not in V24 anymore
+   - State "CANCELLED"  from "TODO"       [2014-11-07 Fri 06:11] \\
+     Not needed anymore
+   [2014-10-10 Fri]
+
+** CANCELLED Review nlp-dss in C					       :0/1p: :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:17]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:17] \\
+     Not in V24 anymore
+   [2014-11-11 Tue]
+** DONE Deploy and review nlp-backoffice in C                   :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:19]
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:19]
+   [2014-11-11 Tue]
+** DONE Fix restricted.ventura24.es virtual host                :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:19]
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:19]
+   [2014-11-07 Fri]
+** CANCELLED Review selenium code                               :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:19]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:19] \\
+     Not in V24 anymore
+   [2014-11-14 Fri]
+** CANCELLED Add "shutdown port" to tomcats                     :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:19]
+   - State "CANCELLED"  from "DONE"       [2015-02-13 Fri 07:20] \\
+     Not in V24 anymore
+   - State "DONE"       from "TODO"       [2015-02-13 Fri 07:19]
+   [2014-11-19 Wed]
+** CANCELLED Bomberismo: mails carpe                            :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:20]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:20] \\
+     Not in V24 anymore
+   [2014-11-05 Wed]
+** CANCELLED Add new rules to imapfilter                            :ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:20]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:20] \\
+     Not in V24 anymore
+** CANCELLED Add Arquilian test for seo.properties              :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:20]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:20] \\
+     Not in V24 anymore
+   - State "TODO"       from "STARTED"    [2014-11-21 Fri 10:16] \\
+     Still problems when running Arquillian tests
+   - State "STARTED"    from "TODO"       [2014-11-14 Fri 10:51]
+   [2014-11-14 Fri]
+** CANCELLED Write notes for git workshop                       :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:20]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:20] \\
+     Not in V24 anymore
+   [2014-10-21 Tue]
+** CANCELLED Find out why the generated jsps are not available when deploying nlp-companies-webapp locally. Either the .class files are included, or their mappings are excluded from the web.xml :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:21]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:21] \\
+     Not in V24 anymore
+   [2014-10-21 Tue]
+** CANCELLED Redirect cms.ventura24.es.live.tipp24.net/opencms/opencms/index.html to /opencms/opencms/system/login :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:21]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:21] \\
+     Not in V24 anymore
+   [2014-10-10 Fri]
+** CANCELLED Setup v24-test-categories repo                                 :0/1p: :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:21]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:21] \\
+     Not in V24 anymore
+   [2014-12-06 Sat]
+** CANCELLED Fix parsing version in jenkins jobs for B2G        :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:21]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:21] \\
+     Not in V24 anymore
+   [2014-09-26 Fri]
+** CANCELLED Build a Puppet master image, for a tag in "sysadmin" repository :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:21]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:21] \\
+     Not in V24 anymore
+   [2014-09-22 Mon]
+** CANCELLED Deploy nlp-companies-webapp Docker image in app-b2g-01-hh1 :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:21]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:21] \\
+     Not in V24 anymore
+   [2014-09-23 Tue]
+** CANCELLED Build nlp-companies-webapp Docker image            :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+   [2014-09-23 Tue]
+** CANCELLED Build Apache Docker image for nlp-companies-webapp :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+   [2014-09-23 Tue]
+** CANCELLED Build release from branch                          :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+   [2014-09-12 Fri]
+** CANCELLED Talk to M.A. about his inner thoughts                  :ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+   [2014-09-22 Mon]
+** CANCELLED Fix "Missing Application-Name manifest attribute for: https://procurement.ventura24.es/pub/dss-plugin-printer-6.13-SNAPSHOT.jar" in Proval :proval:v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+   [2014-09-22 Mon]
+** CANCELLED New printer gives a "235.0" is not an integer -> The type for the printer id is a double, not an int :proval:v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+   [2014-09-18 Thu]
+** CANCELLED Fix GEA-Webapp version                             :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+   [2014-09-12 Fri]
+** CANCELLED Build a baseimage-based Jenkins and deploy PCI jobs :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+** CANCELLED Make http://www.ventura24.es/environmentpropertiestest.jsp available only from within the internal network :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+** CANCELLED Bug in nlp-process-generator: generated code (ProcessCommandImpl and CLI) don't compile if an explicit process parameter is not used anywhere :v24:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+   [2014-09-15 Mon]
+
+** CANCELLED Fix surefire/failsafe test issue              :v24:T685:ARCHIVE:
+   CLOSED: [2015-02-13 Fri 07:22]
+   - State "CANCELLED"  from "TODO"       [2015-02-13 Fri 07:22] \\
+     Not in V24 anymore
+   - State "TODO"       from "DONE"       [2014-12-04 Thu 09:46] \\
+     Missing projects
+   - State "DONE"       from "TODO"       [2014-12-03 Wed 18:58]
+   [2014-12-03 Wed]
+*** psp-computop                                                       :3/3p:
+*** nlp-pricemodel                                                     :1/2p:
+*** nlp-creditcard                                                     :1/1p:
+*** common-processes                                                   :1/1p:
+*** psp-api, common-errorcodes, messaging, nlp-acquirers, nlp-processworkflow                                        :1/1p:
+*** nlp-processes                                                      :1/3p:
+*** nlp-webapp-api                                                     :3/3p:

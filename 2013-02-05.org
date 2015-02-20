@@ -1,0 +1,15 @@
+* 2013-02-04
+** TODO Fix #6469 (nlp-common / queryj)
+** DONE dvorak training
+** TODO Research pulse audio (windows client, Linux server)
+** TODO Create project for process monitoring.
+** TODO Review Apache logs for plain-text passwords.
+** TODO Install and configure Nagios locally
+** DONE Fix release-management in tst to deal with new nlp-webapp multi-module structure.
+** DONE Check connectivity between tst -> pre1 8080: fail
+** DONE Create a ticket to request firewall rule from tst to pre1:8080
+** Personal stuff
+*** DONE Call doctor to schedule an appointment.
+*** TODO Call dentist to schedule an appointment.
+*** TODO Call car repair to schedule an appointment.
+*** TODO Buy Rooted ticket.

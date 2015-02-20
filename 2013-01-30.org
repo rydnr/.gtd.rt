@@ -1,0 +1,17 @@
+* 2013-01-30
+** TODO Fix #6252 (SEO filter)
+** TODO Fix #6468 (Deploy nlp-webapp as jar file in artifactory. Deploy as war locally).
+** TODO Fix #6469 (nlp-common / queryj)
+** TODO dvorak training
+** TODO Research pulse audio (windows client, Linux server)
+
+** DONE Hover over tst -> pre1 (plus others) connectivity ticket.
+** TODO Review Apache logs for plain-text passwords.
+** Personal stuff
+*** DONE Buy SATA cable.
+*** DONE Buy week meals.
+*** TODO Call doctor to schedule an appointment.
+*** TODO Call dentist to schedule an appointment.
+*** TODO Call car repair to schedule an appointment.
+*** TODO Buy Rooted ticket.
+*** DONE Call guitar teacher.

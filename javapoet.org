@@ -1,0 +1,6 @@
+* Javapoet
+** MethodSpec
+- Line 116: emit(" {\n");
+** CodeBlock
+- Line 135: add(controlFlow + " {\n", args);
+- Line 146: add("} " + controlFlow + " {\n", args);

@@ -1,0 +1,74 @@
+* Blender
+
+** Move the camera to the current viewport: ctrl+alt+numpad0
+** From the camera viewport, move it bound to the viewport:
+- Select Scene -> Camera
+- Long-press right click, position viewport.
+- x -> move along the X
+- y -> move along the Y axis
+- z -> move along the Z axis
+- Left click to confirm
+** To move the 3D cursor:
+- In edit or object mode, press N to open the Properties. Scroll down to the 3D cursor section.
+** Add a new mesh:
+- shift+a
+** Move viewport
+- ctrl + scrollwheel : left - right
+- shift + scrollwheel : up - down
+** Rotate viewport
+- alt + shift + scrollwheel: on X axis
+- ctrl + shift + scrollwheel: on Y axis
+- ctrl + alt + scrollwheel: on Z axis
+
+HandBrakeCLI --preset="High Profile" -a "1,2,3,4" -m -2 -T -s "1,2,3,4" -N spa -i $1 -o $2
+
+
+** Katas
+*** Movement
+- Scene from above:
+It's called "Top ortho": Numpad7
+- Scene from below:
+It's called "Bottom ortho": Ctrl+Numpad7
+- Scene from right:
+It's called "Right Ortho": Numpad3
+- Scene from left:
+It's called "Left Ortho": Ctrl+Numpad3
+- Scene from front:
+It's called "Front Ortho": Numpad1
+- Scene from back:
+It's called "Back Ortho": Ctrl+Numpad1
+- To switch between orthogonal and perspective views:
+Numpad5
+
+**** Kata 1: locate the sphere
+Provide the 
+
+
+** Add-on
+The API is:
+def register()
+def unregister()
+
+Normally, register() calls bpy.utils.register_class(addonClass), and unregister calls bpy.utils.unregister_class(addonClass)
+The "addonClass" has to implement:
+
+def execute(self, context)
+
+To run the operator (addon), in 3D view press space, and look for the addon name (defined in its bl_label attribute).
+
+** Viewport
+
+Switch to "Scripting" screen:
+
+D.screens['Scripting'].areas[2].spaces[0].region_3d
+
+for scrn in bpy.data.screens:
+if scrn.name == ’Default’:
+bpy.context.window.screen = scrn
+for area in scrn.areas:
+if area.type == ’VIEW_3D’:
+for space in area.spaces:
+if space.type == ’VIEW_3D’:
+space.viewport_shading = ’SOLID’
+reg = space.region_3d
+reg.view_perspective =

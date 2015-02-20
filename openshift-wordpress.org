@@ -1,0 +1,37 @@
+* Wordpress on Openshift
+** Create account
+Visit [[https://openshift.redhat.com][OpenShift]] and create an account
+** Create application
+- Wordpress 4
+- public url: http://villaviciosa-podemos.rhcloud.com
+- Cartidges: php 5.4, MySQL 5.5
+- Scale with web traffic
+- Region: aws-us-east-1
+- Create Application (+2)
+** Install wordpress 
+- Visit gear's url
+- Follow Wordpress installation wizard
+** Install rhc tools
+** Clone repository
+- Copy "Source code" url
+- git clone [repo]
+** Update wordpress
+** Install plugins
+- All in one SEO Pack
+- bbPress Enable TinyMCE
+- Contact Form
+- Social login
+- The Events Calendar
+- wp-Monalisa
+- WP Super Cache
+** Activate plugins
+** Install Podemos theme
+- https://github.com/cerclespodemos/Podemos_WP_theme
+- Activate
+- Customize: export + import
+** Export
+- Tools -> Export
+** Import
+- Install WordPress Importer
+- Tools -> Import 
+** Users
