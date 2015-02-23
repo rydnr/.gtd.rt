@@ -51,6 +51,10 @@ git pull
 *** C-c , -> Cycle through the agenda list, in reverse order
 *** C-c a -> agenda distpatcher
 * Docker/Shipyard
+** Run shipyard
+docker run -it -d --name shipyard-rethinkdb-data --entrypoint /bin/bash shipyard/rethinkdb -l
+docker run -it -P -d --name shipyard-rethinkdb --volumes-from shipyard-rethinkdb-data shipyard/rethinkdb
+docker run -it -p 8080:8080 -d --name shipyard --link shipyard-rethinkdb:rethinkdb shipyard/shipyard
 ** Run registry:
 shipyard run --name registry --cpus 0.3 --memory 128 --type service --hostname docker --domain acm-sl.org --label service --pull --port tcp/5000:5000
 ** Run jenkins:
