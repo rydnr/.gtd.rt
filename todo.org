@@ -26,6 +26,8 @@
    [2015-02-22 Sun]
 ** TODO Implement first DevDel sample and publish in readthedocs.org
    [2015-02-23 Mon]
+** TODO Allow only incoming connections to shipyard ports from home
+   [2015-02-23 Mon]
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
    [2015-01-24 Sat]
