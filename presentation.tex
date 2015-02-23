@@ -1,0 +1,84 @@
+% Created 2014-10-30 Thu 06:45
+\documentclass[bigger]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\author{Eric S Fraga}
+\date{2010-03-30 Tue}
+\title{Writing Beamer presentations in org-mode}
+\hypersetup{
+  pdfkeywords={beamer,org},
+  pdfsubject={Description metadata},
+  pdfcreator={Emacs 24.3.1 (Org mode 8.2.6)}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{Introduction}
+\label{sec-1}
+\subsection{{\bfseries\sffamily TODO} A simple slide}
+\label{sec-1-1}
+This slide consists of some text with a number of bullet points:
+
+code: 
+\begin{itemize}
+\item the first, very @important@, point!
+\item the previous point shows the use of the special markup which
+translates to the Beamer specific \emph{alert} command for highlighting
+text.
+\end{itemize}
+
+
+The above list could be numbered or any other type of list and may
+include sub-lists.
+
+\section{This is the first structural section}
+\label{sec-2}
+
+\subsection{Frame 1}
+\label{sec-2-1}
+\subsubsection[Thanks to Eric Fraga]{Thanks to Eric Fraga\hfill{}\textsc{B_block:BMCOL}}
+\label{sec-2-1-1}
+for the first viable Beamer setup in Org
+\subsubsection[Thanks to everyone else]{Thanks to everyone else\hfill{}\textsc{B_block:BMCOL}}
+\label{sec-2-1-2}
+for contributing to the discussion
+\begin{enumerate}
+\item This will be formatted as a beamer note\hfill{}\textsc{B_note}
+\label{sec-2-1-2-1}
+\textbf{* Frame 2 (where we will not use columns)
+**} Request
+    Please test this stuff!
+\end{enumerate}
+
+\subsection{Two columns}
+\label{sec-2-2}
+
+\subsubsection[A block]{A block\hfill{}\textsc{B_ignoreheading:BMCOL}}
+\label{sec-2-2-1}
+\begin{itemize}
+\item this slide consists of two columns
+\item the first (left) column has no heading and consists of text
+\item the second (right) column has an image and is enclosed in an
+@example@ block
+\end{itemize}
+
+\subsubsection[A screenshot]{A screenshot\hfill{}\textsc{BMCOL:B_example}}
+\label{sec-2-2-2}
+[[\url{https://dict.leo.org/img/leo-schriftzug-160x60-eae10aca.png}]]
+% Emacs 24.3.1 (Org mode 8.2.6)
+\end{document}

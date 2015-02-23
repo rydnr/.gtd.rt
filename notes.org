@@ -1,0 +1,193 @@
+* Notes
+** [2014-11-04 Tue] Add ip alias: ifconfig eno1:idea 10.34.17.6
+** [2014-10-06 Mon] /usr/bin/sudo don't have the suid flag in jenkins container
+** [2014-10-03 Fri] End emacs commit log: C-x #
+** [2014-09-27 Sat] GRSec (webinar)
+- Don't run things as root
+- Drop capabilities
+- Enable user namespaces
+- Get rid of shady SUID binaries
+- Enable SELinux
+- Use seccomp-bpf
+- Get a GRSEC kernel
+- Update kernels often
+- Mount everything read-only
+- Fence things in VMs
+** [2014-09-22 Mon] Should I use a different git repository for Docker?
+** [2014-09-22 Mon] C-x r b -> jump to bookmark
+** [2014-09-22 Mon] C-x r m -> create bookmark
+** [2014-09-22 Mon] Exit from emacsclient buffer: C-x # or (server-edit)
+** [2014-09-12 Fri] WARNING: if a job does not pass tests, it screws up the release process, and SNAPSHOTs can appear in the release
+** [2014-09-09 Tue] Don't know how to write the question mark on emacs :(
+** [2014-09-09 Tue] Question: Can Artifactory use MySQL instead of derby
+** [2014-09-09 Tue] Vagrant: From the book: vagrant init precise64 http://files.vagrantup.com/precise64.box
+** [2014-09-09 Tue] Vagrant: vagrant box add precise64 https://vagrantcloud.com/hashicorp/boxes/precise64/versions/2/providers/virtualbox.box
+** [2014-09-09 Tue] Vagrant: config.vm.synced_folder -> compartir webapps de Tomcat
+** [2014-09-09 Tue] Vagrant: config.vm.post_message -> meter versión de nlp-webapp
+** [2014-09-09 Tue] C-x v =
+vc-diff
+git diff
+** [2014-09-09 Tue] C-x v v
+vc-next-action
+git commit
+** [2014-09-09 Tue] C-x v d
+vc-directory
+git status
+** [2014-09-09 Tue] C-x v +
+vc-update
+git pull
+** [2014-09-05 Fri] Remind to learn org!
+* Org
+** Check how to use todo.org_archive -> C-c C-x a
+   - State "STARTED"    from "TODO"       [2014-09-23 Tue 09:38]
+   [2014-09-22 Mon]
+
+** C-c l -> insert link [[http://www.google.es][google]]
+** C-c C-o -> visit link
+** Agenda
+*** C-c [ (org-agenda-file-to-front) -> add file to the agenda files
+*** C-c ] (org-remove-file) -> remove file from the li
+*** C-c ' (org-cycle-agenda-files) -> Cycle through the agenda list
+*** C-c , -> Cycle through the agenda list, in reverse order
+*** C-c a -> agenda distpatcher
+* Docker/Shipyard
+** Run registry:
+shipyard run --name registry --cpus 0.3 --memory 128 --type service --hostname docker --domain acm-sl.org --label service --pull --port tcp/5000:5000
+** Run jenkins:
+shipyard run --name acmsl/jenkins --cpus 0.3 --memory 1024 --type service --hostname jenkins --domain acm-sl.org --label service --pull --port tcp/8081:8080 -vol /home/chous/acmsl-jenkins-configs/:/home/jenkins
+** Run artifactory:
+shipyard run --name acmsl/artifactory --cpus 0.3 --memory 1024 --type service --hostname maven --domain acm-sl.org --label service --pull --port tcp/8082:8080 -vol /home/chous/artifactory-data/:/home/artifactory
+** Stop container
+shipyard stop [containerId]
+** Destroy container
+shipyard destroy [containerId]
+** Login
+shipyard login
+** Run mcollective-activemq
+docker run -d -P --name activemq -h activemq acmsl/mcollective-activemq:latest
+*** Test:
+/usr/lib/jvm/java-7-oracle/bin/java -Xms512M -Xmx512M -Dorg.apache.activemq.UseDedicatedTaskRunner=true -Dcom.sun.management.jmxremote -Djava.io.tmpdir=/var/lib/activemq/tmp -Dactivemq.classpath=/etc/activemq/instances-enabled/main -Dactivemq.home=/usr/share/activemq -Dactivemq.base=/var/lib/activemq -Dactivemq.conf=/etc/activemq/instances-enabled/main -Dactivemq.data=/var/lib/activemq/data -jar /usr/share/activemq/bin/run.jar start xbean:activemq.xml
+** Run mcollective-server
+docker run -d --link activemq:activemq -h mcoserver acmsl/mcollective-server:latest
+** Run mcollective-client
+docker run -d --link activemq:activemq -h mcoclient acmsl/mcollective-client:latest
+** Remove stale containers / images
+https://stackoverflow.com/questions/24733160/docker-rmi-cannot-remove-images-with-no-such-id
+*** sudo docker ps -a -q | xargs -n 1 -I {} sudo docker rm {}
+** Test with --selinux-enabled=true
+** Write a mcollective plugin:
+http://blog.mague.com/?p=382
+Copy from https://github.com/puppetlabs/mcollective-package-agent.git
+** Run mariadb:
+shipyard run --name acmsl/mariadb --container-name db --cpus 0.2 --memory 512 --type service --hostname sql --domain acm-sl.org --label service --pull
+** Run firefox-sync 1.5
+shipyard run --name acmsl/firefox-sync --cpus 0.2 --memory 256 --type service --hostname firefox-sync --domain acm-sl.org --port tcp/8083:5000 --label service --pull --link db:db
+** Run getboo
+shipyard run --name acmsl/getboo --memory 512 --type service --hostname bm --domain acm-sl.org --port tcp/8084:80 --label service --pull --link db:db
+** dockerfile-maven-plugin
+mvn org.acmsl:dockerfile-maven-plugin:dockerfile
+** Run registry
+docker pull samalba/docker-registry
+docker run -d -p 5000:5000 samalba/docker-registry
+** Push to a local registry
+docker tag [namespace]/[image]:[tag] [registry-host]:[registry-port]/[namespace]/[image]:[tag]
+docker push [registry-host]:[registry-port]/[namespace]/[image]:[tag]
+* Beamer
+** C-c C-e l P (org-beamer-export-to-pdf)
+** C-c C-e l b (org-beamer-export-to-latex)
+** C-c C-e l B (org-beamer-export-as-latex)
+** C-c C-e l O : Export as LaTeX, process to PDF, and then open the resulting PDF file.
+** #+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+
+** Frame 1
+*** Thanks to Eric Fraga                                           :B_block:BMCOL:
+:PROPERTIES:
+:BEAMER_COL: 0.48
+:BEAMER_ENV: block
+:END:
+for the first viable Beamer setup in Org
+*** Thanks to everyone else                                        :B_block:BMCOL:
+:PROPERTIES:
+:BEAMER_COL: 0.48
+:BEAMER_ACT: <2->
+:BEAMER_ENV: block
+:END:
+for contributing to the discussion
+**** This will be formatted as a beamer note                              :B_note:
+:PROPERTIES:
+:BEAMER_env: note
+:END:
+** Frame 2 (no columns)
+*** TODO Request
+    Please test this stuff!
+
+    
+** A more complex slide
+This slide illustrates the use of Beamer blocks.  The following text,
+with its own headline, is displayed in a block:
+*** Org mode increases productivity				    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: theorem
+    :END:
+    - org mode means not having to remember LaTeX commands.
+    - it is based on ascii text which is inherently portable.
+    - Emacs!
+
+    \hfill \(\qed\)
+
+
+    
+#+LATEX: \end{frame}
+#+LATEX: { % all template changes are local to this group.
+  \setbeamertemplate{navigation symbols}{}
+  \begin{frame}[plain]
+    \begin{tikzpicture}[remember picture,overlay]
+      \node[at=(current page.center)] {
+        \includegraphics[width=\paperwidth]{docker-icons.eps}
+      };
+    \end{tikzpicture}
+  \end{frame}
+}
+* Magit
+** Install:
+- M-x package-install magit
+** Use
+- M-x magit status
+- q : exit
+- ? : action list
+- s : stage
+- TAB : expand / collapse changes
+- n / p : next / previous section
+- M-n / M-p : next / previous sibling section
+- + / - : Enlarge / shrink each hunk
+- 0 : reset to the default view of the hunk
+- H : toggle additional diff highlighting
+** Commit (c)
+- e : Add more diffs to a given commit
+- a : Amend the commit message
+- r : Reword the commit message
+- f : Fixup against the current commit.
+- s : Squash against the current commit.
+** Logging (l)
+- l : Short log
+- h : reflog
+- . : marks the commit (for fixup and squash)
+- x : reset HEAD to the selected commit
+- v : revert the commit
+- d : diff between commit and working tree
+- A : cherry pick the commit on top of the working tree
+- E : rebase from HEAD to the selected commit
+- C-w : copy the commit hash
+- SPC : displays the full commit message
+- M-n / M-p : Displays the commit in a separate buffer
+* VIM
+** C-x C-o : Omnicomplete
+** C-x C-f : Complete filename
+** C-x C-n : Complete based on ctags
+* Maven
+** mvn site
+If you have a multi module project, then the links between the parent and child modules will not work when you use 'mvn site' or 'mvn site:site'. If you want to use those links, you should use 'mvn site:stage' instead. You can read more about that goal further down on this page in the section called 'Staging a Site'.
+* git
+** submodules
+git pull && git submodule init && git submodule update && git submodule status
+git submodule foreach git pull origin master

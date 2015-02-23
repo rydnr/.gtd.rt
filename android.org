@@ -1,0 +1,28 @@
+* Android
+
+** Emulator
+http://developer.android.com/guide/developing/devices/emulator.html
+
+Check the port number on the title
+> telnet localhost [port]
+
+*** commands
+- Change network speed to EDGE
+network speed edge
+- Change network speed to full
+network speed full
+- Set battery capacity
+power capacity [value]
+- Disconnect battery charger
+power status not-charging
+- Send SMS
+sms send [number] "[text]"
+
+*** Communicate two emulators
+- Make one emulator call the other: dial the port number
+
+** Dalvik Debug Monitor Service: DDMS
+*** File explorer
+*** Logcat
+*** Traceview
+*** Hierarchyview

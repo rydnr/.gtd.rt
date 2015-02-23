@@ -1,0 +1,30 @@
+* DevDel
+- Input: free text
+- Use regexs or css-like selectors to match input
+** Actions
+- ST rules (via annotations): either regular templates, or diff-templates.
+- Triggering external tools
+- Build AST
+** AST
+*** Java AST
+- ANTLR4 Java8 grammar, minus the imports.
+- ST4 templates with css-like AST selectors.
+
+**** AST post-processing
+
+A chain of AST post-processors to transform the AST.
+The mandatory ones:
+
+- Add the required imports (grouped, ordered).
+- Add the license preamble.
+- Add the @author tag.
+
+The optional ones:
+
+- Add the @since tag.
+- Add Effective Java idioms (equals, hashCode, toString).
+- Add Serializable / serial version id.
+
+**** ST templates
+
+Set of templates to apply for certain AST selectors.

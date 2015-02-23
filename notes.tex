@@ -1,0 +1,243 @@
+% Created 2014-11-05 Wed 19:34
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\date{\today}
+\title{notes}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 24.3.1 (Org mode 8.2.6)}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{Notes}
+\label{sec-1}
+\subsection{\textit{[2014-10-07 Tue]}}
+\label{sec-1-1}
+Authorization: Basic bmxwLXdlYmFwcDo0NkU0JDZNZ2dzeGE3Nzg2
+Host: cms1
+Connection: Keep-Alive
+User-Agent: Sardine/146
+\subsection{\textit{[2014-10-06 Mon]} /usr/bin/sudo don't have the suid flag in jenkins container}
+\label{sec-1-2}
+\subsection{\textit{[2014-10-03 Fri]}}
+\label{sec-1-3}
+\subsubsection{docker tag ventura24/nlp-webapp rm-es-01-hh1.office.tipp24.de:443/nlp-webapp}
+\label{sec-1-3-1}
+\subsubsection{docker push rm-es-01-hh1.office.tipp24.de:443/nlp-webapp}
+\label{sec-1-3-2}
+\subsection{\textit{[2014-10-03 Fri]} End emacs commit log: C-x \#}
+\label{sec-1-4}
+\subsection{\textit{[2014-09-27 Sat]} GRSec (webinar)}
+\label{sec-1-5}
+\begin{itemize}
+\item Don't run things as root
+\item Drop capabilities
+\item Enable user namespaces
+\item Get rid of shady SUID binaries
+\item Enable SELinux
+\item Use seccomp-bpf
+\item Get a GRSEC kernel
+\item Update kernels often
+\item Mount everything read-only
+\item Fence things in VMs
+\end{itemize}
+\subsection{\textit{[2014-09-22 Mon]} Should I use a different git repository for Docker?}
+\label{sec-1-6}
+\subsection{\textit{[2014-09-22 Mon]} C-x r b -> jump to bookmark}
+\label{sec-1-7}
+\subsection{\textit{[2014-09-22 Mon]} C-x r m -> create bookmark}
+\label{sec-1-8}
+\subsection{\textit{[2014-09-22 Mon]} Exit from emacsclient buffer: C-x \# or (server-edit)}
+\label{sec-1-9}
+\subsection{\textit{[2014-09-12 Fri]} WARNING: if a job does not pass tests, it screws up the release process, and SNAPSHOTs can appear in the release}
+\label{sec-1-10}
+\subsection{\textit{[2014-09-12 Fri]} New skill: git}
+\label{sec-1-11}
+\subsection{\textit{[2014-09-12 Fri]} New skill: architect diagrams}
+\label{sec-1-12}
+\subsection{\textit{[2014-09-12 Fri]} New skill: electronics}
+\label{sec-1-13}
+\subsection{\textit{[2014-09-12 Fri]} New skill: arduino}
+\label{sec-1-14}
+\subsection{\textit{[2014-09-12 Fri]} New skill: blender}
+\label{sec-1-15}
+\subsection{\textit{[2014-09-12 Fri]} New skill: guitar}
+\label{sec-1-16}
+\subsection{\textit{[2014-09-12 Fri]} New skill: rubik cube}
+\label{sec-1-17}
+\subsection{\textit{[2014-09-12 Fri]} New skill: reversing}
+\label{sec-1-18}
+\subsection{\textit{[2014-09-12 Fri]} New skill: vim}
+\label{sec-1-19}
+\subsection{\textit{[2014-09-12 Fri]} New skill: emacs}
+\label{sec-1-20}
+\subsection{\textit{[2014-09-09 Tue]} Don't know how to write the question mark on emacs :(}
+\label{sec-1-21}
+\subsection{\textit{[2014-09-09 Tue]} Question: Can Artifactory use MySQL instead of derby}
+\label{sec-1-22}
+\subsection{\textit{[2014-09-09 Tue]} Vagrant: From the book: vagrant init precise64 \url{http://files.vagrantup.com/precise64.box}}
+\label{sec-1-23}
+\subsection{\textit{[2014-09-09 Tue]} Vagrant: vagrant box add precise64 \url{https://vagrantcloud.com/hashicorp/boxes/precise64/versions/2/providers/virtualbox.box}}
+\label{sec-1-24}
+\subsection{\textit{[2014-09-09 Tue]} Vagrant: config.vm.synced$_{\text{folder}}$ -> compartir webapps de Tomcat}
+\label{sec-1-25}
+\subsection{\textit{[2014-09-09 Tue]} Vagrant: config.vm.post$_{\text{message}}$ -> meter versión de nlp-webapp}
+\label{sec-1-26}
+\subsection{\textit{[2014-09-09 Tue]} C-x v =}
+\label{sec-1-27}
+vc-diff
+git diff
+\subsection{\textit{[2014-09-09 Tue]} C-x v v}
+\label{sec-1-28}
+vc-next-action
+git commit
+\subsection{\textit{[2014-09-09 Tue]} C-x v d}
+\label{sec-1-29}
+vc-directory
+git status
+\subsection{\textit{[2014-09-09 Tue]} C-x v +}
+\label{sec-1-30}
+vc-update
+git pull
+\subsection{\textit{[2014-09-05 Fri]} Remind to learn org!}
+\label{sec-1-31}
+\section{Acta 2014/10/06}
+\label{sec-2}
+\subsection{Reuniones trimestrales:}
+\label{sec-2-1}
+\begin{itemize}
+\item Agenda concreta
+\item Con más tiempo
+\item Pueden facilitar información anticipadamente
+\end{itemize}
+\subsection{Interpretación del tema de la temperatura:}
+\label{sec-2-2}
+\begin{itemize}
+\item Requisito de renovación de aire: no cumplíamos la normativa por el número de empleados.
+\item Se tiene menos potencia en la tercera planta.
+\item Se establece un equipo para mejorar este tema, compuesto por Chema, Felipe y Frannie.
+\item Reuniones mensuales: se dará más información sobre los datos de Ventura24 y serán más concretos.
+\end{itemize}
+\subsection{Z pide que "La gente se responsabilice y dé un paso adelante".}
+\label{sec-2-3}
+\subsection{Como respuesta al "Have your say", el 10 de octubre las propuestas ganadoras hablarán con el board.}
+\label{sec-2-4}
+\subsection{Propuesta de cómo atajar desavenencias con Dirección.}
+\label{sec-2-5}
+\begin{itemize}
+\item Chema: Cambios en el papel de Ventura24 con respecto al grupo. Se toman decisiones locales, pero dentro de la estrategia global del grupo. Hay inquietud debida a nuestra dificultad para adaptarnos. Los cambios tienen más implicaciones positivas que las que se interpretan.
+\item Z: Empresa con 4 lineas de negocio que necesita un cambio cultural. Las empresas nacen y mueren.
+\end{itemize}
+\subsection{En las reuniones generales se puede intervenir como Comité o a título personal.}
+\label{sec-2-6}
+\section{Docker/Shipyard}
+\label{sec-3}
+\subsection{Run jenkins:}
+\label{sec-3-1}
+shipyard run --name acmsl/jenkins --cpus 0.3 --memory 1024 --type service --hostname jenkins --domain acm-sl.org --label service --pull --port tcp/8081:8080 -vol \emph{home/chous/acmsl-jenkins-configs}:/home/jenkins
+\subsection{Run artifactory:}
+\label{sec-3-2}
+shipyard run --name acmsl/artifactory --cpus 0.3 --memory 1024 --type service --hostname maven --domain acm-sl.org --label service --pull --port tcp/8082:8080 -vol \emph{home/chous/artifactory-data}:/home/artifactory
+\subsection{Stop container}
+\label{sec-3-3}
+shipyard stop [containerId]
+\subsection{Destroy container}
+\label{sec-3-4}
+shipyard destroy [containerId]
+\subsection{Login}
+\label{sec-3-5}
+shipyard login
+\subsection{Run mcollective-activemq}
+\label{sec-3-6}
+docker run -d -P --name activemq -h activemq acmsl/mcollective-activemq:latest
+\subsubsection{Test:}
+\label{sec-3-6-1}
+/usr/lib/jvm/java-7-oracle/bin/java -Xms512M -Xmx512M -Dorg.apache.activemq.UseDedicatedTaskRunner=true -Dcom.sun.management.jmxremote -Djava.io.tmpdir=/var/lib/activemq/tmp -Dactivemq.classpath=/etc/activemq/instances-enabled/main -Dactivemq.home=/usr/share/activemq -Dactivemq.base=/var/lib/activemq -Dactivemq.conf=/etc/activemq/instances-enabled/main -Dactivemq.data=/var/lib/activemq/data -jar /usr/share/activemq/bin/run.jar start xbean:activemq.xml
+\subsection{Run mcollective-server}
+\label{sec-3-7}
+docker run -d --link activemq:activemq -h mcoserver acmsl/mcollective-server:latest
+\subsection{Run mcollective-client}
+\label{sec-3-8}
+docker run -d --link activemq:activemq -h mcoclient acmsl/mcollective-client:latest
+\subsection{Remove stale containers / images}
+\label{sec-3-9}
+\url{https://stackoverflow.com/questions/24733160/docker-rmi-cannot-remove-images-with-no-such-id}
+\subsubsection{sudo docker ps -a -q | xargs -n 1 -I \{\} sudo docker rm \{\}}
+\label{sec-3-9-1}
+\subsection{Test with --selinux-enabled=true}
+\label{sec-3-10}
+\subsection{Write a mcollective plugin:}
+\label{sec-3-11}
+\url{http://blog.mague.com/?p=382}
+Copy from \url{https://github.com/puppetlabs/mcollective-package-agent.git}
+\section{Beamer}
+\label{sec-4}
+\subsection{\#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t \^{}:t -:t f:t *:t <:t}
+\label{sec-4-1}
+
+\subsection{Frame 1}
+\label{sec-4-2}
+\subsubsection{Thanks to Eric Fraga\hfill{}\textsc{B_block:BMCOL}}
+\label{sec-4-2-1}
+for the first viable Beamer setup in Org
+\subsubsection{Thanks to everyone else\hfill{}\textsc{B_block:BMCOL}}
+\label{sec-4-2-2}
+for contributing to the discussion
+\begin{enumerate}
+\item This will be formatted as a beamer note\hfill{}\textsc{B_note}
+\label{sec-4-2-2-1}
+\end{enumerate}
+\subsection{Frame 2 (no columns)}
+\label{sec-4-3}
+\subsubsection{{\bfseries\sffamily TODO} Request}
+\label{sec-4-3-1}
+Please test this stuff!
+
+
+\subsection{A more complex slide}
+\label{sec-4-4}
+This slide illustrates the use of Beamer blocks.  The following text,
+with its own headline, is displayed in a block:
+\subsubsection{Org mode increases productivity\hfill{}\textsc{B_block}}
+\label{sec-4-4-1}
+\begin{itemize}
+\item org mode means not having to remember \LaTeX{} commands.
+\item it is based on ascii text which is inherently portable.
+\item Emacs!
+\end{itemize}
+
+\hfill \(\qed\)
+
+
+
+\end{frame}
+{ % all template changes are local to this group.
+\setbeamertemplate{navigation symbols}{}
+\begin{frame}[plain]
+  \begin{tikzpicture}[remember picture,overlay]
+    \node[at=(current page.center)] {
+      \includegraphics[width=\paperwidth]{docker-icons.eps}
+    };
+  \end{tikzpicture}
+\end{frame}
+\}
+% Emacs 24.3.1 (Org mode 8.2.6)
+\end{document}
