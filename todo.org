@@ -10,10 +10,6 @@
 ** TODO Superlearning                                                   :1p:
 ** TODO Coursera Android course                                          :2p:
 ** TODO Study for JavaEE architect exam              :javaee:course:homework:
-** TODO Fix RT bug #1                                                    :RT:
-   [2015-02-23 Mon]
-** TODO Implement RT #2                                                  :RT:
-   [2015-02-23 Mon]
 * Today
 #+CATEGORY: today
 ** TODO PoC with CachingIsNewStrategyFactory.java               :0/5p:devdel:
@@ -465,3 +461,12 @@ gpg -r chous@acm-sl.org -d private-todo.org.gpg
    - State "DONE"       from "WAITING"    [2015-02-23 Mon 07:27]
    - State "DONE"       from "TODO"       [2014-09-27 Sat 08:17]
    [2014-09-27 Sat]
+
+** DONE Fix RT bug #1                                                    :RT:
+   CLOSED: [2015-02-23 Mon 09:18]
+   - State "DONE"       from "TODO"       [2015-02-23 Mon 09:18]
+   [2015-02-23 Mon]
+** DONE Implement RT #2                                                  :RT:
+   CLOSED: [2015-02-23 Mon 09:18]
+   - State "DONE"       from "TODO"       [2015-02-23 Mon 09:18]
+   [2015-02-23 Mon]
