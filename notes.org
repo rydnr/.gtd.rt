@@ -59,8 +59,7 @@ docker run -it shipyard/shipyard-cli
 shipyard login
 URL: http://[ip]:8080
 Username: admin
-Password: 
-
+Password: xxxx
 ** Run registry:
 shipyard run --name registry --cpus 0.3 --memory 128 --type service --hostname docker --domain acm-sl.org --label service --pull --port tcp/5000:5000
 ** Run jenkins:
