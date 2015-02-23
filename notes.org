@@ -57,6 +57,10 @@ docker run -it -P -d --name shipyard-rethinkdb --volumes-from shipyard-rethinkdb
 docker run -it -p 8080:8080 -d --name shipyard --link shipyard-rethinkdb:rethinkdb shipyard/shipyard
 docker run -it shipyard/shipyard-cli
 shipyard login
+URL: http://85.25.100.223:8080
+Username: admin
+Password: 
+
 ** Run registry:
 shipyard run --name registry --cpus 0.3 --memory 128 --type service --hostname docker --domain acm-sl.org --label service --pull --port tcp/5000:5000
 ** Run jenkins:
