@@ -55,6 +55,8 @@ git pull
 docker run -it -d --name shipyard-rethinkdb-data --entrypoint /bin/bash shipyard/rethinkdb -l
 docker run -it -P -d --name shipyard-rethinkdb --volumes-from shipyard-rethinkdb-data shipyard/rethinkdb
 docker run -it -p 8080:8080 -d --name shipyard --link shipyard-rethinkdb:rethinkdb shipyard/shipyard
+** shipyard login
+shipyard login
 ** Run registry:
 shipyard run --name registry --cpus 0.3 --memory 128 --type service --hostname docker --domain acm-sl.org --label service --pull --port tcp/5000:5000
 ** Run jenkins:
@@ -65,8 +67,6 @@ shipyard run --name acmsl/artifactory --cpus 0.3 --memory 1024 --type service --
 shipyard stop [containerId]
 ** Destroy container
 shipyard destroy [containerId]
-** Login
-shipyard login
 ** Run mcollective-activemq
 docker run -d -P --name activemq -h activemq acmsl/mcollective-activemq:latest
 *** Test:
