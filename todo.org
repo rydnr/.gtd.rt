@@ -10,10 +10,10 @@
 ** TODO Superlearning                                                   :1p:
 ** TODO Coursera Android course                                          :2p:
 ** TODO Study for JavaEE architect exam              :javaee:course:homework:
-* Today
-#+CATEGORY: today
 ** TODO PoC with CachingIsNewStrategyFactory.java               :0/5p:devdel:
    [2015-02-22 Sun]
+* Today
+#+CATEGORY: today
 ** TODO Docker image for pyd.io
    [2015-02-22 Sun]
 * Tasks
