@@ -68,7 +68,7 @@ URL: http://[ip]:8080
 Username: admin
 Password: xxxx
 ** Run registry:
-shipyard run --name docker --cpus 0.3 --memory 128 --type service --hostname docker --domain acm-sl.org --label service --pull --port tcp/5000:5000 -v /home/chous/docker-registry:/registry --env 'STORAGE_PATH=/registry'
+shipyard run --name samalba/docker-registry --cpus 0.3 --memory 128 --type service --hostname docker --domain acm-sl.org --label service --pull --port tcp/5000:5000 --vol /home/chous/docker-registry:/registry --env 'STORAGE_PATH=/registry'
 ** Run jenkins:
 shipyard run --name acmsl/jenkins --cpus 0.3 --memory 1024 --type service --hostname jenkins --domain acm-sl.org --label service --pull --port tcp/8081:8080 -vol /home/chous/acmsl-jenkins-configs/:/home/jenkins
 ** Run artifactory:
