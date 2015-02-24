@@ -104,7 +104,7 @@ mvn org.acmsl:dockerfile-maven-plugin:dockerfile
 docker pull samalba/docker-registry
 docker run -d -p 5000:5000 -v /home/chous/docker-registry:/tmp/registry -e STORAGE_PATH=/tmp/registry samalba/docker-registry
 
-shipyard run --name samalba/docker-registry --cpus 0.1 --memory 1024 --type service --hostname docker --domain acm-sl.org --label service --pull --port tcp/5000:5000 --vol /home/chous/docker-registry:/tmp/registry --env STORAGE_PATH=/registry
+shipyard run --name samalba/docker-registry --cpus 0.1 --memory 1024 --type service --hostname docker --domain acm-sl.org --label service --pull --port tcp/5000:5000 --vol /home/chous/docker-registry:/tmp/registry --env STORAGE_PATH=/tmp/registry
 ** Push to a local registry
 docker tag [namespace]/[image]:[tag] [registry-host]:[registry-port]/[namespace]/[image]:[tag]
 docker push [registry-host]:[registry-port]/[namespace]/[image]:[tag]
