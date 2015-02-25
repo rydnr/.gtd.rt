@@ -28,6 +28,8 @@
    [2015-02-23 Mon]
 ** TODO Allow only incoming connections to shipyard ports from home
    [2015-02-23 Mon]
+** TODO Install tutum in new server
+   [2015-02-25 Wed]
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
    [2015-01-24 Sat]
