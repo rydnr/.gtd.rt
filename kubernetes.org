@@ -1,0 +1,20 @@
+* Kubernetes
+
+Your request resulted in an AccountProblem (403) error. Usually this
+happens if you attempt to create a bucket without first having enabled
+billing for the project you are using. Please ensure billing is
+enabled for your project by following the instructions at `Google
+Developers
+Console<https://developers.google.com/console/help/billing>`. In the
+project overview, ensure that the Project Number listed for your
+project matches the project ID (k-test) from your boto config file. If
+the above doesn't resolve your AccountProblem, please send mail to gs-
+team@google.com requesting assistance, noting the exact command you
+ran, the fact that you received a 403 AccountProblem error, and your
+project ID. Please do not post your project ID on StackOverflow. Note:
+It's possible to use Google Cloud Storage without enabling billing if
+you're only listing or reading objects for which you're authorized, or
+if you're uploading objects to a bucket billed to a project that has
+billing enabled. But if you're attempting to create buckets or upload
+objects to a bucket owned by your own project, you must first enable
+billing for that project.
