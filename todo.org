@@ -16,6 +16,8 @@
 #+CATEGORY: today
 ** TODO Docker image for pyd.io
    [2015-02-22 Sun]
+** TODO JavaCSS: Retrieve declared types
+   [2015-02-25 Wed]
 * Tasks
 ** TODO Commit automatically todo.org on a daily basis                  :org:
    [2014-09-10 Wed]
@@ -29,8 +31,6 @@
 ** TODO Implement first DevDel sample and publish in readthedocs.org
    [2015-02-23 Mon]
 ** TODO Install tutum in new server
-   [2015-02-25 Wed]
-** TODO JavaCSS: Retrieve declared types
    [2015-02-25 Wed]
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
