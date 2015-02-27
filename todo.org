@@ -18,10 +18,6 @@
    [2015-02-22 Sun]
 ** TODO Generate Java sources from a Java AST
    [2015-02-27 Fri]
-** TODO Create artifactory-data Docker container
-   [2015-02-27 Fri]
-** TODO Create jenkins-data Docker container
-   [2015-02-27 Fri]
 * Tasks
 ** TODO Commit automatically todo.org on a daily basis                  :org:
    [2014-09-10 Wed]
@@ -490,3 +486,13 @@ gpg -r chous@acm-sl.org -d private-todo.org.gpg
 ** DONE Add new import to a Java AST
    CLOSED: [2015-02-27 Fri 09:58]
    - State "DONE"       from "TODO"       [2015-02-27 Fri 09:58]
+** CANCELLED Create artifactory-data Docker container
+   CLOSED: [2015-02-27 Fri 10:39]
+   - State "CANCELLED"  from "TODO"       [2015-02-27 Fri 10:39] \\
+     Using host volumes
+   [2015-02-27 Fri]
+** CANCELLED Create jenkins-data Docker container
+   CLOSED: [2015-02-27 Fri 10:39]
+   - State "CANCELLED"  from "TODO"       [2015-02-27 Fri 10:39] \\
+     Using host volumes
+   [2015-02-27 Fri]
