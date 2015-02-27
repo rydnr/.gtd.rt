@@ -16,8 +16,6 @@
 #+CATEGORY: today
 ** TODO Docker image for pyd.io
    [2015-02-22 Sun]
-** TODO JavaCSS: Retrieve declared types
-   [2015-02-25 Wed]
 * Tasks
 ** TODO Commit automatically todo.org on a daily basis                  :org:
    [2014-09-10 Wed]
@@ -476,3 +474,7 @@ gpg -r chous@acm-sl.org -d private-todo.org.gpg
    CLOSED: [2015-02-23 Mon 09:18]
    - State "DONE"       from "TODO"       [2015-02-23 Mon 09:18]
    [2015-02-23 Mon]
+** DONE JavaCSS: Retrieve declared types
+   CLOSED: [2015-02-27 Fri 09:57]
+   - State "DONE"       from "TODO"       [2015-02-27 Fri 09:57]
+   [2015-02-25 Wed]
