@@ -20,6 +20,8 @@
    [2015-02-27 Fri]
 ** TODO Create artifactory-data Docker container
    [2015-02-27 Fri]
+** TODO Create jenkins-data Docker container
+   [2015-02-27 Fri]
 * Tasks
 ** TODO Commit automatically todo.org on a daily basis                  :org:
    [2014-09-10 Wed]
@@ -35,8 +37,7 @@
 ** TODO Install tutum in new server
    [2015-02-25 Wed]
    [2015-02-27 Fri]
-** TODO Create jenkins-data Docker container
-   [2015-02-27 Fri]
+
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
    [2015-01-24 Sat]
