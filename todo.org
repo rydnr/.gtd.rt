@@ -30,7 +30,6 @@
    [2015-02-23 Mon]
 ** TODO Install tutum in new server
    [2015-02-25 Wed]
-** TODO Add new import to a Java AST
    [2015-02-27 Fri]
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
@@ -480,3 +479,7 @@ gpg -r chous@acm-sl.org -d private-todo.org.gpg
    CLOSED: [2015-02-27 Fri 09:57]
    - State "DONE"       from "TODO"       [2015-02-27 Fri 09:57]
    [2015-02-25 Wed]
+
+** DONE Add new import to a Java AST
+   CLOSED: [2015-02-27 Fri 09:58]
+   - State "DONE"       from "TODO"       [2015-02-27 Fri 09:58]
