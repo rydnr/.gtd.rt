@@ -30,10 +30,6 @@
    [2015-02-23 Mon]
 ** TODO Implement first DevDel sample and publish in readthedocs.org
    [2015-02-23 Mon]
-** TODO Install tutum in new server
-   [2015-02-25 Wed]
-   [2015-02-27 Fri]
-
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
    [2015-01-24 Sat]
@@ -496,3 +492,9 @@ gpg -r chous@acm-sl.org -d private-todo.org.gpg
    - State "CANCELLED"  from "TODO"       [2015-02-27 Fri 10:39] \\
      Using host volumes
    [2015-02-27 Fri]
+** DONE Install tutum in new server
+   CLOSED: [2015-02-28 Sat 08:25]
+   - State "DONE"       from "TODO"       [2015-02-28 Sat 08:25]
+   [2015-02-25 Wed]
+   [2015-02-27 Fri]
+
