@@ -14,6 +14,8 @@
    [2015-02-22 Sun]
 * Today
 #+CATEGORY: today
+** TODO Fix getboo installation
+   [2015-02-28 Sat]
 ** TODO Docker image for pyd.io
    [2015-02-22 Sun]
 ** TODO Generate Java sources from a Java AST
@@ -30,8 +32,6 @@
    [2015-02-23 Mon]
 ** TODO Implement first DevDel sample and publish in readthedocs.org
    [2015-02-23 Mon]
-** TODO Fix getboo installation
-   [2015-02-28 Sat]
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
    [2015-01-24 Sat]
