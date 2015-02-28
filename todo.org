@@ -14,8 +14,6 @@
    [2015-02-22 Sun]
 * Today
 #+CATEGORY: today
-** TODO Fix getboo installation
-   [2015-02-28 Sat]
 ** TODO Docker image for pyd.io
    [2015-02-22 Sun]
 ** TODO Generate Java sources from a Java AST
@@ -500,3 +498,8 @@ gpg -r chous@acm-sl.org -d private-todo.org.gpg
    [2015-02-25 Wed]
    [2015-02-27 Fri]
 
+
+** DONE Fix getboo installation
+   CLOSED: [2015-02-28 Sat 09:10]
+   - State "DONE"       from "TODO"       [2015-02-28 Sat 09:10]
+   [2015-02-28 Sat]
