@@ -30,6 +30,8 @@
    [2015-02-23 Mon]
 ** TODO Implement first DevDel sample and publish in readthedocs.org
    [2015-02-23 Mon]
+** TODO Fix getboo installation
+   [2015-02-28 Sat]
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
    [2015-01-24 Sat]
