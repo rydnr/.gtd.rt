@@ -42,4 +42,7 @@ http://developer.android.com/guide/developing/building
 http://developer.android.com/guide/topics/resources
 Strings: strings, string arrays, plurals.
 Typically stored in res/values/*.xml
+Accessed by other resources as @string/string_name
+Accessed in Java as
+R.string.string_name
 *** 
