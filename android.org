@@ -38,3 +38,6 @@ Interprocess communication
 Data set sharing
 ** Building
 http://developer.android.com/guide/developing/building
+*** Defining resources
+http://developer.android.com/guide/topics/resources
+*** 
