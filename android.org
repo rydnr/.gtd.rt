@@ -26,3 +26,15 @@ sms send [number] "[text]"
 *** Logcat
 *** Traceview
 *** Hierarchyview
+** Components
+*** Activity
+User interface
+*** Service
+Long running, UI-less processes
+*** Broadcast Subscriber
+Receives and reacts upon external or internal events
+*** Content providers
+Interprocess communication
+Data set sharing
+** Building
+http://developer.android.com/guide/developing/building
