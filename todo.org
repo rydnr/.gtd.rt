@@ -12,10 +12,11 @@
 ** TODO Study for JavaEE architect exam              :javaee:course:homework:
 ** TODO PoC with CachingIsNewStrategyFactory.java               :0/5p:devdel:
    [2015-02-22 Sun]
+** STARTED Define a plan on org-calendar
+   - State "STARTED"    from "TODO"       [2015-03-02 Mon 10:23]
+   [2015-02-16 Mon]
 * Today
 #+CATEGORY: today
-** TODO Define a plan on org-calendar
-   [2015-02-16 Mon]
 ** TODO Generate Java sources from a Java AST
    [2015-02-27 Fri]
 * Tasks
