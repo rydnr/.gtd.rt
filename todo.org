@@ -16,8 +16,6 @@
 #+CATEGORY: today
 ** TODO Define a plan on org-calendar
    [2015-02-16 Mon]
-** TODO Docker image for pyd.io
-   [2015-02-22 Sun]
 ** TODO Generate Java sources from a Java AST
    [2015-02-27 Fri]
 * Tasks
@@ -32,6 +30,8 @@
    [2015-02-23 Mon]
 ** TODO Implement first DevDel sample and publish in readthedocs.org
    [2015-02-23 Mon]
+** TODO Docker image for pyd.io
+   [2015-02-22 Sun]
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
    [2015-01-24 Sat]
