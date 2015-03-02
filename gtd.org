@@ -1,2 +1,4 @@
 * Plan
+** Notes
+org-calendar : C-c a a (org-agenda-list)
 ** 
