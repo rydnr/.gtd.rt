@@ -4,3 +4,4 @@
 - C-c a T # the same, but narrowing to a specific keyword
 ** Timeline for a single file
 C-c a L (org-timeline) # within the todo.org file
+C-u C-c a L # Includes all unfinished TODO entries (scheduled or not)
