@@ -206,3 +206,6 @@ If you have a multi module project, then the links between the parent and child 
 ** submodules
 git pull && git submodule init && git submodule update && git submodule status
 git submodule foreach git pull origin master
+* HandBrake
+HandBrakeCLI --preset="High Profile" -a "1,2,3,4" -m -2 -T -s "1,2,3,4" -N spa -i $1 -o $2
+
