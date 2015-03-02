@@ -3,4 +3,4 @@
 - C-c a t (org-todo-list)
 - C-c a T # the same, but narrowing to a specific keyword
 ** Timeline for a single file
-C-c a L (org-timeline)
+C-c a L (org-timeline) # within the todo.org file
