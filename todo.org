@@ -14,6 +14,8 @@
    [2015-02-22 Sun]
 * Today
 #+CATEGORY: today
+** TODO Define a plan on org-calendar
+   [2015-02-16 Mon]
 ** TODO Docker image for pyd.io
    [2015-02-22 Sun]
 ** TODO Generate Java sources from a Java AST
@@ -81,8 +83,6 @@
 * Finance
 * GTD / org
   #+CATEGORY: GTD
-** TODO Define a plan on org-calendar
-   [2015-02-16 Mon]
 ** TODO Read GTD book                                                   :gtd:
 ** TODO Fix org-jekyll
    [2015-02-16 Mon]
