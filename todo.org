@@ -17,9 +17,9 @@
    [2015-02-16 Mon]
 * Today
 #+CATEGORY: today
+* Tasks
 ** TODO Generate Java sources from a Java AST
    [2015-02-27 Fri]
-* Tasks
 ** TODO Commit automatically todo.org on a daily basis                  :org:
    [2014-09-10 Wed]
 ** TODO Publish all devblog's posts in github
