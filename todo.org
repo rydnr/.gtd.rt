@@ -35,6 +35,8 @@
    [2015-02-23 Mon]
 ** TODO Docker image for pyd.io
    [2015-02-22 Sun]
+** TODO Research CycleTime, continuous deployment
+   [2015-03-03 Tue]
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
    [2015-01-24 Sat]
