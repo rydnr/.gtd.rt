@@ -37,6 +37,8 @@
    [2015-02-22 Sun]
 ** TODO Research CycleTime, continuous deployment
    [2015-03-03 Tue]
+** TODO Define f4t canvas
+   [2015-03-04 Wed]
 * Holacracy
 ** TODO Watch holacracy webinar                                        :0/2p:
    [2015-01-24 Sat]
