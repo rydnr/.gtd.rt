@@ -201,3 +201,5 @@ Consider moving shutdown logic to onPause().
 **** Starting activities
 
 - Create an Intent object specifying the activity to start.
+- Pass this newly created Intent object to methods such as:
+  - startActivity()
