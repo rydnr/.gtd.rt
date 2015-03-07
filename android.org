@@ -143,3 +143,5 @@ States:
 - Stopped - It's not visible, and can be terminated.
 
 Android announces activity lifecycle state changes to activity by calling specific activity methods: onCreate, onStart, onResume, onPause, onRestart, onStop, onDestroy.
+
+An activity is visible after it's been started and before it's been stopped.
