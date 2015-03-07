@@ -86,6 +86,8 @@ button.setOnClickListener(new Button.OnClickListener() {
 
 *** Package application
 
+System packages application components and resources into a .apk file.
+Developers specify required application information in a file classed AndroidManifest.xml
 
 *** Install and run application
 
