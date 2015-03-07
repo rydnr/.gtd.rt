@@ -126,5 +126,7 @@ Android supports navigation in several ways: tasks, the task backstack, suspendi
 **** Task
 
 A [[http://developer.android.com/guide/topics/fundamentals/tasks-and-back-stack.html][task]] is a set of related activities, which don't have to be part of the same application. Most tasks start at the home screen.
+When the user presses the home button, the task is, at least temporarily, close.
+
 
 **** 
