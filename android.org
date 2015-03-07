@@ -210,3 +210,6 @@ a result code (integer), and optionally an Intent object with additional data. A
 - RESULT_CANCELED: the user has canceled (via the back button for example).
 - RESULT_OK: the activity was completed successfully.
 
+*** Configuration changes
+
+Device configuration (keyboard, orientation, locale, etc.) can change at runtime. When that happens, Android usually kills the current activity and then restarts it.
