@@ -232,4 +232,6 @@ Then, when the activity is restarted, that configuration object can be retrieved
 getLastNonConfigurationInstance()
 #+END_SRC
 
+However, this approach is currently deprecated, in favor of methods in the Fragment class.
+
 - Manually handle the configuration change.
