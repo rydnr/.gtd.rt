@@ -205,5 +205,6 @@ Consider moving shutdown logic to onPause().
   - startActivity() -> Adds the new activity to the top of the backpack
   - startActivityForResult() -> Invokes a callback method on the callee (onActivityResult) when the called activity finishes, to return a result.
 
-The new activity, when calling with startActivityForResult, is responsible of annotating its result via setResult() method on itself.
+The new activity, when calling with startActivityForResult, is responsible of annotating its result via setResult() method on itself, passing
+a result code (integer), and optionally an Intent object with additional data.
 
