@@ -35,7 +35,8 @@ Interaction with remote processes
 *** Broadcast Subscriber
 Receives and reacts upon external or internal events.
 Subscriber in publish/subscribe pattern.
-Intent classes.
+Events represented by the Intent class and then broadcast.
+BroadcastReceiver receives and responds to broadcast events.
 *** Content providers
 Interprocess communication
 Data set sharing
