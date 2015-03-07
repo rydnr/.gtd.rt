@@ -237,10 +237,5 @@ However, this approach is currently deprecated, in favor of methods in the Fragm
 - Manually handle the configuration change.
 
 We can prevent the system from restarting the activity, by declaring the configuration changes the activity
-handles in AndroidManifest.xml file.
-
-For example,
-
-#+BEGIN_SRC xml
-<activity android:name=".MyActivity" android:configChanges="orientation|screensize|keyboardHidden" ...>
+handles in AndroidManifest.xml file (android:configChanges="orientation|screensize|keyboardHidden" attribute in <android> element).
 #+END_SRC
