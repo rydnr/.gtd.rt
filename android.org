@@ -43,11 +43,13 @@ Uses database-style interface
 Handles interprocess communication
 ** Building
 http://developer.android.com/guide/developing/building
-*** Defining resources
+*** Define resources
 http://developer.android.com/guide/topics/resources
 Strings: strings, string arrays, plurals.
 Typically stored in res/values-[country code]/*.xml
 Accessed by other resources as @string/string_name
 Accessed in Java as
 R.string.string_name
-*** 
+*** Implement application classes
+*** Package application
+*** Install and run application
