@@ -82,7 +82,7 @@ setContentView(R.layout.main);
 #+BEGIN_SRC java
 button.setOnClickListener(new Button.OnClickListener() {
     public void onClick(View v) { ... } };
-#+END_SRC java
+#+END_SRC
 
 *** Package application
 
