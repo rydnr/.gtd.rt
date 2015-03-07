@@ -135,3 +135,7 @@ When a new activity is launched, the until-then-active is suspended, and resumed
 
 Activities are created, suspended, resumed and destroyed as necessary when an application executes.
 The lifecycle depends on user behavior, and on Android itself.
+
+States:
+
+- Resumed/Running - the activity is visible, the user can interact with it
