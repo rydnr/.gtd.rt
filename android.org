@@ -146,3 +146,12 @@ Android announces activity lifecycle state changes to activity by calling specif
 
 An activity is visible after it's been started and before it's been stopped. When being created or destroyed, or killed (triggering a re-create), it's not visible.
 When killed by Android system, an activity need not to go through the onStop() step.
+
+***** onCreate()
+
+- Called when the activity is created
+- sets up the initial state:
+  - Call super.onCreate()
+  - Set the activity's content view
+  - Retain references to UI views as necessary
+  - Configure views as necessary
