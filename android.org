@@ -161,3 +161,10 @@ When killed by Android system, an activity need not to go through the onStop() s
 - Called if the activity has been dropped and is about to be started again
 - Typical actions:
   - Special processing needed only after having been stopped
+
+***** onStart()
+
+- Activity is about to become visible
+- Typical actions:
+  - Start when visible-only behaviors
+  - Load persistent application state
