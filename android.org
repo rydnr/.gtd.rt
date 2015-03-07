@@ -75,7 +75,7 @@ setContentView(R.layout.main);
 
 #+BEGIN_SRC java
 (EditText) findViewById(R.id.XX);
-#+END_SRC java
+#+END_SRC
 
 - Link UI elements to code actions
 
