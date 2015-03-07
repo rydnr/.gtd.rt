@@ -225,4 +225,6 @@ Hard to recompute data can be cached to speed up handling of configuration chang
 onRetainNonConfigurationInstance()
 #+END_SRC
 
+to build and return the configuration object.
+
 - Manually handle the configuration change.
