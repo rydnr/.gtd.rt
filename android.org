@@ -91,6 +91,8 @@ Developers specify required application information in a file classed AndroidMan
 
 **** [[http://developer.android.com/guide/topics/manifest/manifest-intro.html][AndroidManifest.xml]]
 
+Description file that must exist in the root folder of the application.
+
 - Application name
 - Components
 - Other: required permissions, application features, minimun API level
