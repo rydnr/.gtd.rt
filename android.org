@@ -174,3 +174,9 @@ When killed by Android system, an activity need not to go through the onStop() s
 - Activity is visible and about to start interacting with the user
 - Typical actions
   - Start foreground-only behaviors
+
+***** onPause()
+
+- Focus about to switch to another activity
+- Typical actions:
+  - Shutdown foreground-only behaviors
