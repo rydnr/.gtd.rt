@@ -219,6 +219,10 @@ Since an activity can be restarted frequently, it should be fast.
 If necessary, we can:
 - Retain and object containing important state information during a configuration change.
 
-Hard to recompute data can be cached to speed up handling of configuration changes.
+Hard to recompute data can be cached to speed up handling of configuration changes, by overridding
+
+#+BEGIN_SRC java
+onRetainNonConfigurationInstance()
+#+END_SRC
 
 - Manually handle the configuration change.
