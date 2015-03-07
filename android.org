@@ -180,3 +180,4 @@ When killed by Android system, an activity need not to go through the onStop() s
 - Focus about to switch to another activity
 - Typical actions:
   - Shutdown foreground-only behaviors
+  - Save persistent state
