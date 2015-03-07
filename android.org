@@ -62,10 +62,15 @@ The application can change the layout depending on the screen size or even the o
 Generated at compile time from the resources.
 
 **** onCreate() workflow
-- Restore saved state
+- Restore saved state:
+#+BEGIN_SRC java
+super.onCreate(savedInstanceState)
+#+END_SRC java
 If we don't call super.onCreate(), it will raise an error.
 - set content view
+#+BEGIN_SRC java
 setContentView(R.layout.main);
+#+END_SRC java
 - initialize UI elements
 - Link UI elements to code actions
 
