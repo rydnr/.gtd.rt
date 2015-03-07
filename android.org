@@ -129,5 +129,6 @@ A [[http://developer.android.com/guide/topics/fundamentals/tasks-and-back-stack.
 When the user presses the home button, the task is, at least temporarily, closed.
 
 When an activity is launched, it goes on top of the backstack. When the activity is destroyed, it is popped off the backstack.
+When a new activity is launched, the until-then-active is suspended, and resumed later when it becomes the top of the stack again.
 
 **** 
