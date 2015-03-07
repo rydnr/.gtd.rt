@@ -131,4 +131,6 @@ When the user presses the home button, the task is, at least temporarily, closed
 When an activity is launched, it goes on top of the backstack. When the activity is destroyed, it is popped off the backstack.
 When a new activity is launched, the until-then-active is suspended, and resumed later when it becomes the top of the stack again.
 
-**** 
+**** Activity lifecycle
+
+Activities are created, suspended, resumed and destroyed as necessary when an application executes.
