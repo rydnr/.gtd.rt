@@ -31,7 +31,7 @@ sms send [number] "[text]"
 User interface
 *** Service
 Long running, UI-less processes
-Interaction with remote services
+Interaction with remote processes
 *** Broadcast Subscriber
 Receives and reacts upon external or internal events
 *** Content providers
