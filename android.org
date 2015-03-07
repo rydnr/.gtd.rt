@@ -53,3 +53,5 @@ R.string.string_name
 *** Implement application classes
 *** Package application
 *** Install and run application
+
+** User Interface layout
