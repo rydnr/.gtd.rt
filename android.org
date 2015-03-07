@@ -119,4 +119,5 @@ adb install
 
 Provides a visual interface for user interaction
 
+Each activity typically supports one focused thing a user can do.
 **** 
