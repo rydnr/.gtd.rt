@@ -59,4 +59,4 @@ R.string.string_name
 Defined in XML files: res/layout/*.xml
 Accessed in Java as: R.layout.layout_name
 Accessed by other resources as: @layout/layout_name
-The application can change the layout depending on the screen size or even the orientation: res/layout-land/main.xml in the example
+The application can change the layout depending on the screen size or even the orientation: res/layout-land/main.xml
