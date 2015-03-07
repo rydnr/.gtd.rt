@@ -63,6 +63,7 @@ Generated at compile time from the resources.
 
 **** onCreate() workflow
 - Restore saved state
+If we don't call super.onCreate(), it will raise an error.
 - set content view
 - initialize UI elements
 - Link UI elements to code actions
