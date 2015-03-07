@@ -168,3 +168,9 @@ When killed by Android system, an activity need not to go through the onStop() s
 - Typical actions:
   - Start when visible-only behaviors
   - Load persistent application state
+
+***** onResume()
+
+- Activity is visible and about to start interacting with the user
+- Typical actions
+  - Start foreground-only behaviors
