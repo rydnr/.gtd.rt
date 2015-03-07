@@ -51,15 +51,16 @@ Accessed by other resources as @string/string_name
 Accessed in Java as
 R.string.string_name
 *** Implement application classes
-*** Package application
-*** Install and run application
-
-** User Interface layout
+**** User Interface layout
 
 Defined in XML files: res/layout/*.xml
 Accessed in Java as: R.layout.layout_name
 Accessed by other resources as: @layout/layout_name
 The application can change the layout depending on the screen size or even the orientation: res/layout-land/main.xml
 
-*** R.java
+**** R.java
 Generated at compile time from the resources.
+
+*** Package application
+*** Install and run application
+
