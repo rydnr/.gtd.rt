@@ -100,3 +100,5 @@ Description file that must exist in the root folder of the application.
 *** Install and run application
 
 Using emulators or physical devices.
+
+[[http://developer.android.com/tools/publishing/app-signing.html][Sign the application]]
