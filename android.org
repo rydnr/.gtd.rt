@@ -204,3 +204,6 @@ Consider moving shutdown logic to onPause().
 - Pass this newly created Intent object to methods such as:
   - startActivity() -> Adds the new activity to the top of the backpack
   - startActivityForResult() -> Invokes a callback method on the callee (onActivityResult) when the called activity finishes, to return a result.
+
+The new activity, when calling with startActivityForResult, is responsible of annotating its result via setResult() method on itself.
+
