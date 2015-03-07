@@ -215,3 +215,6 @@ a result code (integer), and optionally an Intent object with additional data. A
 Device configuration (keyboard, orientation, locale, etc.) can change at runtime. When that happens, Android usually kills the current activity and then restarts it.
 
 Since an activity can be restarted frequently, it should be fast.
+
+If necessary, we can:
+- Retain and object containing important state information during a configuration change.
