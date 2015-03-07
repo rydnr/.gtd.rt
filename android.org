@@ -120,4 +120,7 @@ adb install
 Provides a visual interface for user interaction
 
 By convention, each activity typically supports one focused thing a user can do, and applications often comprise several activities.
+
+Android supports navigation in several ways: tasks, the task backstack, suspending and resuming activities.
+
 **** 
