@@ -72,7 +72,12 @@ If we don't call super.onCreate(), it will raise an error.
 setContentView(R.layout.main);
 #+END_SRC java
 - initialize UI elements
+
+#+BEGIN_SRC java
 - Link UI elements to code actions
+
+#+BEGIN_SRC java
+#+END_SRC java
 
 *** Package application
 *** Install and run application
