@@ -102,3 +102,8 @@ Description file that must exist in the root folder of the application.
 Using emulators or physical devices.
 
 [[http://developer.android.com/tools/publishing/app-signing.html][Sign the application]]
+
+Install the application using
+#+BEGIN_SRC sh
+adb install
+#+END_SRC
