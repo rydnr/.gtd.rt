@@ -112,3 +112,9 @@ Install the application using
 #+BEGIN_SRC sh
 adb install
 #+END_SRC
+
+** Components
+
+*** Activities
+
+**** 
