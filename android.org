@@ -34,6 +34,7 @@ Long running, UI-less processes
 Interaction with remote processes
 *** Broadcast Subscriber
 Receives and reacts upon external or internal events.
+Subscriber in publish/subscribe pattern.
 Intent classes.
 *** Content providers
 Interprocess communication
