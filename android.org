@@ -117,4 +117,6 @@ adb install
 
 *** Activities
 
+Provides a visual interface for user interaction
+
 **** 
