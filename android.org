@@ -187,4 +187,4 @@ When killed by Android system, an activity need not to go through the onStop() s
 - Activity is no longer visible to the user, but may be restarted later.
 - Typical actions:
   - Cache state
-Note: It may not be called if Android kills your application.
+Note: It may not be called if Android kills your application due to low memory.
