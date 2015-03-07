@@ -65,12 +65,12 @@ Generated at compile time from the resources.
 - Restore saved state:
 #+BEGIN_SRC java
 super.onCreate(savedInstanceState)
-#+END_SRC java
+#+END_SRC
 If we don't call super.onCreate(), it will raise an error.
 - set content view
 #+BEGIN_SRC java
 setContentView(R.layout.main);
-#+END_SRC java
+#+END_SRC
 - initialize UI elements
 
 #+BEGIN_SRC java
