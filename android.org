@@ -235,3 +235,6 @@ getLastNonConfigurationInstance()
 However, this approach is currently deprecated, in favor of methods in the Fragment class.
 
 - Manually handle the configuration change.
+
+We can prevent the system from restarting the activity, by declaring the configuration changes the activity
+handles in AndroidManifest.xml file.
