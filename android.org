@@ -65,6 +65,7 @@ Generated at compile time from the resources.
 - Restore saved state
 If we don't call super.onCreate(), it will raise an error.
 - set content view
+setContentView(R.layout.main);
 - initialize UI elements
 - Link UI elements to code actions
 
