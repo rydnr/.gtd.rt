@@ -226,5 +226,10 @@ onRetainNonConfigurationInstance()
 #+END_SRC
 
 to build and return the configuration object. It will be called some time between onStop() and onDestroy().
+Then, when the activity is restarted, that configuration object can be retrieved by calling
+
+#+BEGIN_SRC java
+getLastNonConfigurationInstance()
+#+END_SRC
 
 - Manually handle the configuration change.
