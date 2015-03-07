@@ -155,3 +155,9 @@ When killed by Android system, an activity need not to go through the onStop() s
   - Set the activity's content view
   - Retain references to UI views as necessary
   - Configure views as necessary
+
+***** onRestart()
+
+- Called if the activity has been dropped and is about to be started again
+- Typical actions:
+  - Special processing needed only after having been stopped
