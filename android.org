@@ -38,8 +38,9 @@ Subscriber in publish/subscribe pattern.
 Events are represented by the Intent class.
 BroadcastReceiver receives and responds to broadcast events.
 *** Content providers
-Interprocess communication
-Data set sharing
+Store and share data across applications
+Uses database-style interface
+Handles interprocess communication
 ** Building
 http://developer.android.com/guide/developing/building
 *** Defining resources
