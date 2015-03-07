@@ -80,6 +80,8 @@ setContentView(R.layout.main);
 - Link UI elements to code actions
 
 #+BEGIN_SRC java
+button.setOnClickListener(new Button.OnClickListener() {
+    public void onClick(View v) { ... } };
 #+END_SRC java
 
 *** Package application
