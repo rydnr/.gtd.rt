@@ -208,4 +208,5 @@ Consider moving shutdown logic to onPause().
 The new activity, when calling with startActivityForResult, is responsible of annotating its result via setResult() method on itself, passing
 a result code (integer), and optionally an Intent object with additional data. As for the result code, there're some predefined values:
 - RESULT_CANCELED: the user has canceled (via the back button for example).
+- RESULT_OK: the activity was completed successfully.
 
