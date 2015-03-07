@@ -61,6 +61,12 @@ The application can change the layout depending on the screen size or even the o
 **** R.java
 Generated at compile time from the resources.
 
+**** onCreate() workflow
+- Restore saved state
+- set content view
+- initialize UI elements
+- Link UI elements to code actions
+
 *** Package application
 *** Install and run application
 
