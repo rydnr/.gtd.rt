@@ -56,4 +56,4 @@ R.string.string_name
 
 ** User Interface layout
 
-Defined in XML files
+Defined in XML files: res/layout/*.xml
