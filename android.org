@@ -181,3 +181,10 @@ When killed by Android system, an activity need not to go through the onStop() s
 - Typical actions:
   - Shutdown foreground-only behaviors
   - Save persistent state
+
+***** onStop()
+
+- Activity is no longer visible to the user, but may be restarted later.
+- Typical actions:
+  - Cache state
+Note: It may not be called if Android kills your application.
