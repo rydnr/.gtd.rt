@@ -89,7 +89,7 @@ button.setOnClickListener(new Button.OnClickListener() {
 System packages application components and resources into a .apk file.
 Developers specify required application information in a file classed AndroidManifest.xml
 
-**** AndroidManifest.xml
+**** [[http://developer.android.com/guide/topics/manifest/manifest-intro.html][AndroidManifest.xml]]
 
 - Application name
 - Components
