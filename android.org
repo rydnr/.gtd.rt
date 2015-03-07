@@ -141,3 +141,5 @@ States:
 - Resumed/Running - the activity is visible, the user can interact with it.
 - Paused - When it's visible, but the user can't interact with it, and can be terminated (after Android 3.0).
 - Stopped - It's not visible, and can be terminated.
+
+Android announces activity lifecycle state changes to activity by calling specific activity methods: onCreate, onStart, onResume, onPause, onRestart, onStop, onDestroy.
