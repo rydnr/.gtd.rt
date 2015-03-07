@@ -244,3 +244,5 @@ When dealing with configuration changes manually, Android calls
 #+BEGIN_SRC java
 onConfigurationChanged()
 #+END_SRC
+
+with a configuration object with the new configuration.
