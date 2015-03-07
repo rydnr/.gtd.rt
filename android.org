@@ -139,4 +139,5 @@ The lifecycle depends on user behavior, and on Android itself.
 States:
 
 - Resumed/Running - the activity is visible, the user can interact with it.
-- Paused - When it's visible, but the user can't interact with it, and can be terminated.
+- Paused - When it's visible, but the user can't interact with it, and can be terminated (after Android 3.0).
+- Stopped - It's not visible, and can be terminated.
