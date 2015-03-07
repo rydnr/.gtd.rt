@@ -138,4 +138,4 @@ The lifecycle depends on user behavior, and on Android itself.
 
 States:
 
-- Resumed/Running - the activity is visible, the user can interact with it
+- Resumed/Running - the activity is visible, the user can interact with it.
