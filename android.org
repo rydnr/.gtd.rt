@@ -188,3 +188,4 @@ When killed by Android system, an activity need not to go through the onStop() s
 - Typical actions:
   - Cache state
 Note: It may not be called if Android kills your application due to low memory.
+Consider moving shutdown logic to onPause().
