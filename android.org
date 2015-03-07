@@ -57,3 +57,5 @@ R.string.string_name
 ** User Interface layout
 
 Defined in XML files: res/layout/*.xml
+Accessed in Java as: R.layout.layout_name
+Accessed by other resources as: @layout/layout_name
