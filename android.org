@@ -145,3 +145,4 @@ States:
 Android announces activity lifecycle state changes to activity by calling specific activity methods: onCreate, onStart, onResume, onPause, onRestart, onStop, onDestroy.
 
 An activity is visible after it's been started and before it's been stopped. When being created or destroyed, or killed (triggering a re-create), it's not visible.
+When killed by Android system, an activity need not to go through the onStop() step.
