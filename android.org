@@ -94,5 +94,7 @@ Developers specify required application information in a file classed AndroidMan
 - Application name
 - Components
 - Other: required permissions, application features, minimun API level
+
 *** Install and run application
 
+Using emulators or physical devices.
