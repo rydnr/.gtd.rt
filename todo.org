@@ -17,7 +17,7 @@
    [2015-02-16 Mon]
 * Today
 #+CATEGORY: today
-** TODO Work on a CSS example                                       :javacss:
+** TODO findMatchingSelectors algorithm                             :javacss:
    [2015-03-02 Mon]
 * Tasks
 ** TODO Generate Java sources from a Java AST
