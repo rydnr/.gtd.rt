@@ -27,7 +27,8 @@ Aplicar tests A/B al comercio presencial:
 - Despliegue de una red social para los vecinos, con elgg.
 - Mejora de la comunicación profesor-padres, médico-paciente, ayuntamiento-ciudadano.
 - Implementación de una aplicación móvil y un teléfono para dar a conocer problemáticas concretas.
-** Talleres TICs (siempre software libre)                         :formacion:
+** Talleres
+*** TICs (siempre software libre)                                 :formacion:
 - Migración a software libre.
 - Bitcoin.
 - Gestión de ventas online.
@@ -37,6 +38,10 @@ Aplicar tests A/B al comercio presencial:
 - Diseño 3d
 - Impresión 3d
 - Programación de videojuegos.
+*** Startups
+- Método LEAN
+- Organización holacrática
+- Globalización de proveedores
 ** Migración a software libre                                  :ciudadanotic:
 - Plan de migración a software libre en los organismos públicos
 ** Participación ciudadana
