@@ -45,5 +45,5 @@ Aplicar tests A/B al comercio presencial:
 - Organización de un Maker Faire en colaboración con la comunidad Makespace Madrid
 ** Formación
 - Gestión de grupos de apoyo de profesores voluntarios para alumnos que lo soliciten
-- Gestión de un taller de superaprendizaje
-- Coordinación con comunidades profesionales para la implantación de talleres: 
+- Gestión de un taller de superaprendizaje.
+- Coordinación con comunidades profesionales para la implantación de talleres.
