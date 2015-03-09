@@ -25,7 +25,7 @@ Aplicar tests A/B al comercio presencial:
 - Impulso
 ** Redes                                                       :ciudadanotic:
 - Despliegue de una red social para los vecinos, con elgg.
-- Mejora de la comunicación profesor-padres, médico-paciente, ayuntamiento-contribuyente.
+- Mejora de la comunicación profesor-padres, médico-paciente, ayuntamiento-ciudadano.
 - Implementación de una aplicación móvil.
 ** Talleres TICs (siempre software libre)                         :formacion:
 - Migración a software libre.
