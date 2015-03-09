@@ -50,4 +50,5 @@ Aplicar tests A/B al comercio presencial:
 - Gestión de grupos de apoyo de profesores voluntarios para alumnos que lo soliciten
 - Solicitud de un taller de superaprendizaje.
 - Coordinación con comunidades profesionales para la implantación de talleres (grupos de meetup, etc.).
-** 
+** Plan de acción LEAN
+- Cada propuesta se gestionará como un 
