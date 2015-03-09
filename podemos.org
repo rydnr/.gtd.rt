@@ -31,6 +31,7 @@ Aplicar tests A/B al comercio presencial:
 - Migración a software libre.
 - Bitcoin.
 - Gestión de ventas online (Magento).
+- Programación
 - Diseño web
 - Diseño 3d.
 ** Migración a software libre                                  :ciudadanotic:
