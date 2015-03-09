@@ -37,3 +37,4 @@ Aplicar tests A/B al comercio presencial:
 - Plan de migración a software libre en los organismos públicos
 ** Política LEAN
 *** Participación ciudadana
+- Aplicar técnicas de gamification, geocaching
