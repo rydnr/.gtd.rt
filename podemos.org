@@ -12,7 +12,7 @@ Aplicar tests A/B al comercio presencial:
 - Información y capacidad de actuación sobre compras inacabadas
 - Acuerdos inter-comercios
 ** Micro-préstamos para comercios                                  :comercio:
-- Aporte público
+- Aportación pública
 - Destinar un pequeño margen cada comercio que se adhiera
 - Definir un protocolo para solicitar los micro-préstamos
 ** Cajero bitcoin                                              :ciudadanotic:
@@ -27,7 +27,7 @@ Aplicar tests A/B al comercio presencial:
 - Despliegue de una red social para los vecinos, con elgg.
 - Mejora de la comunicación profesor-padres, médico-paciente, ayuntamiento-contribuyente.
 - Implementación de una aplicación móvil.
-** Talleres TICs (siempre software libre)
+** Talleres TICs (siempre software libre)                         :formacion:
 - Migración a software libre.
 - Bitcoin.
 - Gestión de ventas online (Magento).
