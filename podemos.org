@@ -31,10 +31,12 @@ Aplicar tests A/B al comercio presencial:
 - Migración a software libre.
 - Bitcoin.
 - Gestión de ventas online.
-- Programación
+- Programación web.
+- Programación de aplicaciones móviles.
 - Diseño web
 - Diseño 3d
 - Impresión 3d
+- Programación de videojuegos.
 ** Migración a software libre                                  :ciudadanotic:
 - Plan de migración a software libre en los organismos públicos
 ** Política LEAN
@@ -47,3 +49,4 @@ Aplicar tests A/B al comercio presencial:
 - Gestión de grupos de apoyo de profesores voluntarios para alumnos que lo soliciten
 - Solicitud de un taller de superaprendizaje.
 - Coordinación con comunidades profesionales para la implantación de talleres (grupos de meetup, etc.).
+
