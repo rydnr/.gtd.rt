@@ -30,7 +30,7 @@ Aplicar tests A/B al comercio presencial:
 ** Talleres TICs (siempre software libre)                         :formacion:
 - Migración a software libre.
 - Bitcoin.
-- Gestión de ventas online (Magento).
+- Gestión de ventas online.
 - Programación
 - Diseño web
 - Diseño 3d
