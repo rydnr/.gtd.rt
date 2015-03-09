@@ -46,4 +46,4 @@ Aplicar tests A/B al comercio presencial:
 ** Formación
 - Gestión de grupos de apoyo de profesores voluntarios para alumnos que lo soliciten
 - Solicitud de un taller de superaprendizaje.
-- Coordinación con comunidades profesionales para la implantación de talleres (grupos de meetup, domestika, etc.).
+- Coordinación con comunidades profesionales para la implantación de talleres (grupos de meetup, etc.).
