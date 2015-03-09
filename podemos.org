@@ -55,3 +55,4 @@ Aplicar tests A/B al comercio presencial:
 no se adecúe a las expectativas o a las necesidades de los ciudadanos.
 ** Gestión holacrática
 - Eliminación de jerarquías innecesarias en la gestión pública.
+- Aplicación de una organización holacrática: autogestión de grupos de trabajo, toma de decisiones eficiente, respuesta rápida.
