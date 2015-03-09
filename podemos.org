@@ -51,5 +51,5 @@ Aplicar tests A/B al comercio presencial:
 - Solicitud de un taller de superaprendizaje.
 - Coordinación con comunidades profesionales para la implantación de talleres (grupos de meetup, etc.).
 ** Plan de acción LEAN
-- Cada propuesta se pondrá en práctica de acuerdo al método LEAN, con objeton de minimizar el riesgo de que la propuesta
+- Cada propuesta se pondrá en práctica de acuerdo al método LEAN, con objeto de minimizar el riesgo de que la propuesta
 no se adecúe a las expectativas o a las necesidades de los ciudadanos.
