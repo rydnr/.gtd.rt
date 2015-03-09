@@ -42,6 +42,8 @@ Aplicar tests A/B al comercio presencial:
 - Método LEAN
 - Organización holacrática
 - Globalización de proveedores
+- Tests A/B, multivariantes
+- SEO, SEM
 ** Migración a software libre                                  :ciudadanotic:
 - Plan de migración a software libre en los organismos públicos
 ** Participación ciudadana
