@@ -35,3 +35,5 @@ Aplicar tests A/B al comercio presencial:
 - Diseño 3d.
 ** Migración a software libre                                  :ciudadanotic:
 - Plan de migración a software libre en los organismos públicos
+** Política LEAN
+*** Participación ciudadana
