@@ -38,3 +38,10 @@ Aplicar tests A/B al comercio presencial:
 ** Política LEAN
 *** Participación ciudadana
 - Aplicar técnicas de gamification, geocaching
+** Innovación
+- Cesión de local para grupos de meetup
+- Organización de un Maker Faire en colaboración con la comunidad Makespace Madrid
+** Formación
+- Gestión de grupos de apoyo de profesores voluntarios para alumnos que lo soliciten
+- Gestión de un taller de superaprendizaje
+
