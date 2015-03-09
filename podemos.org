@@ -19,4 +19,15 @@ Aplicar tests A/B al comercio presencial:
 ** Diaspora                                                   :participacion:
 - Inversión pública en la infrastructura necesaria ("pod").
 ** Comercios online                                                :comercio:
-- Ayudas financieras y técnicas para la habilitación de la venta por internet
+- Ayudas financieras y técnicas para la habilitación de la venta por internet: granjas de magento, prestashop, etc.
+** Crowdfunding                                                :ciudadanotic:
+- Portal público
+- Impulso
+** Redes                                                       :ciudadanotic:
+- Despliegue de una red social para los vecinos, con elgg.
+- Mejora de la comunicación profesor-padres, médico-paciente, ayuntamiento-contribuyente.
+- Implementación de una aplicación móvil.
+** Migración a software libre                                  :ciudadanotic:
+- Plan de migración a software libre en los organismos públicos
+- Plan de formación para los vecinos.
+** 
