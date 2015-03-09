@@ -39,9 +39,10 @@ Aplicar tests A/B al comercio presencial:
 - Programación de videojuegos.
 ** Migración a software libre                                  :ciudadanotic:
 - Plan de migración a software libre en los organismos públicos
-** Política LEAN
-*** Participación ciudadana
+** Participación ciudadana
 - Aplicar técnicas de gamification, geocaching
+- Podcast (retransmisión) pública de los plenos.
+- Podcast con las reuniones de los grupos de trabajo.
 ** Innovación
 - Cesión gratuita de un local para grupos de meetup
 - Organización de un Maker Faire en colaboración con la comunidad Makespace Madrid
@@ -49,4 +50,4 @@ Aplicar tests A/B al comercio presencial:
 - Gestión de grupos de apoyo de profesores voluntarios para alumnos que lo soliciten
 - Solicitud de un taller de superaprendizaje.
 - Coordinación con comunidades profesionales para la implantación de talleres (grupos de meetup, etc.).
-
+** 
