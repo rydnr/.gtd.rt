@@ -2,6 +2,7 @@
 ** Tests A/B                                                       :comercio:
 Aplicar tests A/B al comercio presencial:
 - Cambiar escaparates cada semana
+- Precios, descuentos
 ** Retargeting                                                     :comercio:
 *** Pedir permiso y con un formulario, y 
 - preguntar qué otros comercios ha visitado en esa compra,
@@ -17,4 +18,5 @@ Aplicar tests A/B al comercio presencial:
 ** Cajero bitcoin                                              :ciudadanotic:
 ** Diaspora                                                   :participacion:
 - Inversión pública en la infrastructura necesaria ("pod").
-** Comercios online
+** Comercios online                                                :comercio:
+- Ayudas financieras y técnicas para la habilitación de la venta por internet
